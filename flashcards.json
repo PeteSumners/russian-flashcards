@@ -1,0 +1,5554 @@
+[
+  {
+    "russian": "быть",
+    "english": "is"
+  },
+  {
+    "russian": "сказа́ть",
+    "english": "say"
+  },
+  {
+    "russian": "мочь",
+    "english": "can"
+  },
+  {
+    "russian": "говори́ть",
+    "english": "talk"
+  },
+  {
+    "russian": "знать",
+    "english": "know"
+  },
+  {
+    "russian": "стать",
+    "english": "become"
+  },
+  {
+    "russian": "есть",
+    "english": "be"
+  },
+  {
+    "russian": "хоте́ть",
+    "english": "want"
+  },
+  {
+    "russian": "ви́деть",
+    "english": "see"
+  },
+  {
+    "russian": "идти́",
+    "english": "go"
+  },
+  {
+    "russian": "стоя́ть",
+    "english": "stand"
+  },
+  {
+    "russian": "ду́мать",
+    "english": "think"
+  },
+  {
+    "russian": "спроси́ть",
+    "english": "ask"
+  },
+  {
+    "russian": "жить",
+    "english": "live"
+  },
+  {
+    "russian": "смотре́ть",
+    "english": "look"
+  },
+  {
+    "russian": "сиде́ть",
+    "english": "sit"
+  },
+  {
+    "russian": "поня́ть",
+    "english": "to understand"
+  },
+  {
+    "russian": "име́ть",
+    "english": "have"
+  },
+  {
+    "russian": "де́лать",
+    "english": "do"
+  },
+  {
+    "russian": "взять",
+    "english": "take"
+  },
+  {
+    "russian": "сде́лать",
+    "english": "do"
+  },
+  {
+    "russian": "понима́ть",
+    "english": "to understand"
+  },
+  {
+    "russian": "каза́ться",
+    "english": "seem"
+  },
+  {
+    "russian": "дава́ть",
+    "english": "give"
+  },
+  {
+    "russian": "пойти́",
+    "english": "go on foot"
+  },
+  {
+    "russian": "уви́деть",
+    "english": "see"
+  },
+  {
+    "russian": "оста́ться",
+    "english": "to stay"
+  },
+  {
+    "russian": "вы́йти",
+    "english": "go out"
+  },
+  {
+    "russian": "дать",
+    "english": "give"
+  },
+  {
+    "russian": "рабо́тать",
+    "english": "to work"
+  },
+  {
+    "russian": "люби́ть",
+    "english": "to love"
+  },
+  {
+    "russian": "оказа́ться",
+    "english": "turn out"
+  },
+  {
+    "russian": "отве́тить",
+    "english": "answer"
+  },
+  {
+    "russian": "поду́мать",
+    "english": "think"
+  },
+  {
+    "russian": "зна́чить",
+    "english": "mean"
+  },
+  {
+    "russian": "посмотре́ть",
+    "english": "look"
+  },
+  {
+    "russian": "ждать",
+    "english": "wait for someone"
+  },
+  {
+    "russian": "лежа́ть",
+    "english": "lie (down)"
+  },
+  {
+    "russian": "найти́",
+    "english": "find"
+  },
+  {
+    "russian": "реши́ть",
+    "english": "decide"
+  },
+  {
+    "russian": "верну́ться",
+    "english": "to return"
+  },
+  {
+    "russian": "счита́ть",
+    "english": "count"
+  },
+  {
+    "russian": "по́мнить",
+    "english": "to remember"
+  },
+  {
+    "russian": "получи́ть",
+    "english": "get"
+  },
+  {
+    "russian": "ходи́ть",
+    "english": "walk (multidirectional)"
+  },
+  {
+    "russian": "быва́ть",
+    "english": "happen to be"
+  },
+  {
+    "russian": "прийти́",
+    "english": "come"
+  },
+  {
+    "russian": "узна́ть",
+    "english": "recognize"
+  },
+  {
+    "russian": "заме́тить",
+    "english": "notice"
+  },
+  {
+    "russian": "уйти́",
+    "english": "withdraw"
+  },
+  {
+    "russian": "слы́шать",
+    "english": "hear"
+  },
+  {
+    "russian": "слу́шать",
+    "english": "listen"
+  },
+  {
+    "russian": "боя́ться",
+    "english": "afraid"
+  },
+  {
+    "russian": "гляде́ть",
+    "english": "look"
+  },
+  {
+    "russian": "сесть",
+    "english": "sit down"
+  },
+  {
+    "russian": "чита́ть",
+    "english": "read"
+  },
+  {
+    "russian": "остава́ться",
+    "english": "to stay"
+  },
+  {
+    "russian": "брать",
+    "english": "take"
+  },
+  {
+    "russian": "написа́ть",
+    "english": "write"
+  },
+  {
+    "russian": "начина́ть",
+    "english": "begin"
+  },
+  {
+    "russian": "чу́вствовать",
+    "english": "feel"
+  },
+  {
+    "russian": "успе́ть",
+    "english": "have time"
+  },
+  {
+    "russian": "продолжа́ть",
+    "english": "to continue"
+  },
+  {
+    "russian": "забы́ть",
+    "english": "forget"
+  },
+  {
+    "russian": "пройти́",
+    "english": "pass by somewhere"
+  },
+  {
+    "russian": "появи́ться",
+    "english": "to appear somewhere"
+  },
+  {
+    "russian": "проси́ть",
+    "english": "request"
+  },
+  {
+    "russian": "пыта́ться",
+    "english": "try to attempt"
+  },
+  {
+    "russian": "показа́ть",
+    "english": "show"
+  },
+  {
+    "russian": "вспо́мнить",
+    "english": "remember"
+  },
+  {
+    "russian": "держа́ть",
+    "english": "hold"
+  },
+  {
+    "russian": "называ́ть",
+    "english": "to name"
+  },
+  {
+    "russian": "уходи́ть",
+    "english": "exit"
+  },
+  {
+    "russian": "подойти́",
+    "english": "to approach"
+  },
+  {
+    "russian": "подня́ть",
+    "english": "raise"
+  },
+  {
+    "russian": "спра́шивать",
+    "english": "ask"
+  },
+  {
+    "russian": "бро́сить",
+    "english": "throw"
+  },
+  {
+    "russian": "посла́ть",
+    "english": "to send something"
+  },
+  {
+    "russian": "находи́ться",
+    "english": "to be located in some place"
+  },
+  {
+    "russian": "поста́вить",
+    "english": "put"
+  },
+  {
+    "russian": "встать",
+    "english": "get up"
+  },
+  {
+    "russian": "игра́ть",
+    "english": "play"
+  },
+  {
+    "russian": "сле́довать",
+    "english": "follow"
+  },
+  {
+    "russian": "рассказа́ть",
+    "english": "tell"
+  },
+  {
+    "russian": "спать",
+    "english": "sleep"
+  },
+  {
+    "russian": "оста́вить",
+    "english": "leave behind"
+  },
+  {
+    "russian": "войти́",
+    "english": "enter in"
+  },
+  {
+    "russian": "молча́ть",
+    "english": "silent"
+  },
+  {
+    "russian": "расска́зывать",
+    "english": "tell"
+  },
+  {
+    "russian": "отвеча́ть",
+    "english": "answer"
+  },
+  {
+    "russian": "станови́ться",
+    "english": "stand"
+  },
+  {
+    "russian": "останови́ться",
+    "english": "to stay somewhere"
+  },
+  {
+    "russian": "иска́ть",
+    "english": "search"
+  },
+  {
+    "russian": "нача́ть",
+    "english": "start"
+  },
+  {
+    "russian": "ве́рить",
+    "english": "believe"
+  },
+  {
+    "russian": "явля́ться",
+    "english": "appear"
+  },
+  {
+    "russian": "смочь",
+    "english": "be able"
+  },
+  {
+    "russian": "бежа́ть",
+    "english": "run (unidirectional)"
+  },
+  {
+    "russian": "прие́хать",
+    "english": "to come"
+  },
+  {
+    "russian": "крича́ть",
+    "english": "to scream"
+  },
+  {
+    "russian": "откры́ть",
+    "english": "open"
+  },
+  {
+    "russian": "происходи́ть",
+    "english": "to take place"
+  },
+  {
+    "russian": "е́хать",
+    "english": "go"
+  },
+  {
+    "russian": "приходи́ть",
+    "english": "come"
+  },
+  {
+    "russian": "подня́ться",
+    "english": "to go up (stairs"
+  },
+  {
+    "russian": "показа́ться",
+    "english": "seem"
+  },
+  {
+    "russian": "собира́ться",
+    "english": "gather"
+  },
+  {
+    "russian": "попа́сть",
+    "english": "to hit someone"
+  },
+  {
+    "russian": "приня́ть",
+    "english": "take"
+  },
+  {
+    "russian": "пое́хать",
+    "english": "go (transportation)"
+  },
+  {
+    "russian": "услы́шать",
+    "english": "listen"
+  },
+  {
+    "russian": "уме́ть",
+    "english": "be able"
+  },
+  {
+    "russian": "случи́ться",
+    "english": "happen"
+  },
+  {
+    "russian": "стара́ться",
+    "english": "try"
+  },
+  {
+    "russian": "звать",
+    "english": "call"
+  },
+  {
+    "russian": "произойти́",
+    "english": "to take place"
+  },
+  {
+    "russian": "занима́ться",
+    "english": "to get involved in"
+  },
+  {
+    "russian": "положи́ть",
+    "english": "lay"
+  },
+  {
+    "russian": "купи́ть",
+    "english": "buy"
+  },
+  {
+    "russian": "умере́ть",
+    "english": "die"
+  },
+  {
+    "russian": "пить",
+    "english": "drink"
+  },
+  {
+    "russian": "проходи́ть",
+    "english": "pass by somewhere"
+  },
+  {
+    "russian": "снять",
+    "english": "take off"
+  },
+  {
+    "russian": "нача́ться",
+    "english": "begin"
+  },
+  {
+    "russian": "представля́ть",
+    "english": "to present"
+  },
+  {
+    "russian": "объясни́ть",
+    "english": "explain"
+  },
+  {
+    "russian": "произнести́",
+    "english": "to prounounce"
+  },
+  {
+    "russian": "нра́виться",
+    "english": "like"
+  },
+  {
+    "russian": "существова́ть",
+    "english": "exist"
+  },
+  {
+    "russian": "уда́ться",
+    "english": "succeed"
+  },
+  {
+    "russian": "прийти́сь",
+    "english": "fit"
+  },
+  {
+    "russian": "предста́вить",
+    "english": "to present"
+  },
+  {
+    "russian": "назва́ть",
+    "english": "to name"
+  },
+  {
+    "russian": "улыба́ться",
+    "english": "smile"
+  },
+  {
+    "russian": "улыбну́ться",
+    "english": "smile"
+  },
+  {
+    "russian": "смея́ться",
+    "english": "laugh"
+  },
+  {
+    "russian": "хвата́ть",
+    "english": "snatch"
+  },
+  {
+    "russian": "почу́вствовать",
+    "english": "feel"
+  },
+  {
+    "russian": "принести́",
+    "english": "carry on foot"
+  },
+  {
+    "russian": "согласи́ться",
+    "english": "agree"
+  },
+  {
+    "russian": "хвати́ть",
+    "english": "suffice"
+  },
+  {
+    "russian": "принима́ть",
+    "english": "accept"
+  },
+  {
+    "russian": "уби́ть",
+    "english": "kill"
+  },
+  {
+    "russian": "предложи́ть",
+    "english": "to suggest"
+  },
+  {
+    "russian": "приходи́ться",
+    "english": "fit"
+  },
+  {
+    "russian": "вы́пить",
+    "english": "drink"
+  },
+  {
+    "russian": "кри́кнуть",
+    "english": "cry"
+  },
+  {
+    "russian": "пока́зывать",
+    "english": "show"
+  },
+  {
+    "russian": "вы́звать",
+    "english": "call"
+  },
+  {
+    "russian": "попроси́ть",
+    "english": "ask"
+  },
+  {
+    "russian": "ока́зываться",
+    "english": "find oneself"
+  },
+  {
+    "russian": "привести́",
+    "english": "to bring"
+  },
+  {
+    "russian": "возвраща́ться",
+    "english": "go back"
+  },
+  {
+    "russian": "тре́бовать",
+    "english": "demand"
+  },
+  {
+    "russian": "потеря́ть",
+    "english": "lose"
+  },
+  {
+    "russian": "доста́ть",
+    "english": "to reach"
+  },
+  {
+    "russian": "сообщи́ть",
+    "english": "report"
+  },
+  {
+    "russian": "появля́ться",
+    "english": "to appear somewhere"
+  },
+  {
+    "russian": "упа́сть",
+    "english": "fall"
+  },
+  {
+    "russian": "получи́ться",
+    "english": "turn out"
+  },
+  {
+    "russian": "провести́",
+    "english": "to take someone somewhere"
+  },
+  {
+    "russian": "прости́ть",
+    "english": "forgive"
+  },
+  {
+    "russian": "бить",
+    "english": "beat"
+  },
+  {
+    "russian": "кивну́ть",
+    "english": "nod"
+  },
+  {
+    "russian": "исче́знуть",
+    "english": "disappear"
+  },
+  {
+    "russian": "отда́ть",
+    "english": "return"
+  },
+  {
+    "russian": "слать",
+    "english": "send"
+  },
+  {
+    "russian": "вспомина́ть",
+    "english": "remember"
+  },
+  {
+    "russian": "вздохну́ть",
+    "english": "breathe"
+  },
+  {
+    "russian": "петь",
+    "english": "sing"
+  },
+  {
+    "russian": "сади́ться",
+    "english": "sit"
+  },
+  {
+    "russian": "переста́ть",
+    "english": "stop"
+  },
+  {
+    "russian": "пожа́ловать",
+    "english": "grant"
+  },
+  {
+    "russian": "получа́ть",
+    "english": "receive"
+  },
+  {
+    "russian": "называ́ться",
+    "english": "(3rd person only)  to be called something"
+  },
+  {
+    "russian": "наде́яться",
+    "english": "to hope for"
+  },
+  {
+    "russian": "протяну́ть",
+    "english": "pass"
+  },
+  {
+    "russian": "подходи́ть",
+    "english": "to approach"
+  },
+  {
+    "russian": "служи́ть",
+    "english": "serve"
+  },
+  {
+    "russian": "пове́рить",
+    "english": "believe"
+  },
+  {
+    "russian": "взгляну́ть",
+    "english": "look"
+  },
+  {
+    "russian": "вызыва́ть",
+    "english": "call"
+  },
+  {
+    "russian": "ожида́ть",
+    "english": "wait"
+  },
+  {
+    "russian": "висе́ть",
+    "english": "hang"
+  },
+  {
+    "russian": "созда́ть",
+    "english": "create"
+  },
+  {
+    "russian": "уе́хать",
+    "english": "leave"
+  },
+  {
+    "russian": "вы́глядеть",
+    "english": "to look \"\"some how\"\" (+adverb or instrumental) -"
+  },
+  {
+    "russian": "учи́ться",
+    "english": "learn"
+  },
+  {
+    "russian": "разгова́ривать",
+    "english": "speak with"
+  },
+  {
+    "russian": "помога́ть",
+    "english": "help"
+  },
+  {
+    "russian": "поверну́ться",
+    "english": "turn (reflexive - turn someone's something)"
+  },
+  {
+    "russian": "позво́лить",
+    "english": "allow"
+  },
+  {
+    "russian": "встре́тить",
+    "english": "meet"
+  },
+  {
+    "russian": "входи́ть",
+    "english": "enter in"
+  },
+  {
+    "russian": "обнару́жить",
+    "english": "discover"
+  },
+  {
+    "russian": "нести́",
+    "english": "carry on foot"
+  },
+  {
+    "russian": "присла́ть",
+    "english": "send"
+  },
+  {
+    "russian": "относи́ться",
+    "english": "treat"
+  },
+  {
+    "russian": "возника́ть",
+    "english": "arise"
+  },
+  {
+    "russian": "повтори́ть",
+    "english": "repeat"
+  },
+  {
+    "russian": "поги́бнуть",
+    "english": "perish"
+  },
+  {
+    "russian": "горе́ть",
+    "english": "burn"
+  },
+  {
+    "russian": "пла́кать",
+    "english": "cry"
+  },
+  {
+    "russian": "дви́гаться",
+    "english": "move"
+  },
+  {
+    "russian": "доба́вить",
+    "english": "add"
+  },
+  {
+    "russian": "удиви́ться",
+    "english": "wonder"
+  },
+  {
+    "russian": "де́йствовать",
+    "english": "operate"
+  },
+  {
+    "russian": "держа́ться",
+    "english": "hold on to"
+  },
+  {
+    "russian": "лете́ть",
+    "english": "fly"
+  },
+  {
+    "russian": "носи́ть",
+    "english": "carry on foot"
+  },
+  {
+    "russian": "привы́кнуть",
+    "english": "to get accustomed to something"
+  },
+  {
+    "russian": "позвони́ть",
+    "english": "to ring (a bell)"
+  },
+  {
+    "russian": "меша́ть",
+    "english": "disturb"
+  },
+  {
+    "russian": "возни́кнуть",
+    "english": "appear"
+  },
+  {
+    "russian": "жела́ть",
+    "english": "wish"
+  },
+  {
+    "russian": "попро́бовать",
+    "english": "to try to do something"
+  },
+  {
+    "russian": "получа́ться",
+    "english": "turn out"
+  },
+  {
+    "russian": "ста́вить",
+    "english": "set up"
+  },
+  {
+    "russian": "проводи́ть",
+    "english": "accompany"
+  },
+  {
+    "russian": "обеща́ть",
+    "english": "promise"
+  },
+  {
+    "russian": "суди́ть",
+    "english": "judge"
+  },
+  {
+    "russian": "собра́ться",
+    "english": "gather"
+  },
+  {
+    "russian": "закрича́ть",
+    "english": "begin to cry out"
+  },
+  {
+    "russian": "ко́нчиться",
+    "english": "to end with (3rd person)"
+  },
+  {
+    "russian": "стреля́ть",
+    "english": "shoot"
+  },
+  {
+    "russian": "испо́льзовать",
+    "english": "use"
+  },
+  {
+    "russian": "переда́ть",
+    "english": "to transfer"
+  },
+  {
+    "russian": "встава́ть",
+    "english": "rise"
+  },
+  {
+    "russian": "снима́ть",
+    "english": "remove"
+  },
+  {
+    "russian": "звони́ть",
+    "english": "to ring (a bell)"
+  },
+  {
+    "russian": "напомина́ть",
+    "english": "remind"
+  },
+  {
+    "russian": "приду́мать",
+    "english": "to think up"
+  },
+  {
+    "russian": "па́дать",
+    "english": "fall"
+  },
+  {
+    "russian": "поговори́ть",
+    "english": "talk"
+  },
+  {
+    "russian": "начина́ться",
+    "english": "start"
+  },
+  {
+    "russian": "приказа́ть",
+    "english": "to tell someone to do something"
+  },
+  {
+    "russian": "засмея́ться",
+    "english": "burst out laughing"
+  },
+  {
+    "russian": "каса́ться",
+    "english": "touch"
+  },
+  {
+    "russian": "приня́ться",
+    "english": "to start doing something"
+  },
+  {
+    "russian": "заста́вить",
+    "english": "to force someone to do something"
+  },
+  {
+    "russian": "поднима́ться",
+    "english": "to go up (stairs"
+  },
+  {
+    "russian": "уда́рить",
+    "english": "bump"
+  },
+  {
+    "russian": "разуме́ться",
+    "english": "understand (mostly used as a parenthesis"
+  },
+  {
+    "russian": "встреча́ться",
+    "english": "meet"
+  },
+  {
+    "russian": "попыта́ться",
+    "english": "try to attempt"
+  },
+  {
+    "russian": "схвати́ть",
+    "english": "catch (also to catch a cold)"
+  },
+  {
+    "russian": "отказа́ться",
+    "english": "refuse"
+  },
+  {
+    "russian": "вы́тащить",
+    "english": "pull out"
+  },
+  {
+    "russian": "предлага́ть",
+    "english": "to suggest"
+  },
+  {
+    "russian": "отпра́виться",
+    "english": "to leave on a trip"
+  },
+  {
+    "russian": "побежа́ть",
+    "english": "start running"
+  },
+  {
+    "russian": "кури́ть",
+    "english": "smoke"
+  },
+  {
+    "russian": "открыва́ть",
+    "english": "open"
+  },
+  {
+    "russian": "зайти́",
+    "english": "to enter some place"
+  },
+  {
+    "russian": "замеча́ть",
+    "english": "notice"
+  },
+  {
+    "russian": "зако́нчить",
+    "english": "finish"
+  },
+  {
+    "russian": "следи́ть",
+    "english": "watch"
+  },
+  {
+    "russian": "бро́ситься",
+    "english": "rush"
+  },
+  {
+    "russian": "закры́ть",
+    "english": "close"
+  },
+  {
+    "russian": "понра́виться",
+    "english": "please"
+  },
+  {
+    "russian": "обрати́ться",
+    "english": "to address someone"
+  },
+  {
+    "russian": "веле́ть",
+    "english": "order"
+  },
+  {
+    "russian": "име́ться",
+    "english": "exist"
+  },
+  {
+    "russian": "опусти́ть",
+    "english": "lower"
+  },
+  {
+    "russian": "роди́ться",
+    "english": "be born"
+  },
+  {
+    "russian": "спасти́",
+    "english": "save"
+  },
+  {
+    "russian": "извини́ть",
+    "english": "excuse"
+  },
+  {
+    "russian": "объяви́ть",
+    "english": "announce"
+  },
+  {
+    "russian": "обраща́ться",
+    "english": "to address someone"
+  },
+  {
+    "russian": "спешить",
+    "english": "hasten"
+  },
+  {
+    "russian": "наблюда́ть",
+    "english": "watch"
+  },
+  {
+    "russian": "суме́ть",
+    "english": "be able to"
+  },
+  {
+    "russian": "оберну́ться",
+    "english": "turn out"
+  },
+  {
+    "russian": "просну́ться",
+    "english": "wake up"
+  },
+  {
+    "russian": "подожда́ть",
+    "english": "wait for someone"
+  },
+  {
+    "russian": "заговори́ть",
+    "english": "to start a talk"
+  },
+  {
+    "russian": "по́льзоваться",
+    "english": "to use (take advantage of something)"
+  },
+  {
+    "russian": "повторя́ть",
+    "english": "repeat"
+  },
+  {
+    "russian": "учи́ть",
+    "english": "teach"
+  },
+  {
+    "russian": "взя́ться",
+    "english": "undertake"
+  },
+  {
+    "russian": "бе́гать",
+    "english": "run"
+  },
+  {
+    "russian": "устро́ить",
+    "english": "arrange"
+  },
+  {
+    "russian": "дыша́ть",
+    "english": "breathe"
+  },
+  {
+    "russian": "лечь",
+    "english": "lie down"
+  },
+  {
+    "russian": "состоя́ть",
+    "english": "consist"
+  },
+  {
+    "russian": "заходи́ть",
+    "english": "to enter some place"
+  },
+  {
+    "russian": "счита́ться",
+    "english": "to be considered"
+  },
+  {
+    "russian": "е́здить",
+    "english": "ride"
+  },
+  {
+    "russian": "останови́ть",
+    "english": "stop"
+  },
+  {
+    "russian": "встре́титься",
+    "english": "meet (3rd person only)"
+  },
+  {
+    "russian": "яви́ться",
+    "english": "to appear"
+  },
+  {
+    "russian": "привезти́",
+    "english": "bring"
+  },
+  {
+    "russian": "плати́ть",
+    "english": "pay"
+  },
+  {
+    "russian": "спасть",
+    "english": "fall down"
+  },
+  {
+    "russian": "здра́вствовать",
+    "english": "be in good health"
+  },
+  {
+    "russian": "позволя́ть",
+    "english": "let"
+  },
+  {
+    "russian": "заяви́ть",
+    "english": "to announce something"
+  },
+  {
+    "russian": "торча́ть",
+    "english": "stick out"
+  },
+  {
+    "russian": "пойма́ть",
+    "english": "catch"
+  },
+  {
+    "russian": "собира́ть",
+    "english": "collect"
+  },
+  {
+    "russian": "находи́ть",
+    "english": "find"
+  },
+  {
+    "russian": "собра́ть",
+    "english": "collect"
+  },
+  {
+    "russian": "наступи́ть",
+    "english": "come"
+  },
+  {
+    "russian": "тяну́ть",
+    "english": "pull"
+  },
+  {
+    "russian": "броса́ть",
+    "english": "throw"
+  },
+  {
+    "russian": "мечта́ть",
+    "english": "dream"
+  },
+  {
+    "russian": "захоте́ть",
+    "english": "wish"
+  },
+  {
+    "russian": "оставля́ть",
+    "english": "leave"
+  },
+  {
+    "russian": "усмехну́ться",
+    "english": "grin"
+  },
+  {
+    "russian": "пропасть",
+    "english": "to get lost"
+  },
+  {
+    "russian": "вы́держать",
+    "english": "stand"
+  },
+  {
+    "russian": "встреча́ть",
+    "english": "meet"
+  },
+  {
+    "russian": "пуска́ть",
+    "english": "to let (permit)"
+  },
+  {
+    "russian": "отпусти́ть",
+    "english": "to release"
+  },
+  {
+    "russian": "воскли́кнуть",
+    "english": "exclaim"
+  },
+  {
+    "russian": "дрожа́ть",
+    "english": "tremble"
+  },
+  {
+    "russian": "вы́брать",
+    "english": "choose"
+  },
+  {
+    "russian": "пожа́ть",
+    "english": "shake (hands)"
+  },
+  {
+    "russian": "разда́ться",
+    "english": "go off"
+  },
+  {
+    "russian": "объясня́ть",
+    "english": "explain"
+  },
+  {
+    "russian": "обрати́ть",
+    "english": "turn something into something"
+  },
+  {
+    "russian": "су́нуть",
+    "english": "shove"
+  },
+  {
+    "russian": "разреши́ть",
+    "english": "solve"
+  },
+  {
+    "russian": "призна́ться",
+    "english": "to confess"
+  },
+  {
+    "russian": "составля́ть",
+    "english": "compose"
+  },
+  {
+    "russian": "вида́ть",
+    "english": "see"
+  },
+  {
+    "russian": "занима́ть",
+    "english": "to occupy something"
+  },
+  {
+    "russian": "теря́ть",
+    "english": "lose"
+  },
+  {
+    "russian": "вскочи́ть",
+    "english": "jump (up)"
+  },
+  {
+    "russian": "прочита́ть",
+    "english": "read"
+  },
+  {
+    "russian": "лезть",
+    "english": "climb (up"
+  },
+  {
+    "russian": "отпра́вить",
+    "english": "send"
+  },
+  {
+    "russian": "постро́ить",
+    "english": "build"
+  },
+  {
+    "russian": "пусти́ть",
+    "english": "to let (permit)"
+  },
+  {
+    "russian": "загляну́ть",
+    "english": "to look in"
+  },
+  {
+    "russian": "проговори́ть",
+    "english": "utter"
+  },
+  {
+    "russian": "прове́рить",
+    "english": "to check"
+  },
+  {
+    "russian": "боле́ть",
+    "english": "ache"
+  },
+  {
+    "russian": "поднима́ть",
+    "english": "lift"
+  },
+  {
+    "russian": "означа́ть",
+    "english": "mean"
+  },
+  {
+    "russian": "говори́ться",
+    "english": "(if used in present"
+  },
+  {
+    "russian": "испы́тывать",
+    "english": "to experience"
+  },
+  {
+    "russian": "жени́ться",
+    "english": "get married"
+  },
+  {
+    "russian": "огляну́ться",
+    "english": "look"
+  },
+  {
+    "russian": "пригласи́ть",
+    "english": "to invite someone somewhere"
+  },
+  {
+    "russian": "принадлежа́ть",
+    "english": "to belong to"
+  },
+  {
+    "russian": "строить",
+    "english": "build"
+  },
+  {
+    "russian": "перейти́",
+    "english": "to walk across something"
+  },
+  {
+    "russian": "повезти́",
+    "english": "transport"
+  },
+  {
+    "russian": "погляде́ть",
+    "english": "have a look at"
+  },
+  {
+    "russian": "поверну́ть",
+    "english": "turn"
+  },
+  {
+    "russian": "добра́ться",
+    "english": "get"
+  },
+  {
+    "russian": "призна́ть",
+    "english": "to admit"
+  },
+  {
+    "russian": "поступи́ть",
+    "english": "to start doing something general (infinitive) somewhere"
+  },
+  {
+    "russian": "торопи́ться",
+    "english": "rush"
+  },
+  {
+    "russian": "вы́нуть",
+    "english": "remove"
+  },
+  {
+    "russian": "сто́ить",
+    "english": "cost"
+  },
+  {
+    "russian": "полага́ть",
+    "english": "believe"
+  },
+  {
+    "russian": "послу́шать",
+    "english": "listen"
+  },
+  {
+    "russian": "отме́тить",
+    "english": "note"
+  },
+  {
+    "russian": "утвержда́ть",
+    "english": "claim"
+  },
+  {
+    "russian": "отлича́ться",
+    "english": "differ"
+  },
+  {
+    "russian": "вы́скочить",
+    "english": "jump out"
+  },
+  {
+    "russian": "приезжа́ть",
+    "english": "to come"
+  },
+  {
+    "russian": "кати́ть",
+    "english": "roll"
+  },
+  {
+    "russian": "расти́",
+    "english": "(of a plant) to grow"
+  },
+  {
+    "russian": "верну́ть",
+    "english": "retrieve"
+  },
+  {
+    "russian": "зави́сеть",
+    "english": "depend"
+  },
+  {
+    "russian": "познако́миться",
+    "english": "become acquainted"
+  },
+  {
+    "russian": "жа́лить",
+    "english": "sting"
+  },
+  {
+    "russian": "найти́сь",
+    "english": "be found"
+  },
+  {
+    "russian": "де́латься",
+    "english": "become"
+  },
+  {
+    "russian": "догада́ться",
+    "english": "guess"
+  },
+  {
+    "russian": "прожи́ть",
+    "english": "live (out)"
+  },
+  {
+    "russian": "гуля́ть",
+    "english": "walk"
+  },
+  {
+    "russian": "разобра́ться",
+    "english": "to look into"
+  },
+  {
+    "russian": "обраща́ть",
+    "english": "turn something into something"
+  },
+  {
+    "russian": "отдава́ть",
+    "english": "give back"
+  },
+  {
+    "russian": "сходи́ть",
+    "english": "descend"
+  },
+  {
+    "russian": "звуча́ть",
+    "english": "sound"
+  },
+  {
+    "russian": "волнова́ться",
+    "english": "worry"
+  },
+  {
+    "russian": "подать",
+    "english": "to give"
+  },
+  {
+    "russian": "гото́вить",
+    "english": "to prepare"
+  },
+  {
+    "russian": "жале́ть",
+    "english": "to regret"
+  },
+  {
+    "russian": "врать",
+    "english": "lie"
+  },
+  {
+    "russian": "возрази́ть",
+    "english": "object"
+  },
+  {
+    "russian": "гото́виться",
+    "english": "prepare for something"
+  },
+  {
+    "russian": "преврати́ться",
+    "english": "to turn"
+  },
+  {
+    "russian": "терпе́ть",
+    "english": "endure"
+  },
+  {
+    "russian": "махну́ть",
+    "english": "to wave"
+  },
+  {
+    "russian": "определи́ть",
+    "english": "determine"
+  },
+  {
+    "russian": "вы́пустить",
+    "english": "release (to let something out)"
+  },
+  {
+    "russian": "выступа́ть",
+    "english": "perform"
+  },
+  {
+    "russian": "рассма́тривать",
+    "english": "to examine"
+  },
+  {
+    "russian": "отойти́",
+    "english": "step aside"
+  },
+  {
+    "russian": "вы́расти",
+    "english": "(of a plant OR a person) to grow (up)"
+  },
+  {
+    "russian": "перевести́",
+    "english": "to translate"
+  },
+  {
+    "russian": "посади́ть",
+    "english": "seat"
+  },
+  {
+    "russian": "ора́ть",
+    "english": "yell"
+  },
+  {
+    "russian": "обойти́сь",
+    "english": "to do without"
+  },
+  {
+    "russian": "вы́дать",
+    "english": "issue"
+  },
+  {
+    "russian": "воева́ть",
+    "english": "fight"
+  },
+  {
+    "russian": "остана́вливаться",
+    "english": "stop"
+  },
+  {
+    "russian": "облада́ть",
+    "english": "have"
+  },
+  {
+    "russian": "прода́ть",
+    "english": "sell"
+  },
+  {
+    "russian": "спо́рить",
+    "english": "argue"
+  },
+  {
+    "russian": "поле́зть",
+    "english": "climb into"
+  },
+  {
+    "russian": "выполня́ть",
+    "english": "to complete"
+  },
+  {
+    "russian": "тре́боваться",
+    "english": "to be needed"
+  },
+  {
+    "russian": "умира́ть",
+    "english": "die"
+  },
+  {
+    "russian": "дойти́",
+    "english": "to go and to reach someplace on foot"
+  },
+  {
+    "russian": "успоко́иться",
+    "english": "calm down"
+  },
+  {
+    "russian": "приближа́ться",
+    "english": "to approach"
+  },
+  {
+    "russian": "лета́ть",
+    "english": "fly"
+  },
+  {
+    "russian": "убива́ть",
+    "english": "kill"
+  },
+  {
+    "russian": "дви́нуться",
+    "english": "advance"
+  },
+  {
+    "russian": "спусти́ться",
+    "english": "descend"
+  },
+  {
+    "russian": "установи́ть",
+    "english": "establish"
+  },
+  {
+    "russian": "забыва́ть",
+    "english": "forget"
+  },
+  {
+    "russian": "позва́ть",
+    "english": "call"
+  },
+  {
+    "russian": "испуга́ться",
+    "english": "to take fright (at)"
+  },
+  {
+    "russian": "съесть",
+    "english": "eat"
+  },
+  {
+    "russian": "проче́сть",
+    "english": "read"
+  },
+  {
+    "russian": "заду́маться",
+    "english": "think (about"
+  },
+  {
+    "russian": "реша́ть",
+    "english": "decide"
+  },
+  {
+    "russian": "подари́ть",
+    "english": "gift"
+  },
+  {
+    "russian": "измени́ться",
+    "english": "change"
+  },
+  {
+    "russian": "приводи́ть",
+    "english": "to bring"
+  },
+  {
+    "russian": "удивля́ться",
+    "english": "wonder (at)"
+  },
+  {
+    "russian": "забра́ть",
+    "english": "collect"
+  },
+  {
+    "russian": "заня́ть",
+    "english": "to occupy something"
+  },
+  {
+    "russian": "доказа́ть",
+    "english": "prove"
+  },
+  {
+    "russian": "вари́ть",
+    "english": "cook"
+  },
+  {
+    "russian": "измени́ть",
+    "english": "change"
+  },
+  {
+    "russian": "лови́ть",
+    "english": "catch"
+  },
+  {
+    "russian": "стреми́ться",
+    "english": "seek"
+  },
+  {
+    "russian": "тяну́ться",
+    "english": "stretch"
+  },
+  {
+    "russian": "заставля́ть",
+    "english": "to force someone to do something"
+  },
+  {
+    "russian": "страда́ть",
+    "english": "suffer"
+  },
+  {
+    "russian": "записа́ть",
+    "english": "to write down something"
+  },
+  {
+    "russian": "интересова́ть",
+    "english": "interest"
+  },
+  {
+    "russian": "включи́ть",
+    "english": "include"
+  },
+  {
+    "russian": "порази́ть",
+    "english": "hit"
+  },
+  {
+    "russian": "помолча́ть",
+    "english": "keep silent"
+  },
+  {
+    "russian": "откры́ться",
+    "english": "open"
+  },
+  {
+    "russian": "напра́вить",
+    "english": "to refer"
+  },
+  {
+    "russian": "запо́мнить",
+    "english": "to memorize"
+  },
+  {
+    "russian": "боро́ться",
+    "english": "fight"
+  },
+  {
+    "russian": "везти́",
+    "english": "carry"
+  },
+  {
+    "russian": "научи́ться",
+    "english": "learn"
+  },
+  {
+    "russian": "назна́чить",
+    "english": "to appoint"
+  },
+  {
+    "russian": "выбира́ть",
+    "english": "choose"
+  },
+  {
+    "russian": "напо́мнить",
+    "english": "remind (of)"
+  },
+  {
+    "russian": "сомнева́ться",
+    "english": "doubt"
+  },
+  {
+    "russian": "ра́доваться",
+    "english": "to rejoice in"
+  },
+  {
+    "russian": "покры́ть",
+    "english": "to cover something"
+  },
+  {
+    "russian": "гля́нуть",
+    "english": "glance"
+  },
+  {
+    "russian": "захвати́ть",
+    "english": "capture"
+  },
+  {
+    "russian": "приноси́ть",
+    "english": "to bring"
+  },
+  {
+    "russian": "соста́вить",
+    "english": "make up"
+  },
+  {
+    "russian": "кости́ть",
+    "english": "abuse?"
+  },
+  {
+    "russian": "покупа́ть",
+    "english": "buy"
+  },
+  {
+    "russian": "стуча́ть",
+    "english": "knock"
+  },
+  {
+    "russian": "меня́ть",
+    "english": "change"
+  },
+  {
+    "russian": "разгля́дывать",
+    "english": "examine"
+  },
+  {
+    "russian": "закури́ть",
+    "english": "start smoking"
+  },
+  {
+    "russian": "уста́ть",
+    "english": "tire"
+  },
+  {
+    "russian": "прикры́ть",
+    "english": "cover"
+  },
+  {
+    "russian": "замолча́ть",
+    "english": "fall silent (imp. замолкать)"
+  },
+  {
+    "russian": "завести́",
+    "english": "to start (engine)"
+  },
+  {
+    "russian": "прибы́ть",
+    "english": "arrive"
+  },
+  {
+    "russian": "подтверди́ть",
+    "english": "confirm"
+  },
+  {
+    "russian": "сойти́",
+    "english": "get off"
+  },
+  {
+    "russian": "поступа́ть",
+    "english": "treat"
+  },
+  {
+    "russian": "вали́ть",
+    "english": "bring down"
+  },
+  {
+    "russian": "надое́сть",
+    "english": "bother"
+  },
+  {
+    "russian": "вы́вести",
+    "english": "take out"
+  },
+  {
+    "russian": "пры́гать",
+    "english": "jump"
+  },
+  {
+    "russian": "создава́ть",
+    "english": "create"
+  },
+  {
+    "russian": "убеди́ться",
+    "english": "make sure of"
+  },
+  {
+    "russian": "ненави́деть",
+    "english": "hate"
+  },
+  {
+    "russian": "исчеза́ть",
+    "english": "disappear"
+  },
+  {
+    "russian": "ощуща́ть",
+    "english": "feel"
+  },
+  {
+    "russian": "тащи́ть",
+    "english": "carry"
+  },
+  {
+    "russian": "скрыва́ть",
+    "english": "hide"
+  },
+  {
+    "russian": "соверши́ть",
+    "english": "commit"
+  },
+  {
+    "russian": "замере́ть",
+    "english": "to freeze"
+  },
+  {
+    "russian": "подава́ть",
+    "english": "to serve something"
+  },
+  {
+    "russian": "произвести́",
+    "english": "to manufacture"
+  },
+  {
+    "russian": "дожда́ться",
+    "english": "to wait for someone"
+  },
+  {
+    "russian": "плыть",
+    "english": "swim somewhere"
+  },
+  {
+    "russian": "вы́полнить",
+    "english": "to complete"
+  },
+  {
+    "russian": "напра́виться",
+    "english": "to head in a direction"
+  },
+  {
+    "russian": "шути́ть",
+    "english": "joke"
+  },
+  {
+    "russian": "случа́ться",
+    "english": "happen"
+  },
+  {
+    "russian": "спря́тать",
+    "english": "hide"
+  },
+  {
+    "russian": "предстоя́ть",
+    "english": "lie ahead"
+  },
+  {
+    "russian": "корми́ть",
+    "english": "feed"
+  },
+  {
+    "russian": "продолжа́ться",
+    "english": "to last"
+  },
+  {
+    "russian": "отдыха́ть",
+    "english": "rest"
+  },
+  {
+    "russian": "сдать",
+    "english": "hand in"
+  },
+  {
+    "russian": "жа́ловаться",
+    "english": "complain"
+  },
+  {
+    "russian": "реши́ться",
+    "english": "decide on"
+  },
+  {
+    "russian": "сде́латься",
+    "english": "become"
+  },
+  {
+    "russian": "наступа́ть",
+    "english": "advance"
+  },
+  {
+    "russian": "скры́ться",
+    "english": "hide"
+  },
+  {
+    "russian": "уезжа́ть",
+    "english": "leave (for)"
+  },
+  {
+    "russian": "заня́ться",
+    "english": "to get involved in"
+  },
+  {
+    "russian": "переходи́ть",
+    "english": "to walk across something"
+  },
+  {
+    "russian": "попадать",
+    "english": "to hit someone"
+  },
+  {
+    "russian": "уважа́ть",
+    "english": "respect"
+  },
+  {
+    "russian": "жени́ть",
+    "english": "marry"
+  },
+  {
+    "russian": "ложи́ться",
+    "english": "lie down"
+  },
+  {
+    "russian": "расположи́ть",
+    "english": "position"
+  },
+  {
+    "russian": "посиде́ть",
+    "english": "sit (for a while)"
+  },
+  {
+    "russian": "нали́ть",
+    "english": "pour"
+  },
+  {
+    "russian": "сообрази́ть",
+    "english": "consider"
+  },
+  {
+    "russian": "удава́ться",
+    "english": "turn out well"
+  },
+  {
+    "russian": "послы́шаться",
+    "english": "be heard"
+  },
+  {
+    "russian": "указа́ть",
+    "english": "specify"
+  },
+  {
+    "russian": "повести",
+    "english": "move"
+  },
+  {
+    "russian": "подхвати́ть",
+    "english": "pick up"
+  },
+  {
+    "russian": "устра́ивать",
+    "english": "arrange"
+  },
+  {
+    "russian": "уча́ствовать",
+    "english": "participate"
+  },
+  {
+    "russian": "сохрани́ть",
+    "english": "save"
+  },
+  {
+    "russian": "закрыва́ть",
+    "english": "close"
+  },
+  {
+    "russian": "пона́добиться",
+    "english": "need"
+  },
+  {
+    "russian": "покача́ть",
+    "english": "shake"
+  },
+  {
+    "russian": "вы́ясниться",
+    "english": "turn out"
+  },
+  {
+    "russian": "уничто́жить",
+    "english": "destroy"
+  },
+  {
+    "russian": "отвести́",
+    "english": "lead"
+  },
+  {
+    "russian": "броди́ть",
+    "english": "roam"
+  },
+  {
+    "russian": "валя́ться",
+    "english": "lie"
+  },
+  {
+    "russian": "произноси́ть",
+    "english": "to prounounce"
+  },
+  {
+    "russian": "предупреди́ть",
+    "english": "to warn"
+  },
+  {
+    "russian": "доби́ться",
+    "english": "achieve"
+  },
+  {
+    "russian": "убра́ть",
+    "english": "remove"
+  },
+  {
+    "russian": "подде́рживать",
+    "english": "to support"
+  },
+  {
+    "russian": "продава́ть",
+    "english": "sell"
+  },
+  {
+    "russian": "пове́сить",
+    "english": "hang"
+  },
+  {
+    "russian": "огля́дываться",
+    "english": "look back"
+  },
+  {
+    "russian": "сыгра́ть",
+    "english": "play"
+  },
+  {
+    "russian": "усла́ть",
+    "english": "send away"
+  },
+  {
+    "russian": "маха́ть",
+    "english": "to wave"
+  },
+  {
+    "russian": "предполага́ть",
+    "english": "assume"
+  },
+  {
+    "russian": "рассчи́тывать",
+    "english": "expect"
+  },
+  {
+    "russian": "запрети́ть",
+    "english": "to forbid"
+  },
+  {
+    "russian": "сообща́ть",
+    "english": "report"
+  },
+  {
+    "russian": "переби́ть",
+    "english": "interrupt"
+  },
+  {
+    "russian": "оби́деться",
+    "english": "take offence"
+  },
+  {
+    "russian": "вы́нести",
+    "english": "bear"
+  },
+  {
+    "russian": "погля́дывать",
+    "english": "keep an eye on"
+  },
+  {
+    "russian": "отозва́ться",
+    "english": "respond"
+  },
+  {
+    "russian": "обра́доваться",
+    "english": "to rejoice in"
+  },
+  {
+    "russian": "попа́сться",
+    "english": "to get caught"
+  },
+  {
+    "russian": "пробормота́ть",
+    "english": "mutter"
+  },
+  {
+    "russian": "поки́нуть",
+    "english": "leave"
+  },
+  {
+    "russian": "ко́нчить",
+    "english": "to finish"
+  },
+  {
+    "russian": "применя́ть",
+    "english": "apply"
+  },
+  {
+    "russian": "доложи́ть",
+    "english": "report"
+  },
+  {
+    "russian": "меня́ться",
+    "english": "to exchange"
+  },
+  {
+    "russian": "гнать",
+    "english": "drive"
+  },
+  {
+    "russian": "вы́яснить",
+    "english": "find out"
+  },
+  {
+    "russian": "дра́ться",
+    "english": "fight"
+  },
+  {
+    "russian": "захоте́ться",
+    "english": "wish (impersonal only)"
+  },
+  {
+    "russian": "производи́ть",
+    "english": "to manufacture"
+  },
+  {
+    "russian": "засну́ть",
+    "english": "go to sleep"
+  },
+  {
+    "russian": "сверну́ть",
+    "english": "turn"
+  },
+  {
+    "russian": "подозрева́ть",
+    "english": "suspect"
+  },
+  {
+    "russian": "спуска́ться",
+    "english": "descend"
+  },
+  {
+    "russian": "договори́ться",
+    "english": "to reach an agreement"
+  },
+  {
+    "russian": "проверя́ть",
+    "english": "to test"
+  },
+  {
+    "russian": "присе́сть",
+    "english": "take a seat"
+  },
+  {
+    "russian": "пропусти́ть",
+    "english": "to miss something"
+  },
+  {
+    "russian": "распахну́ть",
+    "english": "throw open"
+  },
+  {
+    "russian": "ползти́",
+    "english": "creep"
+  },
+  {
+    "russian": "вы́браться",
+    "english": "get out"
+  },
+  {
+    "russian": "погоди́ть",
+    "english": "wait a little"
+  },
+  {
+    "russian": "опусти́ться",
+    "english": "descend"
+  },
+  {
+    "russian": "прекрати́ть",
+    "english": "stop"
+  },
+  {
+    "russian": "спра́виться",
+    "english": "deal with"
+  },
+  {
+    "russian": "прислу́шиваться",
+    "english": "listen"
+  },
+  {
+    "russian": "постара́ться",
+    "english": "try"
+  },
+  {
+    "russian": "изуча́ть",
+    "english": "study"
+  },
+  {
+    "russian": "пили́ть",
+    "english": "saw"
+  },
+  {
+    "russian": "подписа́ть",
+    "english": "sign"
+  },
+  {
+    "russian": "посыла́ть",
+    "english": "to send something"
+  },
+  {
+    "russian": "танцева́ть",
+    "english": "dance"
+  },
+  {
+    "russian": "подобра́ть",
+    "english": "pick up"
+  },
+  {
+    "russian": "освети́ть",
+    "english": "to illuminate something"
+  },
+  {
+    "russian": "приобрести́",
+    "english": "purchase"
+  },
+  {
+    "russian": "поинтересова́ться",
+    "english": "ask"
+  },
+  {
+    "russian": "заора́ть",
+    "english": "start shouting"
+  },
+  {
+    "russian": "тро́гать",
+    "english": "touch"
+  },
+  {
+    "russian": "задержа́ть",
+    "english": "delay"
+  },
+  {
+    "russian": "потре́бовать",
+    "english": "demand"
+  },
+  {
+    "russian": "блесте́ть",
+    "english": "shine"
+  },
+  {
+    "russian": "усе́сться",
+    "english": "perch"
+  },
+  {
+    "russian": "сия́ть",
+    "english": "shine"
+  },
+  {
+    "russian": "вы́рваться",
+    "english": "break out"
+  },
+  {
+    "russian": "отверну́ться",
+    "english": "turn away"
+  },
+  {
+    "russian": "зако́нчиться",
+    "english": "to end"
+  },
+  {
+    "russian": "бормота́ть",
+    "english": "mumble"
+  },
+  {
+    "russian": "состоя́ться",
+    "english": "take place"
+  },
+  {
+    "russian": "попра́вить",
+    "english": "to correct"
+  },
+  {
+    "russian": "ощути́ть",
+    "english": "experience"
+  },
+  {
+    "russian": "беспоко́иться",
+    "english": "worry"
+  },
+  {
+    "russian": "задава́ть",
+    "english": "ask someone a question"
+  },
+  {
+    "russian": "выдава́ть",
+    "english": "issue officially"
+  },
+  {
+    "russian": "полете́ть",
+    "english": "fly"
+  },
+  {
+    "russian": "отдохну́ть",
+    "english": "rest"
+  },
+  {
+    "russian": "отка́зываться",
+    "english": "refuse"
+  },
+  {
+    "russian": "поясни́ть",
+    "english": "explain"
+  },
+  {
+    "russian": "проща́ть",
+    "english": "forgive"
+  },
+  {
+    "russian": "шуме́ть",
+    "english": "make a noise"
+  },
+  {
+    "russian": "доноси́ться",
+    "english": "be heard"
+  },
+  {
+    "russian": "описа́ть",
+    "english": "describe"
+  },
+  {
+    "russian": "шага́ть",
+    "english": "step"
+  },
+  {
+    "russian": "победи́ть",
+    "english": "to beat"
+  },
+  {
+    "russian": "пла́вать",
+    "english": "swim"
+  },
+  {
+    "russian": "разобра́ть",
+    "english": "to take something apart"
+  },
+  {
+    "russian": "потяну́ться",
+    "english": "stretch"
+  },
+  {
+    "russian": "предположи́ть",
+    "english": "suppose"
+  },
+  {
+    "russian": "доста́вить",
+    "english": "deliver"
+  },
+  {
+    "russian": "ошиби́ться",
+    "english": "to make a mistake"
+  },
+  {
+    "russian": "разбуди́ть",
+    "english": "wake"
+  },
+  {
+    "russian": "пря́тать",
+    "english": "hide"
+  },
+  {
+    "russian": "води́ть",
+    "english": "conduct"
+  },
+  {
+    "russian": "про́бовать",
+    "english": "to try to do something"
+  },
+  {
+    "russian": "заплати́ть",
+    "english": "pay"
+  },
+  {
+    "russian": "обня́ть",
+    "english": "hug"
+  },
+  {
+    "russian": "загля́дывать",
+    "english": "to look in"
+  },
+  {
+    "russian": "вы́бросить",
+    "english": "throw out"
+  },
+  {
+    "russian": "устро́иться",
+    "english": "get settled"
+  },
+  {
+    "russian": "оцени́ть",
+    "english": "estimate"
+  },
+  {
+    "russian": "хло́пнуть",
+    "english": "flap"
+  },
+  {
+    "russian": "роди́ть",
+    "english": "give birth"
+  },
+  {
+    "russian": "уста́виться",
+    "english": "stare"
+  },
+  {
+    "russian": "слы́шаться",
+    "english": "be heard"
+  },
+  {
+    "russian": "представля́ться",
+    "english": "seem"
+  },
+  {
+    "russian": "обеспе́чить",
+    "english": "provide"
+  },
+  {
+    "russian": "би́ться",
+    "english": "beat"
+  },
+  {
+    "russian": "дости́гнуть",
+    "english": "reach"
+  },
+  {
+    "russian": "выпуска́ть",
+    "english": "release (to let something out)"
+  },
+  {
+    "russian": "пригото́вить",
+    "english": "cook"
+  },
+  {
+    "russian": "развива́ться",
+    "english": "to develop (one"
+  },
+  {
+    "russian": "пожале́ть",
+    "english": "to regret"
+  },
+  {
+    "russian": "обойти́",
+    "english": "to walk around something"
+  },
+  {
+    "russian": "оторва́ть",
+    "english": "tear"
+  },
+  {
+    "russian": "заключа́ться",
+    "english": "lie in"
+  },
+  {
+    "russian": "организова́ть",
+    "english": "organize"
+  },
+  {
+    "russian": "приглаша́ть",
+    "english": "to invite someone somewhere"
+  },
+  {
+    "russian": "поддержа́ть",
+    "english": "to support"
+  },
+  {
+    "russian": "сбить",
+    "english": "knock down"
+  },
+  {
+    "russian": "зарабо́тать",
+    "english": "to earn"
+  },
+  {
+    "russian": "течь",
+    "english": "flow"
+  },
+  {
+    "russian": "после́довать",
+    "english": "follow"
+  },
+  {
+    "russian": "полага́ться",
+    "english": "rely"
+  },
+  {
+    "russian": "достава́ть",
+    "english": "to reach"
+  },
+  {
+    "russian": "продо́лжить",
+    "english": "to continue"
+  },
+  {
+    "russian": "ука́зывать",
+    "english": "indicate"
+  },
+  {
+    "russian": "сложи́ться",
+    "english": "to fold"
+  },
+  {
+    "russian": "набра́ть",
+    "english": "to pick something somewhere"
+  },
+  {
+    "russian": "предпочита́ть",
+    "english": "to prefer someone"
+  },
+  {
+    "russian": "научи́ть",
+    "english": "teach"
+  },
+  {
+    "russian": "интересова́ться",
+    "english": "be interested in"
+  },
+  {
+    "russian": "расстреля́ть",
+    "english": "shoot down"
+  },
+  {
+    "russian": "побыва́ть",
+    "english": "visit"
+  },
+  {
+    "russian": "запла́кать",
+    "english": "begin to cry"
+  },
+  {
+    "russian": "окружи́ть",
+    "english": "surround"
+  },
+  {
+    "russian": "раскры́ть",
+    "english": "open"
+  },
+  {
+    "russian": "развести́",
+    "english": "to mix"
+  },
+  {
+    "russian": "пережива́ть",
+    "english": "worry (about someone)"
+  },
+  {
+    "russian": "укра́сть",
+    "english": "steal"
+  },
+  {
+    "russian": "слыха́ть",
+    "english": "hear anything (informal)"
+  },
+  {
+    "russian": "успева́ть",
+    "english": "have time to do smth."
+  },
+  {
+    "russian": "пережи́ть",
+    "english": "survive"
+  },
+  {
+    "russian": "возража́ть",
+    "english": "object"
+  },
+  {
+    "russian": "потяну́ть",
+    "english": "pull"
+  },
+  {
+    "russian": "сорва́ть",
+    "english": "tear off"
+  },
+  {
+    "russian": "усну́ть",
+    "english": "fall asleep"
+  },
+  {
+    "russian": "сопровожда́ть",
+    "english": "accompany"
+  },
+  {
+    "russian": "открыва́ться",
+    "english": "open"
+  },
+  {
+    "russian": "подгото́вить",
+    "english": "prepare"
+  },
+  {
+    "russian": "защища́ть",
+    "english": "protect"
+  },
+  {
+    "russian": "лома́ть",
+    "english": "to destroy"
+  },
+  {
+    "russian": "вступи́ть",
+    "english": "enter"
+  },
+  {
+    "russian": "вы́ставить",
+    "english": "exhibit"
+  },
+  {
+    "russian": "прижа́ть",
+    "english": "press"
+  },
+  {
+    "russian": "передава́ть",
+    "english": "to transfer"
+  },
+  {
+    "russian": "дога́дываться",
+    "english": "guess"
+  },
+  {
+    "russian": "вы́ступить",
+    "english": "step forth"
+  },
+  {
+    "russian": "отрезать",
+    "english": "cut (off)"
+  },
+  {
+    "russian": "хохота́ть",
+    "english": "laugh (loud)"
+  },
+  {
+    "russian": "разгляде́ть",
+    "english": "discern"
+  },
+  {
+    "russian": "разбира́ться",
+    "english": "to be a good judge of something"
+  },
+  {
+    "russian": "воспо́льзоваться",
+    "english": "take advantage of"
+  },
+  {
+    "russian": "доста́ться",
+    "english": "fall to one's share"
+  },
+  {
+    "russian": "броса́ться",
+    "english": "rush"
+  },
+  {
+    "russian": "исключи́ть",
+    "english": "to exclude"
+  },
+  {
+    "russian": "провожа́ть",
+    "english": "see off"
+  },
+  {
+    "russian": "прошепта́ть",
+    "english": "whisper"
+  },
+  {
+    "russian": "осмотре́ть",
+    "english": "examine"
+  },
+  {
+    "russian": "вздро́гнуть",
+    "english": "wince"
+  },
+  {
+    "russian": "посвяти́ть",
+    "english": "to devote"
+  },
+  {
+    "russian": "перенести́",
+    "english": "to carry"
+  },
+  {
+    "russian": "прерва́ть",
+    "english": "interrupt"
+  },
+  {
+    "russian": "освободи́ть",
+    "english": "to liberate something"
+  },
+  {
+    "russian": "уче́сть",
+    "english": "take into account"
+  },
+  {
+    "russian": "походи́ть",
+    "english": "resemble"
+  },
+  {
+    "russian": "подвести́",
+    "english": "let down"
+  },
+  {
+    "russian": "рва́ться",
+    "english": "break"
+  },
+  {
+    "russian": "дожида́ться",
+    "english": "to wait for someone"
+  },
+  {
+    "russian": "кива́ть",
+    "english": "nod"
+  },
+  {
+    "russian": "сбежа́ть",
+    "english": "run down"
+  },
+  {
+    "russian": "ввести́",
+    "english": "introduce"
+  },
+  {
+    "russian": "определя́ть",
+    "english": "determine"
+  },
+  {
+    "russian": "допусти́ть",
+    "english": "admit"
+  },
+  {
+    "russian": "сбро́сить",
+    "english": "reset"
+  },
+  {
+    "russian": "полюби́ть",
+    "english": "fall in love"
+  },
+  {
+    "russian": "содержа́ть",
+    "english": "contain"
+  },
+  {
+    "russian": "превраща́ться",
+    "english": "to turn"
+  },
+  {
+    "russian": "поцелова́ть",
+    "english": "kiss"
+  },
+  {
+    "russian": "арестова́ть",
+    "english": "arrest"
+  },
+  {
+    "russian": "огляде́ть",
+    "english": "look over"
+  },
+  {
+    "russian": "рвать",
+    "english": "to pick (flowers"
+  },
+  {
+    "russian": "шевели́ться",
+    "english": "move"
+  },
+  {
+    "russian": "ру́хнуть",
+    "english": "collapse"
+  },
+  {
+    "russian": "конча́ться",
+    "english": "to end with (3rd person)"
+  },
+  {
+    "russian": "успоко́ить",
+    "english": "calm down"
+  },
+  {
+    "russian": "рассужда́ть",
+    "english": "reason"
+  },
+  {
+    "russian": "постуча́ть",
+    "english": "knock"
+  },
+  {
+    "russian": "дока́зывать",
+    "english": "prove"
+  },
+  {
+    "russian": "вы́тянуть",
+    "english": "pull out"
+  },
+  {
+    "russian": "сложи́ть",
+    "english": "fold"
+  },
+  {
+    "russian": "ра́нить",
+    "english": "wound"
+  },
+  {
+    "russian": "засыпать",
+    "english": "fall asleep"
+  },
+  {
+    "russian": "доходи́ть",
+    "english": "walk as far as"
+  },
+  {
+    "russian": "кома́ндовать",
+    "english": "command"
+  },
+  {
+    "russian": "слома́ть",
+    "english": "to destroy"
+  },
+  {
+    "russian": "сорва́ться",
+    "english": "dart off"
+  },
+  {
+    "russian": "разверну́ть",
+    "english": "unfold"
+  },
+  {
+    "russian": "грози́ть",
+    "english": "threaten"
+  },
+  {
+    "russian": "обману́ть",
+    "english": "cheat"
+  },
+  {
+    "russian": "посове́товать",
+    "english": "advise"
+  },
+  {
+    "russian": "разойти́сь",
+    "english": "break up"
+  },
+  {
+    "russian": "убежа́ть",
+    "english": "escape"
+  },
+  {
+    "russian": "сохрани́ться",
+    "english": "remain intact"
+  },
+  {
+    "russian": "помеша́ть",
+    "english": "prevent"
+  },
+  {
+    "russian": "рассмея́ться",
+    "english": "burst out laughing"
+  },
+  {
+    "russian": "свети́ться",
+    "english": "glow"
+  },
+  {
+    "russian": "вспы́хнуть",
+    "english": "flush"
+  },
+  {
+    "russian": "целова́ть",
+    "english": "kiss"
+  },
+  {
+    "russian": "нажа́ть",
+    "english": "Press"
+  },
+  {
+    "russian": "заказа́ть",
+    "english": "to order"
+  },
+  {
+    "russian": "соотве́тствовать",
+    "english": "match"
+  },
+  {
+    "russian": "реша́ться",
+    "english": "be decided"
+  },
+  {
+    "russian": "болта́ть",
+    "english": "chat"
+  },
+  {
+    "russian": "нести́сь",
+    "english": "rush"
+  },
+  {
+    "russian": "владе́ть",
+    "english": "own"
+  },
+  {
+    "russian": "замени́ть",
+    "english": "to substitute something with something else"
+  },
+  {
+    "russian": "конча́ть",
+    "english": "to finish"
+  },
+  {
+    "russian": "сообража́ть",
+    "english": "think"
+  },
+  {
+    "russian": "соглаша́ться",
+    "english": "agree"
+  },
+  {
+    "russian": "пря́таться",
+    "english": "to hide oneself from something"
+  },
+  {
+    "russian": "попада́ться",
+    "english": "to come across somewhere"
+  },
+  {
+    "russian": "изобража́ть",
+    "english": "depict"
+  },
+  {
+    "russian": "выража́ть",
+    "english": "express"
+  },
+  {
+    "russian": "образова́ться",
+    "english": "form"
+  },
+  {
+    "russian": "спосо́бствовать",
+    "english": "contribute"
+  },
+  {
+    "russian": "заложи́ть",
+    "english": "establish"
+  },
+  {
+    "russian": "исходи́ть",
+    "english": "proceed"
+  },
+  {
+    "russian": "око́нчить",
+    "english": "finish"
+  },
+  {
+    "russian": "вы́лезть",
+    "english": "climb"
+  },
+  {
+    "russian": "вы́пасть",
+    "english": "fall (out)"
+  },
+  {
+    "russian": "обсужда́ть",
+    "english": "discuss"
+  },
+  {
+    "russian": "очну́ться",
+    "english": "wake"
+  },
+  {
+    "russian": "рискова́ть",
+    "english": "risk"
+  },
+  {
+    "russian": "горди́ться",
+    "english": "be proud"
+  },
+  {
+    "russian": "вы́разить",
+    "english": "express"
+  },
+  {
+    "russian": "минова́ть",
+    "english": "pass (by)"
+  },
+  {
+    "russian": "спаса́ть",
+    "english": "save"
+  },
+  {
+    "russian": "отходи́ть",
+    "english": "to depart"
+  },
+  {
+    "russian": "запере́ть",
+    "english": "to lock something"
+  },
+  {
+    "russian": "предупрежда́ть",
+    "english": "to warn"
+  },
+  {
+    "russian": "отыска́ть",
+    "english": "to find"
+  },
+  {
+    "russian": "обора́чиваться",
+    "english": "turn round"
+  },
+  {
+    "russian": "охвати́ть",
+    "english": "cover"
+  },
+  {
+    "russian": "благодари́ть",
+    "english": "thank"
+  },
+  {
+    "russian": "вздыха́ть",
+    "english": "sigh"
+  },
+  {
+    "russian": "рисова́ть",
+    "english": "draw"
+  },
+  {
+    "russian": "бесе́довать",
+    "english": "talk"
+  },
+  {
+    "russian": "наде́ть",
+    "english": "put on"
+  },
+  {
+    "russian": "заключи́ть",
+    "english": "conclude"
+  },
+  {
+    "russian": "гуде́ть",
+    "english": "buzz"
+  },
+  {
+    "russian": "угада́ть",
+    "english": "guess"
+  },
+  {
+    "russian": "ки́нуться",
+    "english": "throw oneself"
+  },
+  {
+    "russian": "испыта́ть",
+    "english": "test"
+  },
+  {
+    "russian": "покрасне́ть",
+    "english": "turn red"
+  },
+  {
+    "russian": "вози́ться",
+    "english": "to be busy with"
+  },
+  {
+    "russian": "храни́ть",
+    "english": "store"
+  },
+  {
+    "russian": "смени́ть",
+    "english": "replace"
+  },
+  {
+    "russian": "приподня́ть",
+    "english": "lift"
+  },
+  {
+    "russian": "шагну́ть",
+    "english": "step"
+  },
+  {
+    "russian": "бра́ться",
+    "english": "undertake"
+  },
+  {
+    "russian": "заду́мываться",
+    "english": "begin to think"
+  },
+  {
+    "russian": "отсу́тствовать",
+    "english": "be absent"
+  },
+  {
+    "russian": "догна́ть",
+    "english": "catch up with someone"
+  },
+  {
+    "russian": "ночева́ть",
+    "english": "spend the night"
+  },
+  {
+    "russian": "вы́ехать",
+    "english": "leave"
+  },
+  {
+    "russian": "жева́ть",
+    "english": "chew"
+  },
+  {
+    "russian": "пропадать",
+    "english": "to get lost"
+  },
+  {
+    "russian": "просыпаться",
+    "english": "wake up"
+  },
+  {
+    "russian": "ре́зать",
+    "english": "cut"
+  },
+  {
+    "russian": "тро́нуть",
+    "english": "touch"
+  },
+  {
+    "russian": "видне́ться",
+    "english": "be seen"
+  },
+  {
+    "russian": "сове́товать",
+    "english": "advise"
+  },
+  {
+    "russian": "свали́ться",
+    "english": "fall down"
+  },
+  {
+    "russian": "прояви́ть",
+    "english": "show"
+  },
+  {
+    "russian": "сметь",
+    "english": "dare"
+  },
+  {
+    "russian": "поде́лать",
+    "english": "help"
+  },
+  {
+    "russian": "толкну́ть",
+    "english": "bump"
+  },
+  {
+    "russian": "лечи́ть",
+    "english": "treat (medically)"
+  },
+  {
+    "russian": "руга́ться",
+    "english": "swear"
+  },
+  {
+    "russian": "уложи́ть",
+    "english": "lay"
+  },
+  {
+    "russian": "зави́довать",
+    "english": "envy"
+  },
+  {
+    "russian": "хло́пать",
+    "english": "clap"
+  },
+  {
+    "russian": "вы́тереть",
+    "english": "to dry"
+  },
+  {
+    "russian": "заслужи́ть",
+    "english": "to merit"
+  },
+  {
+    "russian": "довести́",
+    "english": "bring"
+  },
+  {
+    "russian": "трясти́сь",
+    "english": "shake"
+  },
+  {
+    "russian": "прису́тствовать",
+    "english": "to be present at some place"
+  },
+  {
+    "russian": "вы́рвать",
+    "english": "wrest"
+  },
+  {
+    "russian": "мелькну́ть",
+    "english": "to flash"
+  },
+  {
+    "russian": "наклони́ться",
+    "english": "bend"
+  },
+  {
+    "russian": "стесня́ться",
+    "english": "hesitate"
+  },
+  {
+    "russian": "преврати́ть",
+    "english": "to turn"
+  },
+  {
+    "russian": "обижа́ться",
+    "english": "resent"
+  },
+  {
+    "russian": "накры́ть",
+    "english": "cover"
+  },
+  {
+    "russian": "таска́ть",
+    "english": "drag"
+  },
+  {
+    "russian": "вста́вить",
+    "english": "insert"
+  },
+  {
+    "russian": "засты́ть",
+    "english": "freeze"
+  },
+  {
+    "russian": "зали́ть",
+    "english": "pour (over)"
+  },
+  {
+    "russian": "мча́ться",
+    "english": "to hurry"
+  },
+  {
+    "russian": "сжечь",
+    "english": "burn (down)"
+  },
+  {
+    "russian": "опаса́ться",
+    "english": "fear"
+  },
+  {
+    "russian": "удержа́ться",
+    "english": "hold out"
+  },
+  {
+    "russian": "подосла́ть",
+    "english": "send (secretly"
+  },
+  {
+    "russian": "пообеща́ть",
+    "english": "promise"
+  },
+  {
+    "russian": "заболе́ть",
+    "english": "to fall ill"
+  },
+  {
+    "russian": "потрясти́",
+    "english": "shake"
+  },
+  {
+    "russian": "повора́чиваться",
+    "english": "turn (reflexive - turn someone's something)"
+  },
+  {
+    "russian": "запи́сывать",
+    "english": "to write down something"
+  },
+  {
+    "russian": "щёлкнуть",
+    "english": "click"
+  },
+  {
+    "russian": "напо́лнить",
+    "english": "fill up"
+  },
+  {
+    "russian": "прое́хать",
+    "english": "drive through"
+  },
+  {
+    "russian": "отобра́ть",
+    "english": "take away"
+  },
+  {
+    "russian": "разру́шить",
+    "english": "destroy"
+  },
+  {
+    "russian": "вы́слушать",
+    "english": "hear out"
+  },
+  {
+    "russian": "пры́гнуть",
+    "english": "jump"
+  },
+  {
+    "russian": "доверя́ть",
+    "english": "trust"
+  },
+  {
+    "russian": "нару́шить",
+    "english": "to interrupt or disturb something"
+  },
+  {
+    "russian": "сдава́ть",
+    "english": "pass (exams)"
+  },
+  {
+    "russian": "тра́тить",
+    "english": "spend"
+  },
+  {
+    "russian": "соверша́ть",
+    "english": "perform"
+  },
+  {
+    "russian": "нарисова́ть",
+    "english": "draw"
+  },
+  {
+    "russian": "сни́ться",
+    "english": "dream"
+  },
+  {
+    "russian": "попали́ть",
+    "english": "consumed"
+  },
+  {
+    "russian": "перестава́ть",
+    "english": "cease"
+  },
+  {
+    "russian": "понести́",
+    "english": "suffer (losses)"
+  },
+  {
+    "russian": "нужда́ться",
+    "english": "need"
+  },
+  {
+    "russian": "вы́пилить",
+    "english": "saw out"
+  },
+  {
+    "russian": "серди́ться",
+    "english": "be angry"
+  },
+  {
+    "russian": "соедини́ть",
+    "english": "join"
+  },
+  {
+    "russian": "ошиба́ться",
+    "english": "to err"
+  },
+  {
+    "russian": "зада́ть",
+    "english": "ask (a question)"
+  },
+  {
+    "russian": "наблюда́ться",
+    "english": "be observed"
+  },
+  {
+    "russian": "растеря́ться",
+    "english": "become confused"
+  },
+  {
+    "russian": "промолча́ть",
+    "english": "keep silent"
+  },
+  {
+    "russian": "выража́ться",
+    "english": "show"
+  },
+  {
+    "russian": "вы́играть",
+    "english": "win"
+  },
+  {
+    "russian": "удиви́ть",
+    "english": "surprise"
+  },
+  {
+    "russian": "включа́ть",
+    "english": "include"
+  },
+  {
+    "russian": "кля́сться",
+    "english": "swear"
+  },
+  {
+    "russian": "пожела́ть",
+    "english": "wish"
+  },
+  {
+    "russian": "принима́ться",
+    "english": "to start doing something"
+  },
+  {
+    "russian": "приложи́ть",
+    "english": "apply"
+  },
+  {
+    "russian": "ки́нуть",
+    "english": "throw"
+  },
+  {
+    "russian": "жрать",
+    "english": "fress"
+  },
+  {
+    "russian": "оторва́ться",
+    "english": "come off (ie. a button)"
+  },
+  {
+    "russian": "пуга́ть",
+    "english": "to fighten"
+  },
+  {
+    "russian": "сверка́ть",
+    "english": "sparkle"
+  },
+  {
+    "russian": "пое́сть",
+    "english": "eat"
+  },
+  {
+    "russian": "отправля́ться",
+    "english": "to leave on a trip"
+  },
+  {
+    "russian": "изобрази́ть",
+    "english": "picture"
+  },
+  {
+    "russian": "вы́сказать",
+    "english": "express"
+  },
+  {
+    "russian": "спали́ть",
+    "english": "burn down"
+  },
+  {
+    "russian": "шепта́ть",
+    "english": "whisper"
+  },
+  {
+    "russian": "испо́ртить",
+    "english": "to screw up"
+  },
+  {
+    "russian": "му́чить",
+    "english": "torture"
+  },
+  {
+    "russian": "надева́ть",
+    "english": "put on"
+  },
+  {
+    "russian": "вы́лететь",
+    "english": "fly (take off)"
+  },
+  {
+    "russian": "ви́деться",
+    "english": "see (each other)"
+  },
+  {
+    "russian": "охраня́ть",
+    "english": "guard"
+  },
+  {
+    "russian": "скрыва́ться",
+    "english": "hide"
+  },
+  {
+    "russian": "влезть",
+    "english": "climb in"
+  },
+  {
+    "russian": "трясти́",
+    "english": "shake"
+  },
+  {
+    "russian": "прибли́зиться",
+    "english": "to approach"
+  },
+  {
+    "russian": "наста́ивать",
+    "english": "insist"
+  },
+  {
+    "russian": "вы́жить",
+    "english": "Survive"
+  },
+  {
+    "russian": "покида́ть",
+    "english": "leave"
+  },
+  {
+    "russian": "протя́гивать",
+    "english": "hold out"
+  },
+  {
+    "russian": "торгова́ть",
+    "english": "trade"
+  },
+  {
+    "russian": "отста́ть",
+    "english": "to get left behind"
+  },
+  {
+    "russian": "испо́лнить",
+    "english": "to fulfill something abstract (ex. an order"
+  },
+  {
+    "russian": "раздава́ться",
+    "english": "resound"
+  },
+  {
+    "russian": "му́читься",
+    "english": "suffer"
+  },
+  {
+    "russian": "забро́сить",
+    "english": "to give up"
+  },
+  {
+    "russian": "счесть",
+    "english": "consider"
+  },
+  {
+    "russian": "испо́льзоваться",
+    "english": "be used"
+  },
+  {
+    "russian": "извиня́ться",
+    "english": "to apologize"
+  },
+  {
+    "russian": "предста́виться",
+    "english": "introduce oneself"
+  },
+  {
+    "russian": "уверя́ть",
+    "english": "assure"
+  },
+  {
+    "russian": "отня́ть",
+    "english": "take away (from)"
+  },
+  {
+    "russian": "рассмотре́ть",
+    "english": "to examine"
+  },
+  {
+    "russian": "учи́тывать",
+    "english": "consider"
+  },
+  {
+    "russian": "греме́ть",
+    "english": "rattle"
+  },
+  {
+    "russian": "огляде́ться",
+    "english": "look around"
+  },
+  {
+    "russian": "ступа́ть",
+    "english": "step"
+  },
+  {
+    "russian": "сгоре́ть",
+    "english": "burn down"
+  },
+  {
+    "russian": "пога́снуть",
+    "english": "go out"
+  },
+  {
+    "russian": "нанести́",
+    "english": "apply"
+  },
+  {
+    "russian": "вытира́ть",
+    "english": "to dry"
+  },
+  {
+    "russian": "осозна́ть",
+    "english": "grasp"
+  },
+  {
+    "russian": "пройти́сь",
+    "english": "go for a walk"
+  },
+  {
+    "russian": "годи́ться",
+    "english": "be of use"
+  },
+  {
+    "russian": "запо́лнить",
+    "english": "to fill out"
+  },
+  {
+    "russian": "раздража́ть",
+    "english": "to annoy"
+  },
+  {
+    "russian": "отказа́ть",
+    "english": "refuse"
+  },
+  {
+    "russian": "отложи́ть",
+    "english": "set aside (hold)"
+  },
+  {
+    "russian": "свести́",
+    "english": "reduce to"
+  },
+  {
+    "russian": "зараба́тывать",
+    "english": "to earn"
+  },
+  {
+    "russian": "рвану́ть",
+    "english": "jerk"
+  },
+  {
+    "russian": "отмеча́ть",
+    "english": "mark"
+  },
+  {
+    "russian": "поклони́ться",
+    "english": "bow (to"
+  },
+  {
+    "russian": "докла́дывать",
+    "english": "report"
+  },
+  {
+    "russian": "отнести́",
+    "english": "to take something somewhere"
+  },
+  {
+    "russian": "привяза́ть",
+    "english": "tie to"
+  },
+  {
+    "russian": "ткнуть",
+    "english": "poke"
+  },
+  {
+    "russian": "зажа́ть",
+    "english": "clutch"
+  },
+  {
+    "russian": "дёрнуть",
+    "english": "pull"
+  },
+  {
+    "russian": "вози́ть",
+    "english": "to drive"
+  },
+  {
+    "russian": "размышля́ть",
+    "english": "meditate"
+  },
+  {
+    "russian": "кати́ться",
+    "english": "roll"
+  },
+  {
+    "russian": "разби́ть",
+    "english": "break"
+  },
+  {
+    "russian": "оби́деть",
+    "english": "offend"
+  },
+  {
+    "russian": "косну́ться",
+    "english": "touch"
+  },
+  {
+    "russian": "вы́делить",
+    "english": "distinguish"
+  },
+  {
+    "russian": "помере́ть",
+    "english": "die (impolite)"
+  },
+  {
+    "russian": "руга́ть",
+    "english": "abuse"
+  },
+  {
+    "russian": "беспоко́ить",
+    "english": "bother"
+  },
+  {
+    "russian": "восстанови́ть",
+    "english": "reestablish"
+  },
+  {
+    "russian": "достига́ть",
+    "english": "reach"
+  },
+  {
+    "russian": "волнова́ть",
+    "english": "excite"
+  },
+  {
+    "russian": "задержа́ться",
+    "english": "linger"
+  },
+  {
+    "russian": "сту́кнуть",
+    "english": "knock"
+  },
+  {
+    "russian": "подчеркну́ть",
+    "english": "stress"
+  },
+  {
+    "russian": "набира́ть",
+    "english": "to pick something somewhere"
+  },
+  {
+    "russian": "раздели́ть",
+    "english": "share"
+  },
+  {
+    "russian": "исполня́ть",
+    "english": "to fulfill something abstract (ex. an order"
+  },
+  {
+    "russian": "плю́нуть",
+    "english": "spit"
+  },
+  {
+    "russian": "придава́ть",
+    "english": "attach"
+  },
+  {
+    "russian": "извле́чь",
+    "english": "extract"
+  },
+  {
+    "russian": "вы́гнать",
+    "english": "expel"
+  },
+  {
+    "russian": "приступи́ть",
+    "english": "start"
+  },
+  {
+    "russian": "дели́ться",
+    "english": "share"
+  },
+  {
+    "russian": "выносить",
+    "english": "carry out"
+  },
+  {
+    "russian": "прилете́ть",
+    "english": "to come"
+  },
+  {
+    "russian": "вступа́ть",
+    "english": "join"
+  },
+  {
+    "russian": "одева́ться",
+    "english": "to dress"
+  },
+  {
+    "russian": "цени́ть",
+    "english": "appreciate"
+  },
+  {
+    "russian": "заверну́ть",
+    "english": "wrap (up"
+  },
+  {
+    "russian": "воспринима́ть",
+    "english": "perceive"
+  },
+  {
+    "russian": "изба́виться",
+    "english": "get rid of"
+  },
+  {
+    "russian": "унести́",
+    "english": "take away"
+  },
+  {
+    "russian": "заже́чь",
+    "english": "set fire"
+  },
+  {
+    "russian": "привле́чь",
+    "english": "draw"
+  },
+  {
+    "russian": "очути́ться",
+    "english": "come to be"
+  },
+  {
+    "russian": "проща́ться",
+    "english": "take leave of"
+  },
+  {
+    "russian": "провали́ться",
+    "english": "fall through"
+  },
+  {
+    "russian": "располага́ться",
+    "english": "settle"
+  },
+  {
+    "russian": "мелька́ть",
+    "english": "to flash"
+  },
+  {
+    "russian": "переверну́ть",
+    "english": "turn (over)"
+  },
+  {
+    "russian": "крути́ться",
+    "english": "spin"
+  },
+  {
+    "russian": "обе́дать",
+    "english": "to have dinner"
+  },
+  {
+    "russian": "наруша́ть",
+    "english": "to interrupt or disturb something"
+  },
+  {
+    "russian": "убеди́ть",
+    "english": "to convince"
+  },
+  {
+    "russian": "разверну́ться",
+    "english": "turn around"
+  },
+  {
+    "russian": "проявля́ть",
+    "english": "show"
+  },
+  {
+    "russian": "кача́ть",
+    "english": "swing"
+  },
+  {
+    "russian": "отступа́ть",
+    "english": "to step back"
+  },
+  {
+    "russian": "завали́ть",
+    "english": "fill up"
+  },
+  {
+    "russian": "внести́",
+    "english": "bring in"
+  },
+  {
+    "russian": "упере́ться",
+    "english": "rest"
+  },
+  {
+    "russian": "заста́ть",
+    "english": "to catch (somebody)"
+  },
+  {
+    "russian": "опуска́ться",
+    "english": "fall"
+  },
+  {
+    "russian": "темне́ть",
+    "english": "darken"
+  },
+  {
+    "russian": "оказа́ть",
+    "english": "to give"
+  },
+  {
+    "russian": "вгля́дываться",
+    "english": "peer"
+  },
+  {
+    "russian": "приба́вить",
+    "english": "to add something to something spoken or written"
+  },
+  {
+    "russian": "спусти́ть",
+    "english": "lower"
+  },
+  {
+    "russian": "опубликова́ть",
+    "english": "publish"
+  },
+  {
+    "russian": "отпуска́ть",
+    "english": "to release"
+  },
+  {
+    "russian": "проби́ть",
+    "english": "punch (a hole)"
+  },
+  {
+    "russian": "ворова́ть",
+    "english": "steal"
+  },
+  {
+    "russian": "допуска́ть",
+    "english": "permit"
+  },
+  {
+    "russian": "рассчита́ть",
+    "english": "calculate"
+  },
+  {
+    "russian": "та́ять",
+    "english": "melt"
+  },
+  {
+    "russian": "возмути́ться",
+    "english": "become indignant at"
+  },
+  {
+    "russian": "задыха́ться",
+    "english": "suffocate"
+  },
+  {
+    "russian": "расста́ться",
+    "english": "to part with someone"
+  },
+  {
+    "russian": "поко́нчить",
+    "english": "finish (off)"
+  },
+  {
+    "russian": "проводиться",
+    "english": "be held"
+  },
+  {
+    "russian": "скрыть",
+    "english": "hide"
+  },
+  {
+    "russian": "опозда́ть",
+    "english": "be late"
+  },
+  {
+    "russian": "перехвати́ть",
+    "english": "intercept"
+  },
+  {
+    "russian": "успока́ивать",
+    "english": "calm"
+  },
+  {
+    "russian": "обеспе́чивать",
+    "english": "provide"
+  },
+  {
+    "russian": "уточни́ть",
+    "english": "clarify"
+  },
+  {
+    "russian": "обрести́",
+    "english": "find"
+  },
+  {
+    "russian": "погла́дить",
+    "english": "stroke"
+  },
+  {
+    "russian": "дрема́ть",
+    "english": "doze"
+  },
+  {
+    "russian": "возбуди́ть",
+    "english": "excite"
+  },
+  {
+    "russian": "крути́ть",
+    "english": "twist"
+  },
+  {
+    "russian": "защити́ть",
+    "english": "protect"
+  },
+  {
+    "russian": "применя́ться",
+    "english": "to be applied"
+  },
+  {
+    "russian": "вы́ключить",
+    "english": "switch off"
+  },
+  {
+    "russian": "рекомендова́ть",
+    "english": "recommend"
+  },
+  {
+    "russian": "расстегну́ть",
+    "english": "undo"
+  },
+  {
+    "russian": "ока́зывать",
+    "english": "render"
+  },
+  {
+    "russian": "прижима́ть",
+    "english": "press"
+  },
+  {
+    "russian": "вы́стрелить",
+    "english": "fire"
+  },
+  {
+    "russian": "звене́ть",
+    "english": "ring"
+  },
+  {
+    "russian": "сжать",
+    "english": "squeeze"
+  },
+  {
+    "russian": "подмигну́ть",
+    "english": "wink"
+  },
+  {
+    "russian": "реве́ть",
+    "english": "roar"
+  },
+  {
+    "russian": "прозвуча́ть",
+    "english": "sound"
+  },
+  {
+    "russian": "прижа́ться",
+    "english": "cuddle up to"
+  },
+  {
+    "russian": "управля́ть",
+    "english": "control"
+  },
+  {
+    "russian": "дуть",
+    "english": "blow"
+  },
+  {
+    "russian": "покоси́ться",
+    "english": "sink to one side"
+  },
+  {
+    "russian": "стона́ть",
+    "english": "moan"
+  },
+  {
+    "russian": "дро́гнуть",
+    "english": "tremble"
+  },
+  {
+    "russian": "любова́ться",
+    "english": "admire"
+  },
+  {
+    "russian": "улете́ть",
+    "english": "fly away"
+  },
+  {
+    "russian": "перебира́ть",
+    "english": "sort out"
+  },
+  {
+    "russian": "занести́",
+    "english": "bring"
+  },
+  {
+    "russian": "сочиня́ть",
+    "english": "write"
+  },
+  {
+    "russian": "вложи́ть",
+    "english": "put in"
+  },
+  {
+    "russian": "плева́ть",
+    "english": "spit"
+  },
+  {
+    "russian": "купа́ться",
+    "english": "bathe"
+  },
+  {
+    "russian": "улови́ть",
+    "english": "catch"
+  },
+  {
+    "russian": "прони́кнуть",
+    "english": "penetrate"
+  },
+  {
+    "russian": "уцеле́ть",
+    "english": "remain intact"
+  },
+  {
+    "russian": "сдава́ться",
+    "english": "give up"
+  },
+  {
+    "russian": "сдви́нуть",
+    "english": "move (together)"
+  },
+  {
+    "russian": "переводи́ть",
+    "english": "to translate"
+  },
+  {
+    "russian": "вцепи́ться",
+    "english": "cling to"
+  },
+  {
+    "russian": "напеча́тать",
+    "english": "print"
+  },
+  {
+    "russian": "руководи́ть",
+    "english": "lead"
+  },
+  {
+    "russian": "донести́сь",
+    "english": "waft"
+  },
+  {
+    "russian": "вы́бить",
+    "english": "beat"
+  },
+  {
+    "russian": "пови́снуть",
+    "english": "hang (by"
+  },
+  {
+    "russian": "осве́домиться",
+    "english": "inquire"
+  },
+  {
+    "russian": "окружа́ть",
+    "english": "surround"
+  },
+  {
+    "russian": "предоста́вить",
+    "english": "provide"
+  },
+  {
+    "russian": "свиде́тельствовать",
+    "english": "witness"
+  },
+  {
+    "russian": "выта́скивать",
+    "english": "pull out"
+  },
+  {
+    "russian": "бере́чь",
+    "english": "take care of"
+  },
+  {
+    "russian": "моли́ться",
+    "english": "pray"
+  },
+  {
+    "russian": "проявля́ться",
+    "english": "show"
+  },
+  {
+    "russian": "опи́сывать",
+    "english": "describe"
+  },
+  {
+    "russian": "ве́дать",
+    "english": "know (archaic)"
+  },
+  {
+    "russian": "увезти́",
+    "english": "take away"
+  },
+  {
+    "russian": "приве́тствовать",
+    "english": "to welcome"
+  },
+  {
+    "russian": "опира́ться",
+    "english": "lean"
+  },
+  {
+    "russian": "наказа́ть",
+    "english": "punish"
+  },
+  {
+    "russian": "упомяну́ть",
+    "english": "mention"
+  },
+  {
+    "russian": "вздра́гивать",
+    "english": "start"
+  },
+  {
+    "russian": "выделя́ться",
+    "english": "stand out"
+  },
+  {
+    "russian": "скрипе́ть",
+    "english": "creak"
+  },
+  {
+    "russian": "ку́шать",
+    "english": "eat"
+  },
+  {
+    "russian": "обща́ться",
+    "english": "communicate"
+  },
+  {
+    "russian": "чу́вствоваться",
+    "english": "be felt"
+  },
+  {
+    "russian": "почита́ть",
+    "english": "esteem"
+  },
+  {
+    "russian": "расста́вить",
+    "english": "place"
+  },
+  {
+    "russian": "направля́ться",
+    "english": "to head in a direction"
+  },
+  {
+    "russian": "бу́ркнуть",
+    "english": "growl out"
+  },
+  {
+    "russian": "столкну́ться",
+    "english": "to collide"
+  },
+  {
+    "russian": "угова́ривать",
+    "english": "persuade"
+  },
+  {
+    "russian": "прикрыва́ть",
+    "english": "cover"
+  },
+  {
+    "russian": "различа́ть",
+    "english": "distinguish"
+  },
+  {
+    "russian": "обходи́ть",
+    "english": "to walk around something"
+  },
+  {
+    "russian": "повора́чивать",
+    "english": "turn"
+  },
+  {
+    "russian": "утра́тить",
+    "english": "lose"
+  },
+  {
+    "russian": "удержа́ть",
+    "english": "hold"
+  },
+  {
+    "russian": "склони́ться",
+    "english": "incline"
+  },
+  {
+    "russian": "отступи́ть",
+    "english": "to step back"
+  },
+  {
+    "russian": "дли́ться",
+    "english": "last"
+  },
+  {
+    "russian": "переспроси́ть",
+    "english": "ask again"
+  },
+  {
+    "russian": "швырну́ть",
+    "english": "throw"
+  },
+  {
+    "russian": "вмеша́ться",
+    "english": "to intervene"
+  },
+  {
+    "russian": "де́ться",
+    "english": "go"
+  },
+  {
+    "russian": "добива́ться",
+    "english": "obtain"
+  },
+  {
+    "russian": "напи́ться",
+    "english": "to get drunk"
+  },
+  {
+    "russian": "ло́пнуть",
+    "english": "burst"
+  },
+  {
+    "russian": "упусти́ть",
+    "english": "miss"
+  },
+  {
+    "russian": "подъе́хать",
+    "english": "to approach with a vehicle (to drive up)"
+  },
+  {
+    "russian": "слу́шаться",
+    "english": "obey"
+  },
+  {
+    "russian": "пропуска́ть",
+    "english": "to miss something"
+  },
+  {
+    "russian": "забира́ть",
+    "english": "to withdraw"
+  },
+  {
+    "russian": "реаги́ровать",
+    "english": "react"
+  },
+  {
+    "russian": "гла́дить",
+    "english": "iron"
+  },
+  {
+    "russian": "отвезти́",
+    "english": "take (away)"
+  },
+  {
+    "russian": "обма́нывать",
+    "english": "deceive"
+  },
+  {
+    "russian": "урони́ть",
+    "english": "drop"
+  },
+  {
+    "russian": "шепну́ть",
+    "english": "whisper"
+  },
+  {
+    "russian": "вылеза́ть",
+    "english": "get"
+  },
+  {
+    "russian": "приоткры́ть",
+    "english": "reveal"
+  },
+  {
+    "russian": "добы́ть",
+    "english": "get"
+  },
+  {
+    "russian": "дави́ть",
+    "english": "press"
+  },
+  {
+    "russian": "рожда́ться",
+    "english": "to be born"
+  },
+  {
+    "russian": "сохраня́ть",
+    "english": "keep"
+  },
+  {
+    "russian": "основа́ть",
+    "english": "found"
+  },
+  {
+    "russian": "замёрзнуть",
+    "english": "freeze"
+  },
+  {
+    "russian": "сопровожда́ться",
+    "english": "be accompanied"
+  },
+  {
+    "russian": "подсказа́ть",
+    "english": "prompt"
+  },
+  {
+    "russian": "пока́чиваться",
+    "english": "rock"
+  },
+  {
+    "russian": "запе́ть",
+    "english": "start singing"
+  },
+  {
+    "russian": "разорва́ть",
+    "english": "to tear up"
+  },
+  {
+    "russian": "мета́ться",
+    "english": "rush about"
+  },
+  {
+    "russian": "забо́титься",
+    "english": "to take care of"
+  },
+  {
+    "russian": "расходи́ться",
+    "english": "to get separated"
+  },
+  {
+    "russian": "заду́мать",
+    "english": "intend"
+  },
+  {
+    "russian": "уво́лить",
+    "english": "fire (from work)"
+  },
+  {
+    "russian": "поиска́ть",
+    "english": "search"
+  },
+  {
+    "russian": "объясня́ться",
+    "english": "to be explained"
+  },
+  {
+    "russian": "отбро́сить",
+    "english": "throw away"
+  },
+  {
+    "russian": "храни́ться",
+    "english": "be kept"
+  },
+  {
+    "russian": "увести́",
+    "english": "withdraw"
+  },
+  {
+    "russian": "своди́ть",
+    "english": "reduce to"
+  },
+  {
+    "russian": "приобрета́ть",
+    "english": "purchase"
+  },
+  {
+    "russian": "удали́ться",
+    "english": "move off"
+  },
+  {
+    "russian": "вспы́хивать",
+    "english": "blaze up"
+  },
+  {
+    "russian": "нахму́риться",
+    "english": "frown"
+  },
+  {
+    "russian": "налива́ть",
+    "english": "pour"
+  },
+  {
+    "russian": "подтвержда́ть",
+    "english": "confirm"
+  },
+  {
+    "russian": "привлека́ть",
+    "english": "attract"
+  },
+  {
+    "russian": "зале́зть",
+    "english": "climb"
+  },
+  {
+    "russian": "умоля́ть",
+    "english": "beg"
+  },
+  {
+    "russian": "поднести́",
+    "english": "bring to"
+  },
+  {
+    "russian": "пожи́ть",
+    "english": "live"
+  },
+  {
+    "russian": "вы́кинуть",
+    "english": "throw out"
+  },
+  {
+    "russian": "выводить",
+    "english": "to take someone out"
+  },
+  {
+    "russian": "пода́ться",
+    "english": "move"
+  },
+  {
+    "russian": "чи́стить",
+    "english": "clean"
+  },
+  {
+    "russian": "пресле́довать",
+    "english": "to chase"
+  },
+  {
+    "russian": "откли́кнуться",
+    "english": "respond"
+  },
+  {
+    "russian": "пошути́ть",
+    "english": "make a joke"
+  },
+  {
+    "russian": "прожива́ть",
+    "english": "reside"
+  },
+  {
+    "russian": "вы́ложить",
+    "english": "lay"
+  },
+  {
+    "russian": "забра́ться",
+    "english": "climb on"
+  },
+  {
+    "russian": "упира́ться",
+    "english": "jib"
+  },
+  {
+    "russian": "узнава́ть",
+    "english": "learn"
+  },
+  {
+    "russian": "постоя́ть",
+    "english": "stand (for a while"
+  },
+  {
+    "russian": "взлете́ть",
+    "english": "take off"
+  },
+  {
+    "russian": "проигра́ть",
+    "english": "to lose"
+  },
+  {
+    "russian": "помо́рщиться",
+    "english": "make a wry face"
+  },
+  {
+    "russian": "разма́хивать",
+    "english": "swing"
+  },
+  {
+    "russian": "води́ться",
+    "english": "to be found"
+  },
+  {
+    "russian": "подчиня́ться",
+    "english": "submit"
+  },
+  {
+    "russian": "спры́гнуть",
+    "english": "jump off"
+  },
+  {
+    "russian": "переноси́ть",
+    "english": "to carry"
+  },
+  {
+    "russian": "презира́ть",
+    "english": "despise"
+  },
+  {
+    "russian": "зарасти́",
+    "english": "to be overgrown"
+  },
+  {
+    "russian": "опуска́ть",
+    "english": "lower"
+  },
+  {
+    "russian": "перее́хать",
+    "english": "to move somewhere"
+  },
+  {
+    "russian": "убега́ть",
+    "english": "run away"
+  },
+  {
+    "russian": "прислу́шаться",
+    "english": "listen to"
+  },
+  {
+    "russian": "освободи́ться",
+    "english": "beceome free"
+  },
+  {
+    "russian": "расспра́шивать",
+    "english": "question"
+  },
+  {
+    "russian": "толка́ть",
+    "english": "push"
+  },
+  {
+    "russian": "изда́ть",
+    "english": "to publish"
+  },
+  {
+    "russian": "схвати́ться",
+    "english": "grapple"
+  },
+  {
+    "russian": "кружи́ться",
+    "english": "whirl"
+  },
+  {
+    "russian": "поползти́",
+    "english": "crawl"
+  },
+  {
+    "russian": "спохвати́ться",
+    "english": "suddenly remember"
+  },
+  {
+    "russian": "похорони́ть",
+    "english": "bury"
+  },
+  {
+    "russian": "сжима́ть",
+    "english": "squeeze"
+  },
+  {
+    "russian": "нараста́ть",
+    "english": "increase"
+  },
+  {
+    "russian": "оборва́ть",
+    "english": "tear"
+  },
+  {
+    "russian": "добавля́ть",
+    "english": "add"
+  },
+  {
+    "russian": "вы́глянуть",
+    "english": "look out"
+  },
+  {
+    "russian": "гоня́ть",
+    "english": "send on errands"
+  },
+  {
+    "russian": "поспеши́ть",
+    "english": "hurry"
+  },
+  {
+    "russian": "пробежа́ть",
+    "english": "run"
+  },
+  {
+    "russian": "засу́нуть",
+    "english": "put"
+  },
+  {
+    "russian": "рассерди́ться",
+    "english": "get angry"
+  },
+  {
+    "russian": "сде́рживать",
+    "english": "hold back"
+  },
+  {
+    "russian": "подбежа́ть",
+    "english": "run up"
+  },
+  {
+    "russian": "спря́таться",
+    "english": "to hide oneself from something"
+  },
+  {
+    "russian": "скла́дываться",
+    "english": "be formed"
+  },
+  {
+    "russian": "разводи́ть",
+    "english": "to mix"
+  },
+  {
+    "russian": "повторя́ться",
+    "english": "repeat (oneself)"
+  },
+  {
+    "russian": "труди́ться",
+    "english": "work"
+  },
+  {
+    "russian": "оде́ться",
+    "english": "get dressed"
+  },
+  {
+    "russian": "преодоле́ть",
+    "english": "overcome"
+  },
+  {
+    "russian": "определя́ться",
+    "english": "to be determined"
+  },
+  {
+    "russian": "назнача́ть",
+    "english": "to appoint"
+  },
+  {
+    "russian": "кача́ться",
+    "english": "to swing"
+  },
+  {
+    "russian": "потерпе́ть",
+    "english": "suffer"
+  },
+  {
+    "russian": "вы́резать",
+    "english": "cut out"
+  },
+  {
+    "russian": "скуча́ть",
+    "english": "miss"
+  },
+  {
+    "russian": "избежа́ть",
+    "english": "to avoid"
+  },
+  {
+    "russian": "кида́ть",
+    "english": "throw"
+  },
+  {
+    "russian": "дава́ться",
+    "english": "to be given"
+  },
+  {
+    "russian": "затяну́ться",
+    "english": "to be delayed"
+  },
+  {
+    "russian": "задра́ть",
+    "english": "lift"
+  },
+  {
+    "russian": "сбегать",
+    "english": "run off"
+  },
+  {
+    "russian": "болта́ться",
+    "english": "hang about"
+  },
+  {
+    "russian": "свя́зывать",
+    "english": "link"
+  },
+  {
+    "russian": "изучи́ть",
+    "english": "study"
+  },
+  {
+    "russian": "уступа́ть",
+    "english": "yield"
+  },
+  {
+    "russian": "потре́боваться",
+    "english": "be required"
+  },
+  {
+    "russian": "пита́ться",
+    "english": "feed (on)"
+  },
+  {
+    "russian": "угрожа́ть",
+    "english": "threaten (with)"
+  },
+  {
+    "russian": "пребыва́ть",
+    "english": "stay"
+  },
+  {
+    "russian": "подави́ть",
+    "english": "suppress"
+  },
+  {
+    "russian": "пляса́ть",
+    "english": "dance"
+  },
+  {
+    "russian": "заявля́ть",
+    "english": "to announce"
+  },
+  {
+    "russian": "уговори́ть",
+    "english": "persuade"
+  },
+  {
+    "russian": "сажа́ть",
+    "english": "plant"
+  },
+  {
+    "russian": "поплы́ть",
+    "english": "swim somewhere"
+  },
+  {
+    "russian": "дели́ть",
+    "english": "share"
+  },
+  {
+    "russian": "призыва́ть",
+    "english": "call"
+  },
+  {
+    "russian": "дыми́ться",
+    "english": "smoke"
+  },
+  {
+    "russian": "поздоро́ваться",
+    "english": "to greet"
+  },
+  {
+    "russian": "обнима́ть",
+    "english": "hug"
+  },
+  {
+    "russian": "угоди́ть",
+    "english": "please"
+  },
+  {
+    "russian": "ката́ться",
+    "english": "ride"
+  },
+  {
+    "russian": "вы́разиться",
+    "english": "become apparent"
+  },
+  {
+    "russian": "натяну́ть",
+    "english": "stretch"
+  },
+  {
+    "russian": "лиши́ть",
+    "english": "deprive"
+  },
+  {
+    "russian": "уде́рживать",
+    "english": "hold"
+  },
+  {
+    "russian": "привыка́ть",
+    "english": "to get accustomed to something"
+  },
+  {
+    "russian": "потряса́ть",
+    "english": "shock"
+  },
+  {
+    "russian": "рвану́ться",
+    "english": "dart"
+  },
+  {
+    "russian": "воспи́тывать",
+    "english": "educate"
+  },
+  {
+    "russian": "съе́здить",
+    "english": "go (in a vehicle)"
+  },
+  {
+    "russian": "свали́ть",
+    "english": "dump"
+  },
+  {
+    "russian": "застря́ть",
+    "english": "to be stuck"
+  },
+  {
+    "russian": "обходи́ться",
+    "english": "to do without"
+  },
+  {
+    "russian": "скользи́ть",
+    "english": "slide"
+  },
+  {
+    "russian": "пробира́ться",
+    "english": "make one's way"
+  },
+  {
+    "russian": "верте́ться",
+    "english": "spin"
+  },
+  {
+    "russian": "кипе́ть",
+    "english": "boil"
+  },
+  {
+    "russian": "поручи́ть",
+    "english": "charge"
+  },
+  {
+    "russian": "убежда́ть",
+    "english": "convince"
+  },
+  {
+    "russian": "зли́ться",
+    "english": "be angry"
+  },
+  {
+    "russian": "уступи́ть",
+    "english": "yield"
+  },
+  {
+    "russian": "избегать",
+    "english": "to avoid"
+  },
+  {
+    "russian": "тро́нуться",
+    "english": "start moving"
+  },
+  {
+    "russian": "твори́ться",
+    "english": "to happen"
+  },
+  {
+    "russian": "пригоди́ться",
+    "english": "come in handy"
+  },
+  {
+    "russian": "сопротивля́ться",
+    "english": "resist"
+  },
+  {
+    "russian": "скака́ть",
+    "english": "skip"
+  },
+  {
+    "russian": "проглоти́ть",
+    "english": "swallow"
+  },
+  {
+    "russian": "осма́тривать",
+    "english": "inspect"
+  },
+  {
+    "russian": "запусти́ть",
+    "english": "launch (a rocket)"
+  },
+  {
+    "russian": "подели́ться",
+    "english": "Share"
+  },
+  {
+    "russian": "вести́сь",
+    "english": "be conducted"
+  },
+  {
+    "russian": "прорва́ться",
+    "english": "break through"
+  },
+  {
+    "russian": "отстава́ть",
+    "english": "to get left behind"
+  },
+  {
+    "russian": "отмеча́ться",
+    "english": "celebrated"
+  },
+  {
+    "russian": "проника́ть",
+    "english": "penetrate"
+  },
+  {
+    "russian": "погрузи́ть",
+    "english": "load"
+  },
+  {
+    "russian": "употребля́ть",
+    "english": "use"
+  },
+  {
+    "russian": "вскрича́ть",
+    "english": "cry"
+  },
+  {
+    "russian": "вы́сунуться",
+    "english": "pop out"
+  },
+  {
+    "russian": "наткну́ться",
+    "english": "stumble"
+  },
+  {
+    "russian": "треща́ть",
+    "english": "crack"
+  },
+  {
+    "russian": "мыть",
+    "english": "wash"
+  },
+  {
+    "russian": "смути́ться",
+    "english": "become confused"
+  },
+  {
+    "russian": "печа́тать",
+    "english": "to print"
+  },
+  {
+    "russian": "демонстри́ровать",
+    "english": "show"
+  },
+  {
+    "russian": "оправда́ть",
+    "english": "acquit"
+  },
+  {
+    "russian": "прихвати́ть",
+    "english": "grab (along)"
+  },
+  {
+    "russian": "распространи́ть",
+    "english": "spread"
+  },
+  {
+    "russian": "разбира́ть",
+    "english": "to take something apart"
+  },
+  {
+    "russian": "перегляну́ться",
+    "english": "exchange glances"
+  },
+  {
+    "russian": "протека́ть",
+    "english": "flow"
+  },
+  {
+    "russian": "объедини́ть",
+    "english": "to unite or combine something"
+  },
+  {
+    "russian": "убира́ть",
+    "english": "clean up"
+  },
+  {
+    "russian": "расстава́ться",
+    "english": "to part with someone"
+  },
+  {
+    "russian": "прибежа́ть",
+    "english": "come running"
+  },
+  {
+    "russian": "просиде́ть",
+    "english": "sit (up for some time"
+  },
+  {
+    "russian": "твори́ть",
+    "english": "create"
+  },
+  {
+    "russian": "мерца́ть",
+    "english": "flicker"
+  },
+  {
+    "russian": "загна́ть",
+    "english": "drive"
+  },
+  {
+    "russian": "подчёркивать",
+    "english": "to underline"
+  },
+  {
+    "russian": "напа́сть",
+    "english": "attack"
+  },
+  {
+    "russian": "нагну́ться",
+    "english": "stoop"
+  },
+  {
+    "russian": "предназна́чить",
+    "english": "intend"
+  },
+  {
+    "russian": "дружи́ть",
+    "english": "be friends"
+  },
+  {
+    "russian": "распоряди́ться",
+    "english": "dispose"
+  },
+  {
+    "russian": "цепля́ться",
+    "english": "cling"
+  },
+  {
+    "russian": "увели́чиваться",
+    "english": "increase"
+  },
+  {
+    "russian": "вы́думать",
+    "english": "invent"
+  },
+  {
+    "russian": "отправля́ть",
+    "english": "send"
+  },
+  {
+    "russian": "ворва́ться",
+    "english": "rush"
+  },
+  {
+    "russian": "выпива́ть",
+    "english": "to drink (also to drink alcohol)"
+  },
+  {
+    "russian": "по́лзать",
+    "english": "creep"
+  },
+  {
+    "russian": "вы́тянуться",
+    "english": "stretch"
+  },
+  {
+    "russian": "посеща́ть",
+    "english": "to visit"
+  },
+  {
+    "russian": "отодви́нуть",
+    "english": "to push"
+  },
+  {
+    "russian": "раздави́ть",
+    "english": "crush"
+  },
+  {
+    "russian": "объявля́ть",
+    "english": "declare"
+  },
+  {
+    "russian": "разрабо́тать",
+    "english": "work out"
+  },
+  {
+    "russian": "рассыпаться",
+    "english": "spill"
+  },
+  {
+    "russian": "удаля́ться",
+    "english": "retire"
+  },
+  {
+    "russian": "ворча́ть",
+    "english": "grumble"
+  },
+  {
+    "russian": "отки́нуть",
+    "english": "throw back"
+  },
+  {
+    "russian": "распахну́ться",
+    "english": "burst open"
+  },
+  {
+    "russian": "по́мниться",
+    "english": "remember (mostly used as a lead-in)"
+  },
+  {
+    "russian": "поража́ть",
+    "english": "hit"
+  },
+  {
+    "russian": "наста́ть",
+    "english": "come"
+  },
+  {
+    "russian": "посети́ть",
+    "english": "to visit"
+  },
+  {
+    "russian": "буди́ть",
+    "english": "wake"
+  },
+  {
+    "russian": "прика́зывать",
+    "english": "to tell someone to do something"
+  },
+  {
+    "russian": "увели́чить",
+    "english": "increase"
+  },
+  {
+    "russian": "а́хнуть",
+    "english": "gasp"
+  },
+  {
+    "russian": "растеря́ть",
+    "english": "lose"
+  },
+  {
+    "russian": "навести́ть",
+    "english": "visit"
+  },
+  {
+    "russian": "вообража́ть",
+    "english": "imagine"
+  },
+  {
+    "russian": "вска́кивать",
+    "english": "jump (up)"
+  },
+  {
+    "russian": "вынима́ть",
+    "english": "take"
+  },
+  {
+    "russian": "пересе́чь",
+    "english": "cross"
+  },
+  {
+    "russian": "вскри́кнуть",
+    "english": "cry out"
+  },
+  {
+    "russian": "стро́иться",
+    "english": "to be built"
+  },
+  {
+    "russian": "опо́мниться",
+    "english": "regain consciousness"
+  },
+  {
+    "russian": "ты́кать",
+    "english": "poke"
+  },
+  {
+    "russian": "перебива́ть",
+    "english": "interrupt"
+  },
+  {
+    "russian": "попроща́ться",
+    "english": "say goodbye"
+  },
+  {
+    "russian": "отмени́ть",
+    "english": "cancel"
+  },
+  {
+    "russian": "подавля́ть",
+    "english": "suppress"
+  },
+  {
+    "russian": "вы́слать",
+    "english": "send"
+  },
+  {
+    "russian": "дежу́рить",
+    "english": "watch"
+  },
+  {
+    "russian": "укра́сить",
+    "english": "Decorate"
+  },
+  {
+    "russian": "помча́ться",
+    "english": "to hurry"
+  },
+  {
+    "russian": "разыска́ть",
+    "english": "to search"
+  },
+  {
+    "russian": "хорони́ть",
+    "english": "bury"
+  },
+  {
+    "russian": "доставля́ть",
+    "english": "deliver"
+  },
+  {
+    "russian": "вы́прямиться",
+    "english": "straighten up"
+  },
+  {
+    "russian": "прида́ть",
+    "english": "give"
+  },
+  {
+    "russian": "поздравля́ть",
+    "english": "congratulate"
+  },
+  {
+    "russian": "помаха́ть",
+    "english": "wave"
+  },
+  {
+    "russian": "вы́бежать",
+    "english": "run out (of somewhere)"
+  },
+  {
+    "russian": "поддава́ться",
+    "english": "yield to"
+  },
+  {
+    "russian": "вски́нуть",
+    "english": "throw up"
+  },
+  {
+    "russian": "утону́ть",
+    "english": "sink"
+  },
+  {
+    "russian": "уничтожа́ть",
+    "english": "destroy"
+  },
+  {
+    "russian": "вы́хватить",
+    "english": "whip out"
+  },
+  {
+    "russian": "влюби́ться",
+    "english": "fall in love"
+  },
+  {
+    "russian": "норови́ть",
+    "english": "to aim"
+  },
+  {
+    "russian": "содержа́ться",
+    "english": "contain"
+  },
+  {
+    "russian": "отрыва́ться",
+    "english": "come off (ie. a button)"
+  },
+  {
+    "russian": "перебра́ться",
+    "english": "move"
+  },
+  {
+    "russian": "создава́ться",
+    "english": "form"
+  },
+  {
+    "russian": "огля́дывать",
+    "english": "look over"
+  },
+  {
+    "russian": "вить",
+    "english": "twist"
+  },
+  {
+    "russian": "сосла́ться",
+    "english": "refer to"
+  },
+  {
+    "russian": "добыва́ть",
+    "english": "mine"
+  },
+  {
+    "russian": "зака́нчиваться",
+    "english": "to come to an end"
+  },
+  {
+    "russian": "шевели́ть",
+    "english": "move"
+  },
+  {
+    "russian": "связа́ться",
+    "english": "contact"
+  },
+  {
+    "russian": "завяза́ть",
+    "english": "tie"
+  },
+  {
+    "russian": "разложи́ть",
+    "english": "spread out"
+  },
+  {
+    "russian": "отрыва́ть",
+    "english": "tear off"
+  }
+]

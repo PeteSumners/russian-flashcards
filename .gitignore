@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Anki source files (we only need the extracted JSON)
+*.txt
+
+# Python scripts (keep these local)
+*.py
+
+# Archive folder
+archive/
+
+# Other files
+nul
+*.md

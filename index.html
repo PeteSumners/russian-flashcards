@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Russian Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .header {
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 30px;
+            border-radius: 10px;
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.8em;
+            font-weight: bold;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .flashcard-container {
+            perspective: 1000px;
+            width: 100%;
+            max-width: 600px;
+            margin-bottom: 30px;
+        }
+
+        .flashcard {
+            width: 100%;
+            height: 400px;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+            cursor: pointer;
+        }
+
+        .flashcard.flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .card-front {
+            background: white;
+        }
+
+        .card-back {
+            background: #f8f9fa;
+            transform: rotateY(180deg);
+        }
+
+        .card-word {
+            font-size: 3em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .card-translation {
+            font-size: 2em;
+            color: #667eea;
+            text-align: center;
+        }
+
+        .card-hint {
+            position: absolute;
+            bottom: 20px;
+            font-size: 0.9em;
+            color: #999;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: bold;
+        }
+
+        .btn-primary {
+            background: white;
+            color: #667eea;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.3);
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+
+        .progress-bar {
+            width: 100%;
+            max-width: 600px;
+            height: 10px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 5px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: white;
+            transition: width 0.3s;
+        }
+
+        @media (max-width: 600px) {
+            .card-word {
+                font-size: 2em;
+            }
+
+            .card-translation {
+                font-size: 1.5em;
+            }
+
+            .flashcard {
+                height: 300px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Russian Flashcards</h1>
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value" id="currentCard">-</div>
+                <div class="stat-label">Current Card</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="totalToday">-</div>
+                <div class="stat-label">Today's Cards</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="totalCards">-</div>
+                <div class="stat-label">Total Cards</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="dayNumber">-</div>
+                <div class="stat-label">Day</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="progress-bar">
+        <div class="progress-fill" id="progressBar"></div>
+    </div>
+
+    <div class="flashcard-container">
+        <div class="flashcard" id="flashcard">
+            <div class="card-face card-front">
+                <div class="card-word" id="russianWord">Loading...</div>
+                <div class="card-hint">Click to reveal</div>
+            </div>
+            <div class="card-face card-back">
+                <div class="card-translation" id="englishWord">Loading...</div>
+                <div class="card-hint">Click to flip back</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button class="btn-secondary" id="prevBtn">← Previous</button>
+        <button class="btn-primary" id="flipBtn">Flip Card</button>
+        <button class="btn-secondary" id="nextBtn">Next →</button>
+    </div>
+
+    <script>
+        let allCards = [];
+        let todaysCards = [];
+        let currentIndex = 0;
+        const CARDS_PER_DAY = 200;
+
+        // Load flashcards data
+        async function loadFlashcards() {
+            try {
+                const response = await fetch('flashcards.json');
+                allCards = await response.json();
+                initializeApp();
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('russianWord').textContent = 'Error loading cards';
+            }
+        }
+
+        // Get day number (days since epoch)
+        function getDayNumber() {
+            const now = new Date();
+            const startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            return Math.floor(startOfDay.getTime() / (1000 * 60 * 60 * 24));
+        }
+
+        // Initialize the app
+        function initializeApp() {
+            const dayNumber = getDayNumber();
+            const totalDays = Math.ceil(allCards.length / CARDS_PER_DAY);
+            const cycleDay = dayNumber % totalDays;
+
+            // Calculate which cards to show today
+            const startIdx = cycleDay * CARDS_PER_DAY;
+            const endIdx = Math.min(startIdx + CARDS_PER_DAY, allCards.length);
+            todaysCards = allCards.slice(startIdx, endIdx);
+
+            // Load saved progress for today
+            const savedProgress = localStorage.getItem('flashcard_progress');
+            if (savedProgress) {
+                const progress = JSON.parse(savedProgress);
+                if (progress.day === dayNumber) {
+                    currentIndex = progress.index || 0;
+                }
+            }
+
+            updateStats(cycleDay + 1);
+            showCard();
+        }
+
+        // Update statistics
+        function updateStats(day) {
+            document.getElementById('currentCard').textContent = currentIndex + 1;
+            document.getElementById('totalToday').textContent = todaysCards.length;
+            document.getElementById('totalCards').textContent = allCards.length;
+            document.getElementById('dayNumber').textContent = day;
+
+            const progress = ((currentIndex + 1) / todaysCards.length) * 100;
+            document.getElementById('progressBar').style.width = progress + '%';
+        }
+
+        // Show current card
+        function showCard() {
+            if (todaysCards.length === 0) return;
+
+            const card = todaysCards[currentIndex];
+            document.getElementById('russianWord').textContent = card.russian;
+            document.getElementById('englishWord').textContent = card.english;
+
+            // Unflip card
+            document.getElementById('flashcard').classList.remove('flipped');
+
+            updateStats(Math.floor(getDayNumber() % Math.ceil(allCards.length / CARDS_PER_DAY)) + 1);
+            saveProgress();
+        }
+
+        // Save progress
+        function saveProgress() {
+            const progress = {
+                day: getDayNumber(),
+                index: currentIndex
+            };
+            localStorage.setItem('flashcard_progress', JSON.stringify(progress));
+        }
+
+        // Event listeners
+        document.getElementById('flashcard').addEventListener('click', function() {
+            this.classList.toggle('flipped');
+        });
+
+        document.getElementById('flipBtn').addEventListener('click', function() {
+            document.getElementById('flashcard').classList.toggle('flipped');
+        });
+
+        document.getElementById('nextBtn').addEventListener('click', function() {
+            if (currentIndex < todaysCards.length - 1) {
+                currentIndex++;
+                showCard();
+            } else {
+                alert("You've completed all cards for today! Great job! 🎉");
+            }
+        });
+
+        document.getElementById('prevBtn').addEventListener('click', function() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showCard();
+            }
+        });
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                e.preventDefault();
+                if (document.getElementById('flashcard').classList.contains('flipped')) {
+                    document.getElementById('nextBtn').click();
+                } else {
+                    document.getElementById('flashcard').classList.add('flipped');
+                }
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                document.getElementById('prevBtn').click();
+            } else if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+                e.preventDefault();
+                document.getElementById('flashcard').classList.toggle('flipped');
+            }
+        });
+
+        // Load cards on page load
+        loadFlashcards();
+    </script>
+</body>
+</html>
