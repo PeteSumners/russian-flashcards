@@ -120,6 +120,38 @@
             color: #999;
         }
 
+        .audio-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 1.5em;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .audio-btn:hover {
+            background: #764ba2;
+            transform: scale(1.1);
+        }
+
+        .audio-btn:active {
+            transform: scale(0.95);
+        }
+
+        .audio-btn.hidden {
+            display: none;
+        }
+
         .controls {
             display: flex;
             gap: 15px;
@@ -220,6 +252,7 @@
     <div class="flashcard-container">
         <div class="flashcard" id="flashcard">
             <div class="card-face card-front">
+                <button class="audio-btn hidden" id="audioBtn" title="Play pronunciation">🔊</button>
                 <div class="card-word" id="russianWord">Loading...</div>
                 <div class="card-hint">Click to reveal</div>
             </div>
@@ -229,6 +262,8 @@
             </div>
         </div>
     </div>
+
+    <audio id="audioPlayer"></audio>
 
     <div class="controls">
         <button class="btn-secondary" id="prevBtn">← Previous</button>
@@ -241,6 +276,7 @@
         let todaysCards = [];
         let currentIndex = 0;
         const CARDS_PER_DAY = 200;
+        let isFlipping = false;
 
         // Load flashcards data
         async function loadFlashcards() {
@@ -304,6 +340,24 @@
             document.getElementById('russianWord').textContent = card.russian;
             document.getElementById('englishWord').textContent = card.english;
 
+            // Handle audio
+            const audioBtn = document.getElementById('audioBtn');
+            const audioPlayer = document.getElementById('audioPlayer');
+
+            if (card.audio) {
+                audioPlayer.src = card.audio;
+                audioBtn.classList.remove('hidden');
+
+                // Auto-play audio after a short delay to ensure card is displayed
+                setTimeout(() => {
+                    audioPlayer.currentTime = 0;
+                    audioPlayer.play().catch(err => console.error('Error auto-playing audio:', err));
+                }, 100);
+            } else {
+                audioPlayer.src = '';
+                audioBtn.classList.add('hidden');
+            }
+
             // Unflip card
             document.getElementById('flashcard').classList.remove('flipped');
 
@@ -321,27 +375,75 @@
         }
 
         // Event listeners
-        document.getElementById('flashcard').addEventListener('click', function() {
-            this.classList.toggle('flipped');
+        document.getElementById('flashcard').addEventListener('click', function(e) {
+            // Don't flip if clicking the audio button or already flipping
+            if (e.target.id !== 'audioBtn' && !isFlipping) {
+                isFlipping = true;
+                this.classList.toggle('flipped');
+                setTimeout(() => { isFlipping = false; }, 600); // Match CSS transition time
+            }
+        });
+
+        document.getElementById('audioBtn').addEventListener('click', function(e) {
+            e.stopPropagation(); // Prevent card flip
+            const audioPlayer = document.getElementById('audioPlayer');
+            audioPlayer.currentTime = 0; // Restart from beginning
+            audioPlayer.play().catch(err => console.error('Error playing audio:', err));
         });
 
         document.getElementById('flipBtn').addEventListener('click', function() {
-            document.getElementById('flashcard').classList.toggle('flipped');
+            if (!isFlipping) {
+                isFlipping = true;
+                document.getElementById('flashcard').classList.toggle('flipped');
+                setTimeout(() => { isFlipping = false; }, 600);
+            }
         });
 
         document.getElementById('nextBtn').addEventListener('click', function() {
+            if (isFlipping) return; // Don't advance while flipping
+
             if (currentIndex < todaysCards.length - 1) {
-                currentIndex++;
-                showCard();
+                const flashcard = document.getElementById('flashcard');
+
+                // If card is flipped, flip it back first, then change after animation
+                if (flashcard.classList.contains('flipped')) {
+                    isFlipping = true;
+                    flashcard.classList.remove('flipped');
+                    setTimeout(() => {
+                        currentIndex++;
+                        showCard();
+                        isFlipping = false;
+                    }, 600); // Wait for flip animation to complete
+                } else {
+                    // Card not flipped, just advance immediately
+                    currentIndex++;
+                    showCard();
+                }
             } else {
                 alert("You've completed all cards for today! Great job! 🎉");
             }
         });
 
         document.getElementById('prevBtn').addEventListener('click', function() {
+            if (isFlipping) return; // Don't advance while flipping
+
             if (currentIndex > 0) {
-                currentIndex--;
-                showCard();
+                const flashcard = document.getElementById('flashcard');
+
+                // If card is flipped, flip it back first, then change after animation
+                if (flashcard.classList.contains('flipped')) {
+                    isFlipping = true;
+                    flashcard.classList.remove('flipped');
+                    setTimeout(() => {
+                        currentIndex--;
+                        showCard();
+                        isFlipping = false;
+                    }, 600); // Wait for flip animation to complete
+                } else {
+                    // Card not flipped, just go back immediately
+                    currentIndex--;
+                    showCard();
+                }
             }
         });
 
@@ -349,17 +451,31 @@
         document.addEventListener('keydown', function(e) {
             if (e.key === 'ArrowRight' || e.key === ' ') {
                 e.preventDefault();
-                if (document.getElementById('flashcard').classList.contains('flipped')) {
+                if (isFlipping) return;
+
+                const flashcard = document.getElementById('flashcard');
+
+                if (flashcard.classList.contains('flipped')) {
+                    // Card is already flipped, advance to next card
                     document.getElementById('nextBtn').click();
                 } else {
-                    document.getElementById('flashcard').classList.add('flipped');
+                    // Card is not flipped, flip it
+                    isFlipping = true;
+                    flashcard.classList.add('flipped');
+                    setTimeout(() => { isFlipping = false; }, 600);
                 }
             } else if (e.key === 'ArrowLeft') {
                 e.preventDefault();
-                document.getElementById('prevBtn').click();
+                if (!isFlipping) {
+                    document.getElementById('prevBtn').click();
+                }
             } else if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
                 e.preventDefault();
-                document.getElementById('flashcard').classList.toggle('flipped');
+                if (!isFlipping) {
+                    isFlipping = true;
+                    document.getElementById('flashcard').classList.toggle('flipped');
+                    setTimeout(() => { isFlipping = false; }, 600);
+                }
             }
         });
 

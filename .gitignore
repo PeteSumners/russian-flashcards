@@ -6,12 +6,17 @@ __pycache__/
 
 # Anki source files (we only need the extracted JSON)
 *.txt
+*.apkg
+anki_export/
 
 # Python scripts (keep these local)
 *.py
 
 # Archive folder
 archive/
+
+# Claude Code
+.claude/
 
 # Other files
 nul

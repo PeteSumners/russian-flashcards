@@ -1,5554 +1,6942 @@
 [
   {
     "russian": "быть",
-    "english": "is"
+    "english": "is",
+    "audio": "media/audio_908.mp3"
   },
   {
     "russian": "сказа́ть",
-    "english": "say"
+    "english": "say",
+    "audio": "media/audio_1298.mp3"
   },
   {
     "russian": "мочь",
-    "english": "can"
+    "english": "can",
+    "audio": "media/audio_187.mp3"
   },
   {
     "russian": "говори́ть",
-    "english": "talk"
+    "english": "talk",
+    "audio": "media/audio_629.mp3"
   },
   {
     "russian": "знать",
-    "english": "know"
+    "english": "know",
+    "audio": "media/audio_1296.mp3"
   },
   {
     "russian": "стать",
-    "english": "become"
+    "english": "become",
+    "audio": "media/audio_83.mp3"
   },
   {
     "russian": "есть",
-    "english": "be"
+    "english": "be",
+    "audio": "media/audio_827.mp3"
   },
   {
     "russian": "хоте́ть",
-    "english": "want"
+    "english": "want",
+    "audio": "media/audio_803.mp3"
   },
   {
     "russian": "ви́деть",
-    "english": "see"
+    "english": "see",
+    "audio": "media/audio_960.mp3"
   },
   {
     "russian": "идти́",
-    "english": "go"
+    "english": "go",
+    "audio": "media/audio_412.mp3"
   },
   {
     "russian": "стоя́ть",
-    "english": "stand"
+    "english": "stand",
+    "audio": "media/audio_1069.mp3"
   },
   {
     "russian": "ду́мать",
-    "english": "think"
+    "english": "think",
+    "audio": "media/audio_931.mp3"
   },
   {
     "russian": "спроси́ть",
-    "english": "ask"
+    "english": "ask",
+    "audio": "media/audio_836.mp3"
   },
   {
     "russian": "жить",
-    "english": "live"
+    "english": "live",
+    "audio": "media/audio_5.mp3"
   },
   {
     "russian": "смотре́ть",
-    "english": "look"
+    "english": "look",
+    "audio": "media/audio_952.mp3"
   },
   {
     "russian": "сиде́ть",
-    "english": "sit"
+    "english": "sit",
+    "audio": "media/audio_50.mp3"
   },
   {
     "russian": "поня́ть",
-    "english": "to understand"
+    "english": "to understand",
+    "audio": "media/audio_777.mp3"
   },
   {
     "russian": "име́ть",
-    "english": "have"
+    "english": "have",
+    "audio": "media/audio_1279.mp3"
   },
   {
     "russian": "де́лать",
-    "english": "do"
+    "english": "do",
+    "audio": "media/audio_998.mp3"
   },
   {
     "russian": "взять",
-    "english": "take"
+    "english": "take",
+    "audio": "media/audio_875.mp3"
   },
   {
     "russian": "сде́лать",
-    "english": "do"
+    "english": "do",
+    "audio": "media/audio_654.mp3"
   },
   {
     "russian": "понима́ть",
-    "english": "to understand"
+    "english": "to understand",
+    "audio": "media/audio_1254.mp3"
   },
   {
     "russian": "каза́ться",
-    "english": "seem"
+    "english": "seem",
+    "audio": "media/audio_613.mp3"
   },
   {
     "russian": "дава́ть",
-    "english": "give"
+    "english": "give",
+    "audio": "media/audio_271.mp3"
   },
   {
     "russian": "пойти́",
-    "english": "go on foot"
+    "english": "go on foot",
+    "audio": "media/audio_427.mp3"
   },
   {
     "russian": "уви́деть",
-    "english": "see"
+    "english": "see",
+    "audio": "media/audio_1353.mp3"
   },
   {
     "russian": "оста́ться",
-    "english": "to stay"
+    "english": "to stay",
+    "audio": "media/audio_1194.mp3"
   },
   {
     "russian": "вы́йти",
-    "english": "go out"
+    "english": "go out",
+    "audio": "media/audio_265.mp3"
   },
   {
     "russian": "дать",
-    "english": "give"
+    "english": "give",
+    "audio": "media/audio_633.mp3"
   },
   {
     "russian": "рабо́тать",
-    "english": "to work"
+    "english": "to work",
+    "audio": "media/audio_724.mp3"
   },
   {
     "russian": "люби́ть",
-    "english": "to love"
+    "english": "to love",
+    "audio": "media/audio_1228.mp3"
   },
   {
     "russian": "оказа́ться",
-    "english": "turn out"
+    "english": "turn out",
+    "audio": "media/audio_480.mp3"
   },
   {
     "russian": "отве́тить",
-    "english": "answer"
+    "english": "answer",
+    "audio": "media/audio_283.mp3"
   },
   {
     "russian": "поду́мать",
-    "english": "think"
+    "english": "think",
+    "audio": "media/audio_1242.mp3"
   },
   {
     "russian": "зна́чить",
-    "english": "mean"
+    "english": "mean",
+    "audio": "media/audio_165.mp3"
   },
   {
     "russian": "посмотре́ть",
-    "english": "look"
+    "english": "look",
+    "audio": "media/audio_1010.mp3"
   },
   {
     "russian": "ждать",
-    "english": "wait for someone"
+    "english": "wait for someone",
+    "audio": "media/audio_775.mp3"
   },
   {
     "russian": "лежа́ть",
-    "english": "lie (down)"
+    "english": "lie (down)",
+    "audio": "media/audio_557.mp3"
   },
   {
     "russian": "найти́",
-    "english": "find"
+    "english": "find",
+    "audio": "media/audio_726.mp3"
   },
   {
     "russian": "реши́ть",
-    "english": "decide"
+    "english": "decide",
+    "audio": "media/audio_246.mp3"
   },
   {
     "russian": "верну́ться",
-    "english": "to return"
+    "english": "to return",
+    "audio": "media/audio_872.mp3"
   },
   {
     "russian": "счита́ть",
-    "english": "count"
+    "english": "count",
+    "audio": "media/audio_87.mp3"
   },
   {
     "russian": "по́мнить",
-    "english": "to remember"
+    "english": "to remember",
+    "audio": "media/audio_1175.mp3"
   },
   {
     "russian": "получи́ть",
-    "english": "get"
+    "english": "get",
+    "audio": "media/audio_129.mp3"
   },
   {
     "russian": "ходи́ть",
-    "english": "walk (multidirectional)"
+    "english": "walk (multidirectional)",
+    "audio": "media/audio_1085.mp3"
   },
   {
     "russian": "быва́ть",
-    "english": "happen to be"
+    "english": "happen to be",
+    "audio": "media/audio_1039.mp3"
   },
   {
     "russian": "прийти́",
-    "english": "come"
+    "english": "come",
+    "audio": "media/audio_76.mp3"
   },
   {
     "russian": "узна́ть",
-    "english": "recognize"
+    "english": "recognize",
+    "audio": "media/audio_732.mp3"
   },
   {
     "russian": "заме́тить",
-    "english": "notice"
+    "english": "notice",
+    "audio": "media/audio_291.mp3"
   },
   {
     "russian": "уйти́",
-    "english": "withdraw"
+    "english": "withdraw",
+    "audio": "media/audio_116.mp3"
   },
   {
     "russian": "слы́шать",
-    "english": "hear"
+    "english": "hear",
+    "audio": "media/audio_1297.mp3"
   },
   {
     "russian": "слу́шать",
-    "english": "listen"
+    "english": "listen",
+    "audio": "media/audio_503.mp3"
   },
   {
     "russian": "боя́ться",
-    "english": "afraid"
+    "english": "afraid",
+    "audio": "media/audio_308.mp3"
   },
   {
     "russian": "гляде́ть",
-    "english": "look"
+    "english": "look",
+    "audio": "media/audio_645.mp3"
   },
   {
     "russian": "сесть",
-    "english": "sit down"
+    "english": "sit down",
+    "audio": "media/audio_608.mp3"
   },
   {
     "russian": "чита́ть",
-    "english": "read"
+    "english": "read",
+    "audio": "media/audio_202.mp3"
   },
   {
     "russian": "остава́ться",
-    "english": "to stay"
+    "english": "to stay",
+    "audio": "media/audio_429.mp3"
   },
   {
     "russian": "брать",
-    "english": "take"
+    "english": "take",
+    "audio": "media/audio_240.mp3"
   },
   {
     "russian": "написа́ть",
-    "english": "write"
+    "english": "write",
+    "audio": "media/audio_682.mp3"
   },
   {
     "russian": "начина́ть",
-    "english": "begin"
+    "english": "begin",
+    "audio": "media/audio_34.mp3"
   },
   {
     "russian": "чу́вствовать",
-    "english": "feel"
+    "english": "feel",
+    "audio": "media/audio_120.mp3"
   },
   {
     "russian": "успе́ть",
-    "english": "have time"
+    "english": "have time",
+    "audio": "media/audio_1047.mp3"
   },
   {
     "russian": "продолжа́ть",
-    "english": "to continue"
+    "english": "to continue",
+    "audio": "media/audio_162.mp3"
   },
   {
     "russian": "забы́ть",
-    "english": "forget"
+    "english": "forget",
+    "audio": "media/audio_69.mp3"
   },
   {
     "russian": "пройти́",
-    "english": "pass by somewhere"
+    "english": "pass by somewhere",
+    "audio": "media/audio_602.mp3"
   },
   {
     "russian": "появи́ться",
-    "english": "to appear somewhere"
+    "english": "to appear somewhere",
+    "audio": "media/audio_828.mp3"
   },
   {
     "russian": "проси́ть",
-    "english": "request"
+    "english": "request",
+    "audio": "media/audio_61.mp3"
   },
   {
     "russian": "пыта́ться",
-    "english": "try to attempt"
+    "english": "try to attempt",
+    "audio": "media/audio_670.mp3"
   },
   {
     "russian": "показа́ть",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_1051.mp3"
   },
   {
     "russian": "вспо́мнить",
-    "english": "remember"
+    "english": "remember",
+    "audio": "media/audio_147.mp3"
   },
   {
     "russian": "держа́ть",
-    "english": "hold"
+    "english": "hold",
+    "audio": "media/audio_1000.mp3"
   },
   {
     "russian": "называ́ть",
-    "english": "to name"
+    "english": "to name",
+    "audio": "media/audio_1188.mp3"
   },
   {
     "russian": "уходи́ть",
-    "english": "exit"
+    "english": "exit",
+    "audio": "media/audio_825.mp3"
   },
   {
     "russian": "подойти́",
-    "english": "to approach"
+    "english": "to approach",
+    "audio": "media/audio_1267.mp3"
   },
   {
     "russian": "подня́ть",
-    "english": "raise"
+    "english": "raise",
+    "audio": "media/audio_237.mp3"
   },
   {
     "russian": "спра́шивать",
-    "english": "ask"
+    "english": "ask",
+    "audio": "media/audio_486.mp3"
   },
   {
     "russian": "бро́сить",
-    "english": "throw"
+    "english": "throw",
+    "audio": "media/audio_380.mp3"
   },
   {
     "russian": "посла́ть",
-    "english": "to send something"
+    "english": "to send something",
+    "audio": "media/audio_1223.mp3"
   },
   {
     "russian": "находи́ться",
-    "english": "to be located in some place"
+    "english": "to be located in some place",
+    "audio": "media/audio_1196.mp3"
   },
   {
     "russian": "поста́вить",
-    "english": "put"
+    "english": "put",
+    "audio": "media/audio_318.mp3"
   },
   {
     "russian": "встать",
-    "english": "get up"
+    "english": "get up",
+    "audio": "media/audio_92.mp3"
   },
   {
     "russian": "игра́ть",
-    "english": "play"
+    "english": "play",
+    "audio": "media/audio_199.mp3"
   },
   {
     "russian": "сле́довать",
-    "english": "follow"
+    "english": "follow",
+    "audio": "media/audio_333.mp3"
   },
   {
     "russian": "рассказа́ть",
-    "english": "tell"
+    "english": "tell",
+    "audio": "media/audio_782.mp3"
   },
   {
     "russian": "спать",
-    "english": "sleep"
+    "english": "sleep",
+    "audio": "media/audio_496.mp3"
   },
   {
     "russian": "оста́вить",
-    "english": "leave behind"
+    "english": "leave behind",
+    "audio": "media/audio_1040.mp3"
   },
   {
     "russian": "войти́",
-    "english": "enter in"
+    "english": "enter in",
+    "audio": "media/audio_632.mp3"
   },
   {
     "russian": "молча́ть",
-    "english": "silent"
+    "english": "silent",
+    "audio": "media/audio_395.mp3"
   },
   {
     "russian": "расска́зывать",
-    "english": "tell"
+    "english": "tell",
+    "audio": "media/audio_56.mp3"
   },
   {
     "russian": "отвеча́ть",
-    "english": "answer"
+    "english": "answer",
+    "audio": "media/audio_1251.mp3"
   },
   {
     "russian": "станови́ться",
-    "english": "stand"
+    "english": "stand",
+    "audio": "media/audio_172.mp3"
   },
   {
     "russian": "останови́ться",
-    "english": "to stay somewhere"
+    "english": "to stay somewhere",
+    "audio": "media/audio_551.mp3"
   },
   {
     "russian": "иска́ть",
-    "english": "search"
+    "english": "search",
+    "audio": "media/audio_567.mp3"
   },
   {
     "russian": "нача́ть",
-    "english": "start"
+    "english": "start",
+    "audio": "media/audio_1202.mp3"
   },
   {
     "russian": "ве́рить",
-    "english": "believe"
+    "english": "believe",
+    "audio": "media/audio_53.mp3"
   },
   {
     "russian": "явля́ться",
-    "english": "appear"
+    "english": "appear",
+    "audio": "media/audio_152.mp3"
   },
   {
     "russian": "смочь",
-    "english": "be able"
+    "english": "be able",
+    "audio": "media/audio_635.mp3"
   },
   {
     "russian": "бежа́ть",
-    "english": "run (unidirectional)"
+    "english": "run (unidirectional)",
+    "audio": "media/audio_693.mp3"
   },
   {
     "russian": "прие́хать",
-    "english": "to come"
+    "english": "to come",
+    "audio": "media/audio_1225.mp3"
   },
   {
     "russian": "крича́ть",
-    "english": "to scream"
+    "english": "to scream",
+    "audio": "media/audio_23.mp3"
   },
   {
     "russian": "откры́ть",
-    "english": "open"
+    "english": "open",
+    "audio": "media/audio_1026.mp3"
   },
   {
     "russian": "происходи́ть",
-    "english": "to take place"
+    "english": "to take place",
+    "audio": "media/audio_921.mp3"
   },
   {
     "russian": "е́хать",
-    "english": "go"
+    "english": "go",
+    "audio": "media/audio_18.mp3"
   },
   {
     "russian": "приходи́ть",
-    "english": "come"
+    "english": "come",
+    "audio": "media/audio_424.mp3"
   },
   {
     "russian": "подня́ться",
-    "english": "to go up (stairs"
+    "english": "to go up (stairs",
+    "audio": "media/audio_512.mp3"
   },
   {
     "russian": "показа́ться",
-    "english": "seem"
+    "english": "seem",
+    "audio": "media/audio_835.mp3"
   },
   {
     "russian": "собира́ться",
-    "english": "gather"
+    "english": "gather",
+    "audio": "media/audio_1067.mp3"
   },
   {
     "russian": "попа́сть",
-    "english": "to hit someone"
+    "english": "to hit someone",
+    "audio": "media/audio_845.mp3"
   },
   {
     "russian": "приня́ть",
-    "english": "take"
+    "english": "take",
+    "audio": "media/audio_1244.mp3"
   },
   {
     "russian": "пое́хать",
-    "english": "go (transportation)"
+    "english": "go (transportation)",
+    "audio": "media/audio_963.mp3"
   },
   {
     "russian": "услы́шать",
-    "english": "listen"
+    "english": "listen",
+    "audio": "media/audio_1391.mp3"
   },
   {
     "russian": "уме́ть",
-    "english": "be able"
+    "english": "be able",
+    "audio": "media/audio_778.mp3"
   },
   {
     "russian": "случи́ться",
-    "english": "happen"
+    "english": "happen",
+    "audio": "media/audio_27.mp3"
   },
   {
     "russian": "стара́ться",
-    "english": "try"
+    "english": "try",
+    "audio": "media/audio_829.mp3"
   },
   {
     "russian": "звать",
-    "english": "call"
+    "english": "call",
+    "audio": "media/audio_273.mp3"
   },
   {
     "russian": "произойти́",
-    "english": "to take place"
+    "english": "to take place",
+    "audio": "media/audio_1204.mp3"
   },
   {
     "russian": "занима́ться",
-    "english": "to get involved in"
+    "english": "to get involved in",
+    "audio": "media/audio_564.mp3"
   },
   {
     "russian": "положи́ть",
-    "english": "lay"
+    "english": "lay",
+    "audio": "media/audio_722.mp3"
   },
   {
     "russian": "купи́ть",
-    "english": "buy"
+    "english": "buy",
+    "audio": "media/audio_1029.mp3"
   },
   {
     "russian": "умере́ть",
-    "english": "die"
+    "english": "die",
+    "audio": "media/audio_362.mp3"
   },
   {
     "russian": "пить",
-    "english": "drink"
+    "english": "drink",
+    "audio": "media/audio_477.mp3"
   },
   {
     "russian": "проходи́ть",
-    "english": "pass by somewhere"
+    "english": "pass by somewhere",
+    "audio": "media/audio_469.mp3"
   },
   {
     "russian": "снять",
-    "english": "take off"
+    "english": "take off",
+    "audio": "media/audio_763.mp3"
   },
   {
     "russian": "нача́ться",
-    "english": "begin"
+    "english": "begin",
+    "audio": "media/audio_988.mp3"
   },
   {
     "russian": "представля́ть",
-    "english": "to present"
+    "english": "to present",
+    "audio": "media/audio_766.mp3"
   },
   {
     "russian": "объясни́ть",
-    "english": "explain"
+    "english": "explain",
+    "audio": "media/audio_810.mp3"
   },
   {
     "russian": "произнести́",
-    "english": "to prounounce"
+    "english": "to prounounce",
+    "audio": "media/audio_958.mp3"
   },
   {
     "russian": "нра́виться",
-    "english": "like"
+    "english": "like",
+    "audio": "media/audio_478.mp3"
   },
   {
     "russian": "существова́ть",
-    "english": "exist"
+    "english": "exist",
+    "audio": "media/audio_1092.mp3"
   },
   {
     "russian": "уда́ться",
-    "english": "succeed"
+    "english": "succeed",
+    "audio": "media/audio_666.mp3"
   },
   {
     "russian": "прийти́сь",
-    "english": "fit"
+    "english": "fit",
+    "audio": "media/audio_867.mp3"
   },
   {
     "russian": "предста́вить",
-    "english": "to present"
+    "english": "to present",
+    "audio": "media/audio_229.mp3"
   },
   {
     "russian": "назва́ть",
-    "english": "to name"
+    "english": "to name",
+    "audio": "media/audio_44.mp3"
   },
   {
     "russian": "улыба́ться",
-    "english": "smile"
+    "english": "smile",
+    "audio": "media/audio_253.mp3"
   },
   {
     "russian": "улыбну́ться",
-    "english": "smile"
+    "english": "smile",
+    "audio": "media/audio_436.mp3"
   },
   {
     "russian": "смея́ться",
-    "english": "laugh"
+    "english": "laugh",
+    "audio": "media/audio_1197.mp3"
   },
   {
     "russian": "хвата́ть",
-    "english": "snatch"
+    "english": "snatch",
+    "audio": "media/audio_859.mp3"
   },
   {
     "russian": "почу́вствовать",
-    "english": "feel"
+    "english": "feel",
+    "audio": "media/audio_823.mp3"
   },
   {
     "russian": "принести́",
-    "english": "carry on foot"
+    "english": "carry on foot",
+    "audio": "media/audio_877.mp3"
   },
   {
     "russian": "согласи́ться",
-    "english": "agree"
+    "english": "agree",
+    "audio": "media/audio_242.mp3"
   },
   {
     "russian": "хвати́ть",
-    "english": "suffice"
+    "english": "suffice",
+    "audio": "media/audio_790.mp3"
   },
   {
     "russian": "принима́ть",
-    "english": "accept"
+    "english": "accept",
+    "audio": "media/audio_1377.mp3"
   },
   {
     "russian": "уби́ть",
-    "english": "kill"
+    "english": "kill",
+    "audio": "media/audio_537.mp3"
   },
   {
     "russian": "предложи́ть",
-    "english": "to suggest"
+    "english": "to suggest",
+    "audio": "media/audio_302.mp3"
   },
   {
     "russian": "приходи́ться",
-    "english": "fit"
+    "english": "fit",
+    "audio": "media/audio_1145.mp3"
   },
   {
     "russian": "вы́пить",
-    "english": "drink"
+    "english": "drink",
+    "audio": "media/audio_150.mp3"
   },
   {
     "russian": "кри́кнуть",
-    "english": "cry"
+    "english": "cry",
+    "audio": "media/audio_1152.mp3"
   },
   {
     "russian": "пока́зывать",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_1070.mp3"
   },
   {
     "russian": "вы́звать",
-    "english": "call"
+    "english": "call",
+    "audio": "media/audio_78.mp3"
   },
   {
     "russian": "попроси́ть",
-    "english": "ask"
+    "english": "ask",
+    "audio": "media/audio_1049.mp3"
   },
   {
     "russian": "ока́зываться",
-    "english": "find oneself"
+    "english": "find oneself",
+    "audio": "media/audio_402.mp3"
   },
   {
     "russian": "привести́",
-    "english": "to bring"
+    "english": "to bring",
+    "audio": "media/audio_421.mp3"
   },
   {
     "russian": "возвраща́ться",
-    "english": "go back"
+    "english": "go back",
+    "audio": "media/audio_895.mp3"
   },
   {
     "russian": "тре́бовать",
-    "english": "demand"
+    "english": "demand",
+    "audio": "media/audio_1137.mp3"
   },
   {
     "russian": "потеря́ть",
-    "english": "lose"
+    "english": "lose",
+    "audio": "media/audio_1380.mp3"
   },
   {
     "russian": "доста́ть",
-    "english": "to reach"
+    "english": "to reach",
+    "audio": "media/audio_553.mp3"
   },
   {
     "russian": "сообщи́ть",
-    "english": "report"
+    "english": "report",
+    "audio": "media/audio_929.mp3"
   },
   {
     "russian": "появля́ться",
-    "english": "to appear somewhere"
+    "english": "to appear somewhere",
+    "audio": "media/audio_774.mp3"
   },
   {
     "russian": "упа́сть",
-    "english": "fall"
+    "english": "fall",
+    "audio": "media/audio_1190.mp3"
   },
   {
     "russian": "получи́ться",
-    "english": "turn out"
+    "english": "turn out",
+    "audio": "media/audio_14.mp3"
   },
   {
     "russian": "провести́",
-    "english": "to take someone somewhere"
+    "english": "to take someone somewhere",
+    "audio": "media/audio_975.mp3"
   },
   {
     "russian": "прости́ть",
-    "english": "forgive"
+    "english": "forgive",
+    "audio": "media/audio_813.mp3"
   },
   {
     "russian": "бить",
-    "english": "beat"
+    "english": "beat",
+    "audio": "media/audio_1015.mp3"
   },
   {
     "russian": "кивну́ть",
-    "english": "nod"
+    "english": "nod",
+    "audio": "media/audio_167.mp3"
   },
   {
     "russian": "исче́знуть",
-    "english": "disappear"
+    "english": "disappear",
+    "audio": "media/audio_177.mp3"
   },
   {
     "russian": "отда́ть",
-    "english": "return"
+    "english": "return",
+    "audio": "media/audio_1131.mp3"
   },
   {
     "russian": "слать",
-    "english": "send"
+    "english": "send",
+    "audio": "media/audio_82.mp3"
   },
   {
     "russian": "вспомина́ть",
-    "english": "remember"
+    "english": "remember",
+    "audio": "media/audio_1334.mp3"
   },
   {
     "russian": "вздохну́ть",
-    "english": "breathe"
+    "english": "breathe",
+    "audio": "media/audio_672.mp3"
   },
   {
     "russian": "петь",
-    "english": "sing"
+    "english": "sing",
+    "audio": "media/audio_788.mp3"
   },
   {
     "russian": "сади́ться",
-    "english": "sit"
+    "english": "sit",
+    "audio": "media/audio_1229.mp3"
   },
   {
     "russian": "переста́ть",
-    "english": "stop"
+    "english": "stop",
+    "audio": "media/audio_930.mp3"
   },
   {
     "russian": "пожа́ловать",
-    "english": "grant"
+    "english": "grant",
+    "audio": "media/audio_490.mp3"
   },
   {
     "russian": "получа́ть",
-    "english": "receive"
+    "english": "receive",
+    "audio": "media/audio_951.mp3"
   },
   {
     "russian": "называ́ться",
-    "english": "(3rd person only)  to be called something"
+    "english": "(3rd person only)  to be called something",
+    "audio": "media/audio_330.mp3"
   },
   {
     "russian": "наде́яться",
-    "english": "to hope for"
+    "english": "to hope for",
+    "audio": "media/audio_1132.mp3"
   },
   {
     "russian": "протяну́ть",
-    "english": "pass"
+    "english": "pass",
+    "audio": "media/audio_1048.mp3"
   },
   {
     "russian": "подходи́ть",
-    "english": "to approach"
+    "english": "to approach",
+    "audio": "media/audio_652.mp3"
   },
   {
     "russian": "служи́ть",
-    "english": "serve"
+    "english": "serve",
+    "audio": "media/audio_345.mp3"
   },
   {
     "russian": "пове́рить",
-    "english": "believe"
+    "english": "believe",
+    "audio": "media/audio_1231.mp3"
   },
   {
     "russian": "взгляну́ть",
-    "english": "look"
+    "english": "look",
+    "audio": "media/audio_268.mp3"
   },
   {
     "russian": "вызыва́ть",
-    "english": "call"
+    "english": "call",
+    "audio": "media/audio_411.mp3"
   },
   {
     "russian": "ожида́ть",
-    "english": "wait"
+    "english": "wait",
+    "audio": "media/audio_1105.mp3"
   },
   {
     "russian": "висе́ть",
-    "english": "hang"
+    "english": "hang",
+    "audio": "media/audio_102.mp3"
   },
   {
     "russian": "созда́ть",
-    "english": "create"
+    "english": "create",
+    "audio": "media/audio_383.mp3"
   },
   {
     "russian": "уе́хать",
-    "english": "leave"
+    "english": "leave",
+    "audio": "media/audio_32.mp3"
   },
   {
     "russian": "вы́глядеть",
-    "english": "to look \"\"some how\"\" (+adverb or instrumental) -"
+    "english": "to look \"\"some how\"\" (+adverb or instrumental) -",
+    "audio": "media/audio_63.mp3"
   },
   {
     "russian": "учи́ться",
-    "english": "learn"
+    "english": "learn",
+    "audio": "media/audio_387.mp3"
   },
   {
     "russian": "разгова́ривать",
-    "english": "speak with"
+    "english": "speak with",
+    "audio": "media/audio_760.mp3"
   },
   {
     "russian": "помога́ть",
-    "english": "help"
+    "english": "help",
+    "audio": "media/audio_230.mp3"
   },
   {
     "russian": "поверну́ться",
-    "english": "turn (reflexive - turn someone's something)"
+    "english": "turn (reflexive - turn someone's something)",
+    "audio": "media/audio_305.mp3"
   },
   {
     "russian": "позво́лить",
-    "english": "allow"
+    "english": "allow",
+    "audio": "media/audio_516.mp3"
   },
   {
     "russian": "встре́тить",
-    "english": "meet"
+    "english": "meet",
+    "audio": "media/audio_1016.mp3"
   },
   {
     "russian": "входи́ть",
-    "english": "enter in"
+    "english": "enter in",
+    "audio": "media/audio_60.mp3"
   },
   {
     "russian": "обнару́жить",
-    "english": "discover"
+    "english": "discover",
+    "audio": "media/audio_1187.mp3"
   },
   {
     "russian": "нести́",
-    "english": "carry on foot"
+    "english": "carry on foot",
+    "audio": "media/audio_729.mp3"
   },
   {
     "russian": "присла́ть",
-    "english": "send"
+    "english": "send",
+    "audio": "media/audio_1311.mp3"
   },
   {
     "russian": "относи́ться",
-    "english": "treat"
+    "english": "treat",
+    "audio": "media/audio_543.mp3"
   },
   {
     "russian": "возника́ть",
-    "english": "arise"
+    "english": "arise",
+    "audio": "media/audio_863.mp3"
   },
   {
     "russian": "повтори́ть",
-    "english": "repeat"
+    "english": "repeat",
+    "audio": "media/audio_279.mp3"
   },
   {
     "russian": "поги́бнуть",
-    "english": "perish"
+    "english": "perish",
+    "audio": "media/audio_99.mp3"
   },
   {
     "russian": "горе́ть",
-    "english": "burn"
+    "english": "burn",
+    "audio": "media/audio_720.mp3"
   },
   {
     "russian": "пла́кать",
-    "english": "cry"
+    "english": "cry",
+    "audio": "media/audio_93.mp3"
   },
   {
     "russian": "дви́гаться",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_1211.mp3"
   },
   {
     "russian": "доба́вить",
-    "english": "add"
+    "english": "add",
+    "audio": "media/audio_688.mp3"
   },
   {
     "russian": "удиви́ться",
-    "english": "wonder"
+    "english": "wonder",
+    "audio": "media/audio_88.mp3"
   },
   {
     "russian": "де́йствовать",
-    "english": "operate"
+    "english": "operate",
+    "audio": "media/audio_594.mp3"
   },
   {
     "russian": "держа́ться",
-    "english": "hold on to"
+    "english": "hold on to",
+    "audio": "media/audio_1100.mp3"
   },
   {
     "russian": "лете́ть",
-    "english": "fly"
+    "english": "fly",
+    "audio": "media/audio_270.mp3"
   },
   {
     "russian": "носи́ть",
-    "english": "carry on foot"
+    "english": "carry on foot",
+    "audio": "media/audio_303.mp3"
   },
   {
     "russian": "привы́кнуть",
-    "english": "to get accustomed to something"
+    "english": "to get accustomed to something",
+    "audio": "media/audio_709.mp3"
   },
   {
     "russian": "позвони́ть",
-    "english": "to ring (a bell)"
+    "english": "to ring (a bell)",
+    "audio": "media/audio_535.mp3"
   },
   {
     "russian": "меша́ть",
-    "english": "disturb"
+    "english": "disturb",
+    "audio": "media/audio_75.mp3"
   },
   {
     "russian": "возни́кнуть",
-    "english": "appear"
+    "english": "appear",
+    "audio": "media/audio_38.mp3"
   },
   {
     "russian": "жела́ть",
-    "english": "wish"
+    "english": "wish",
+    "audio": "media/audio_758.mp3"
   },
   {
     "russian": "попро́бовать",
-    "english": "to try to do something"
+    "english": "to try to do something",
+    "audio": "media/audio_1299.mp3"
   },
   {
     "russian": "получа́ться",
-    "english": "turn out"
+    "english": "turn out",
+    "audio": "media/audio_1173.mp3"
   },
   {
     "russian": "ста́вить",
-    "english": "set up"
+    "english": "set up",
+    "audio": "media/audio_1108.mp3"
   },
   {
     "russian": "проводи́ть",
-    "english": "accompany"
+    "english": "accompany",
+    "audio": "media/audio_24.mp3"
   },
   {
     "russian": "обеща́ть",
-    "english": "promise"
+    "english": "promise",
+    "audio": "media/audio_19.mp3"
   },
   {
     "russian": "суди́ть",
-    "english": "judge"
+    "english": "judge",
+    "audio": "media/audio_558.mp3"
   },
   {
     "russian": "собра́ться",
-    "english": "gather"
+    "english": "gather",
+    "audio": "media/audio_607.mp3"
   },
   {
     "russian": "закрича́ть",
-    "english": "begin to cry out"
+    "english": "begin to cry out",
+    "audio": "media/audio_100.mp3"
   },
   {
     "russian": "ко́нчиться",
-    "english": "to end with (3rd person)"
+    "english": "to end with (3rd person)",
+    "audio": "media/audio_1091.mp3"
   },
   {
     "russian": "стреля́ть",
-    "english": "shoot"
+    "english": "shoot",
+    "audio": "media/audio_112.mp3"
   },
   {
     "russian": "испо́льзовать",
-    "english": "use"
+    "english": "use",
+    "audio": "media/audio_772.mp3"
   },
   {
     "russian": "переда́ть",
-    "english": "to transfer"
+    "english": "to transfer",
+    "audio": "media/audio_1133.mp3"
   },
   {
     "russian": "встава́ть",
-    "english": "rise"
+    "english": "rise",
+    "audio": "media/audio_1179.mp3"
   },
   {
     "russian": "снима́ть",
-    "english": "remove"
+    "english": "remove",
+    "audio": "media/audio_471.mp3"
   },
   {
     "russian": "звони́ть",
-    "english": "to ring (a bell)"
+    "english": "to ring (a bell)",
+    "audio": "media/audio_1293.mp3"
   },
   {
     "russian": "напомина́ть",
-    "english": "remind"
+    "english": "remind",
+    "audio": "media/audio_976.mp3"
   },
   {
     "russian": "приду́мать",
-    "english": "to think up"
+    "english": "to think up",
+    "audio": "media/audio_145.mp3"
   },
   {
     "russian": "па́дать",
-    "english": "fall"
+    "english": "fall",
+    "audio": "media/audio_818.mp3"
   },
   {
     "russian": "поговори́ть",
-    "english": "talk"
+    "english": "talk",
+    "audio": "media/audio_1121.mp3"
   },
   {
     "russian": "начина́ться",
-    "english": "start"
+    "english": "start",
+    "audio": "media/audio_1326.mp3"
   },
   {
     "russian": "приказа́ть",
-    "english": "to tell someone to do something"
+    "english": "to tell someone to do something",
+    "audio": "media/audio_838.mp3"
   },
   {
     "russian": "засмея́ться",
-    "english": "burst out laughing"
+    "english": "burst out laughing",
+    "audio": "media/audio_1272.mp3"
   },
   {
     "russian": "каса́ться",
-    "english": "touch"
+    "english": "touch",
+    "audio": "media/audio_754.mp3"
   },
   {
     "russian": "приня́ться",
-    "english": "to start doing something"
+    "english": "to start doing something",
+    "audio": "media/audio_1372.mp3"
   },
   {
     "russian": "заста́вить",
-    "english": "to force someone to do something"
+    "english": "to force someone to do something",
+    "audio": "media/audio_8.mp3"
   },
   {
     "russian": "поднима́ться",
-    "english": "to go up (stairs"
+    "english": "to go up (stairs",
+    "audio": "media/audio_1248.mp3"
   },
   {
     "russian": "уда́рить",
-    "english": "bump"
+    "english": "bump",
+    "audio": "media/audio_483.mp3"
   },
   {
     "russian": "разуме́ться",
-    "english": "understand (mostly used as a parenthesis"
+    "english": "understand (mostly used as a parenthesis",
+    "audio": "media/audio_1142.mp3"
   },
   {
     "russian": "встреча́ться",
-    "english": "meet"
+    "english": "meet",
+    "audio": "media/audio_1017.mp3"
   },
   {
     "russian": "попыта́ться",
-    "english": "try to attempt"
+    "english": "try to attempt",
+    "audio": "media/audio_650.mp3"
   },
   {
     "russian": "схвати́ть",
-    "english": "catch (also to catch a cold)"
+    "english": "catch (also to catch a cold)",
+    "audio": "media/audio_710.mp3"
   },
   {
     "russian": "отказа́ться",
-    "english": "refuse"
+    "english": "refuse",
+    "audio": "media/audio_559.mp3"
   },
   {
     "russian": "вы́тащить",
-    "english": "pull out"
+    "english": "pull out",
+    "audio": "media/audio_990.mp3"
   },
   {
     "russian": "предлага́ть",
-    "english": "to suggest"
+    "english": "to suggest",
+    "audio": "media/audio_1169.mp3"
   },
   {
     "russian": "отпра́виться",
-    "english": "to leave on a trip"
+    "english": "to leave on a trip",
+    "audio": "media/audio_58.mp3"
   },
   {
     "russian": "побежа́ть",
-    "english": "start running"
+    "english": "start running",
+    "audio": "media/audio_109.mp3"
   },
   {
     "russian": "кури́ть",
-    "english": "smoke"
+    "english": "smoke",
+    "audio": "media/audio_1182.mp3"
   },
   {
     "russian": "открыва́ть",
-    "english": "open"
+    "english": "open",
+    "audio": "media/audio_497.mp3"
   },
   {
     "russian": "зайти́",
-    "english": "to enter some place"
+    "english": "to enter some place",
+    "audio": "media/audio_1295.mp3"
   },
   {
     "russian": "замеча́ть",
-    "english": "notice"
+    "english": "notice",
+    "audio": "media/audio_554.mp3"
   },
   {
     "russian": "зако́нчить",
-    "english": "finish"
+    "english": "finish",
+    "audio": "media/audio_278.mp3"
   },
   {
     "russian": "следи́ть",
-    "english": "watch"
+    "english": "watch",
+    "audio": "media/audio_312.mp3"
   },
   {
     "russian": "бро́ситься",
-    "english": "rush"
+    "english": "rush",
+    "audio": "media/audio_426.mp3"
   },
   {
     "russian": "закры́ть",
-    "english": "close"
+    "english": "close",
+    "audio": "media/audio_885.mp3"
   },
   {
     "russian": "понра́виться",
-    "english": "please"
+    "english": "please",
+    "audio": "media/audio_1.mp3"
   },
   {
     "russian": "обрати́ться",
-    "english": "to address someone"
+    "english": "to address someone",
+    "audio": "media/audio_743.mp3"
   },
   {
     "russian": "веле́ть",
-    "english": "order"
+    "english": "order",
+    "audio": "media/audio_1232.mp3"
   },
   {
     "russian": "име́ться",
-    "english": "exist"
+    "english": "exist",
+    "audio": "media/audio_521.mp3"
   },
   {
     "russian": "опусти́ть",
-    "english": "lower"
+    "english": "lower",
+    "audio": "media/audio_299.mp3"
   },
   {
     "russian": "роди́ться",
-    "english": "be born"
+    "english": "be born",
+    "audio": "media/audio_264.mp3"
   },
   {
     "russian": "спасти́",
-    "english": "save"
+    "english": "save",
+    "audio": "media/audio_163.mp3"
   },
   {
     "russian": "извини́ть",
-    "english": "excuse"
+    "english": "excuse",
+    "audio": "media/audio_1174.mp3"
   },
   {
     "russian": "объяви́ть",
-    "english": "announce"
+    "english": "announce",
+    "audio": "media/audio_1075.mp3"
   },
   {
     "russian": "обраща́ться",
-    "english": "to address someone"
+    "english": "to address someone",
+    "audio": "media/audio_636.mp3"
   },
   {
     "russian": "спешить",
-    "english": "hasten"
+    "english": "hasten",
+    "audio": "media/audio_473.mp3"
   },
   {
     "russian": "наблюда́ть",
-    "english": "watch"
+    "english": "watch",
+    "audio": "media/audio_593.mp3"
   },
   {
     "russian": "суме́ть",
-    "english": "be able to"
+    "english": "be able to",
+    "audio": "media/audio_1139.mp3"
   },
   {
     "russian": "оберну́ться",
-    "english": "turn out"
+    "english": "turn out",
+    "audio": "media/audio_882.mp3"
   },
   {
     "russian": "просну́ться",
-    "english": "wake up"
+    "english": "wake up",
+    "audio": "media/audio_934.mp3"
   },
   {
     "russian": "подожда́ть",
-    "english": "wait for someone"
+    "english": "wait for someone",
+    "audio": "media/audio_852.mp3"
   },
   {
     "russian": "заговори́ть",
-    "english": "to start a talk"
+    "english": "to start a talk",
+    "audio": "media/audio_225.mp3"
   },
   {
     "russian": "по́льзоваться",
-    "english": "to use (take advantage of something)"
+    "english": "to use (take advantage of something)",
+    "audio": "media/audio_94.mp3"
   },
   {
     "russian": "повторя́ть",
-    "english": "repeat"
+    "english": "repeat",
+    "audio": "media/audio_384.mp3"
   },
   {
     "russian": "учи́ть",
-    "english": "teach"
+    "english": "teach",
+    "audio": "media/audio_569.mp3"
   },
   {
     "russian": "взя́ться",
-    "english": "undertake"
+    "english": "undertake",
+    "audio": "media/audio_848.mp3"
   },
   {
     "russian": "бе́гать",
-    "english": "run"
+    "english": "run",
+    "audio": "media/audio_718.mp3"
   },
   {
     "russian": "устро́ить",
-    "english": "arrange"
+    "english": "arrange",
+    "audio": "media/audio_67.mp3"
   },
   {
     "russian": "дыша́ть",
-    "english": "breathe"
+    "english": "breathe",
+    "audio": "media/audio_175.mp3"
   },
   {
     "russian": "лечь",
-    "english": "lie down"
+    "english": "lie down",
+    "audio": "media/audio_210.mp3"
   },
   {
     "russian": "состоя́ть",
-    "english": "consist"
+    "english": "consist",
+    "audio": "media/audio_771.mp3"
   },
   {
     "russian": "заходи́ть",
-    "english": "to enter some place"
+    "english": "to enter some place",
+    "audio": "media/audio_1083.mp3"
   },
   {
     "russian": "счита́ться",
-    "english": "to be considered"
+    "english": "to be considered",
+    "audio": "media/audio_689.mp3"
   },
   {
     "russian": "е́здить",
-    "english": "ride"
+    "english": "ride",
+    "audio": "media/audio_464.mp3"
   },
   {
     "russian": "останови́ть",
-    "english": "stop"
+    "english": "stop",
+    "audio": "media/audio_285.mp3"
   },
   {
     "russian": "встре́титься",
-    "english": "meet (3rd person only)"
+    "english": "meet (3rd person only)",
+    "audio": "media/audio_1392.mp3"
   },
   {
     "russian": "яви́ться",
-    "english": "to appear"
+    "english": "to appear",
+    "audio": "media/audio_159.mp3"
   },
   {
     "russian": "привезти́",
-    "english": "bring"
+    "english": "bring",
+    "audio": "media/audio_1381.mp3"
   },
   {
     "russian": "плати́ть",
-    "english": "pay"
+    "english": "pay",
+    "audio": "media/audio_624.mp3"
   },
   {
     "russian": "спасть",
-    "english": "fall down"
+    "english": "fall down",
+    "audio": "media/audio_1233.mp3"
   },
   {
     "russian": "здра́вствовать",
-    "english": "be in good health"
+    "english": "be in good health",
+    "audio": "media/audio_397.mp3"
   },
   {
     "russian": "позволя́ть",
-    "english": "let"
+    "english": "let",
+    "audio": "media/audio_1221.mp3"
   },
   {
     "russian": "заяви́ть",
-    "english": "to announce something"
+    "english": "to announce something",
+    "audio": "media/audio_39.mp3"
   },
   {
     "russian": "торча́ть",
-    "english": "stick out"
+    "english": "stick out",
+    "audio": "media/audio_1055.mp3"
   },
   {
     "russian": "пойма́ть",
-    "english": "catch"
+    "english": "catch",
+    "audio": "media/audio_1342.mp3"
   },
   {
     "russian": "собира́ть",
-    "english": "collect"
+    "english": "collect",
+    "audio": "media/audio_382.mp3"
   },
   {
     "russian": "находи́ть",
-    "english": "find"
+    "english": "find",
+    "audio": "media/audio_62.mp3"
   },
   {
     "russian": "собра́ть",
-    "english": "collect"
+    "english": "collect",
+    "audio": "media/audio_178.mp3"
   },
   {
     "russian": "наступи́ть",
-    "english": "come"
+    "english": "come",
+    "audio": "media/audio_806.mp3"
   },
   {
     "russian": "тяну́ть",
-    "english": "pull"
+    "english": "pull",
+    "audio": "media/audio_741.mp3"
   },
   {
     "russian": "броса́ть",
-    "english": "throw"
+    "english": "throw",
+    "audio": "media/audio_1281.mp3"
   },
   {
     "russian": "мечта́ть",
-    "english": "dream"
+    "english": "dream",
+    "audio": "media/audio_372.mp3"
   },
   {
     "russian": "захоте́ть",
-    "english": "wish"
+    "english": "wish",
+    "audio": "media/audio_912.mp3"
   },
   {
     "russian": "оставля́ть",
-    "english": "leave"
+    "english": "leave",
+    "audio": "media/audio_336.mp3"
   },
   {
     "russian": "усмехну́ться",
-    "english": "grin"
+    "english": "grin",
+    "audio": "media/audio_184.mp3"
   },
   {
     "russian": "пропасть",
-    "english": "to get lost"
+    "english": "to get lost",
+    "audio": "media/audio_1330.mp3"
   },
   {
     "russian": "вы́держать",
-    "english": "stand"
+    "english": "stand",
+    "audio": "media/audio_621.mp3"
   },
   {
     "russian": "встреча́ть",
-    "english": "meet"
+    "english": "meet",
+    "audio": "media/audio_491.mp3"
   },
   {
     "russian": "пуска́ть",
-    "english": "to let (permit)"
+    "english": "to let (permit)",
+    "audio": "media/audio_1125.mp3"
   },
   {
     "russian": "отпусти́ть",
-    "english": "to release"
+    "english": "to release",
+    "audio": "media/audio_747.mp3"
   },
   {
     "russian": "воскли́кнуть",
-    "english": "exclaim"
+    "english": "exclaim",
+    "audio": "media/audio_1317.mp3"
   },
   {
     "russian": "дрожа́ть",
-    "english": "tremble"
+    "english": "tremble",
+    "audio": "media/audio_660.mp3"
   },
   {
     "russian": "вы́брать",
-    "english": "choose"
+    "english": "choose",
+    "audio": "media/audio_1081.mp3"
   },
   {
     "russian": "пожа́ть",
-    "english": "shake (hands)"
+    "english": "shake (hands)",
+    "audio": "media/audio_662.mp3"
   },
   {
     "russian": "разда́ться",
-    "english": "go off"
+    "english": "go off",
+    "audio": "media/audio_840.mp3"
   },
   {
     "russian": "объясня́ть",
-    "english": "explain"
+    "english": "explain",
+    "audio": "media/audio_1005.mp3"
   },
   {
     "russian": "обрати́ть",
-    "english": "turn something into something"
+    "english": "turn something into something",
+    "audio": "media/audio_236.mp3"
   },
   {
     "russian": "су́нуть",
-    "english": "shove"
+    "english": "shove",
+    "audio": "media/audio_17.mp3"
   },
   {
     "russian": "разреши́ть",
-    "english": "solve"
+    "english": "solve",
+    "audio": "media/audio_1151.mp3"
   },
   {
     "russian": "призна́ться",
-    "english": "to confess"
+    "english": "to confess",
+    "audio": "media/audio_809.mp3"
   },
   {
     "russian": "составля́ть",
-    "english": "compose"
+    "english": "compose",
+    "audio": "media/audio_883.mp3"
   },
   {
     "russian": "вида́ть",
-    "english": "see"
+    "english": "see",
+    "audio": "media/audio_263.mp3"
   },
   {
     "russian": "занима́ть",
-    "english": "to occupy something"
+    "english": "to occupy something",
+    "audio": "media/audio_618.mp3"
   },
   {
     "russian": "теря́ть",
-    "english": "lose"
+    "english": "lose",
+    "audio": "media/audio_266.mp3"
   },
   {
     "russian": "вскочи́ть",
-    "english": "jump (up)"
+    "english": "jump (up)",
+    "audio": "media/audio_1023.mp3"
   },
   {
     "russian": "прочита́ть",
-    "english": "read"
+    "english": "read",
+    "audio": "media/audio_884.mp3"
   },
   {
     "russian": "лезть",
-    "english": "climb (up"
+    "english": "climb (up",
+    "audio": "media/audio_953.mp3"
   },
   {
     "russian": "отпра́вить",
-    "english": "send"
+    "english": "send",
+    "audio": "media/audio_984_word.mp3"
   },
   {
     "russian": "постро́ить",
-    "english": "build"
+    "english": "build",
+    "audio": "media/audio_1216_word.mp3"
   },
   {
     "russian": "пусти́ть",
-    "english": "to let (permit)"
+    "english": "to let (permit)",
+    "audio": "media/audio_1101_word.mp3"
   },
   {
     "russian": "загляну́ть",
-    "english": "to look in"
+    "english": "to look in",
+    "audio": "media/audio_1238_word.mp3"
   },
   {
     "russian": "проговори́ть",
-    "english": "utter"
+    "english": "utter",
+    "audio": "media/audio_1120_word.mp3"
   },
   {
     "russian": "прове́рить",
-    "english": "to check"
+    "english": "to check",
+    "audio": "media/audio_453_word.mp3"
   },
   {
     "russian": "боле́ть",
-    "english": "ache"
+    "english": "ache",
+    "audio": "media/audio_799_word.mp3"
   },
   {
     "russian": "поднима́ть",
-    "english": "lift"
+    "english": "lift",
+    "audio": "media/audio_1046_word.mp3"
   },
   {
     "russian": "означа́ть",
-    "english": "mean"
+    "english": "mean",
+    "audio": "media/audio_179_word.mp3"
   },
   {
     "russian": "говори́ться",
-    "english": "(if used in present"
+    "english": "(if used in present",
+    "audio": "media/audio_350_word.mp3"
   },
   {
     "russian": "испы́тывать",
-    "english": "to experience"
+    "english": "to experience",
+    "audio": "media/audio_15_word.mp3"
   },
   {
     "russian": "жени́ться",
-    "english": "get married"
+    "english": "get married",
+    "audio": "media/audio_220_word.mp3"
   },
   {
     "russian": "огляну́ться",
-    "english": "look"
+    "english": "look",
+    "audio": "media/audio_68_word.mp3"
   },
   {
     "russian": "пригласи́ть",
-    "english": "to invite someone somewhere"
+    "english": "to invite someone somewhere",
+    "audio": "media/audio_725_word.mp3"
   },
   {
     "russian": "принадлежа́ть",
-    "english": "to belong to"
+    "english": "to belong to",
+    "audio": "media/audio_337_word.mp3"
   },
   {
     "russian": "строить",
-    "english": "build"
+    "english": "build",
+    "audio": "media/audio_241_word.mp3"
   },
   {
     "russian": "перейти́",
-    "english": "to walk across something"
+    "english": "to walk across something",
+    "audio": "media/audio_444_word.mp3"
   },
   {
     "russian": "повезти́",
-    "english": "transport"
+    "english": "transport",
+    "audio": "media/audio_1009_word.mp3"
   },
   {
     "russian": "погляде́ть",
-    "english": "have a look at"
+    "english": "have a look at",
+    "audio": "media/audio_1107_word.mp3"
   },
   {
     "russian": "поверну́ть",
-    "english": "turn"
+    "english": "turn",
+    "audio": "media/audio_125_word.mp3"
   },
   {
     "russian": "добра́ться",
-    "english": "get"
+    "english": "get",
+    "audio": "media/audio_571_word.mp3"
   },
   {
     "russian": "призна́ть",
-    "english": "to admit"
+    "english": "to admit",
+    "audio": "media/audio_1003_word.mp3"
   },
   {
     "russian": "поступи́ть",
-    "english": "to start doing something general (infinitive) somewhere"
+    "english": "to start doing something general (infinitive) somewhere",
+    "audio": "media/audio_1002_word.mp3"
   },
   {
     "russian": "торопи́ться",
-    "english": "rush"
+    "english": "rush",
+    "audio": "media/audio_873_word.mp3"
   },
   {
     "russian": "вы́нуть",
-    "english": "remove"
+    "english": "remove",
+    "audio": "media/audio_339_word.mp3"
   },
   {
     "russian": "сто́ить",
-    "english": "cost"
+    "english": "cost",
+    "audio": "media/audio_3_word.mp3"
   },
   {
     "russian": "полага́ть",
-    "english": "believe"
+    "english": "believe",
+    "audio": "media/audio_993_word.mp3"
   },
   {
     "russian": "послу́шать",
-    "english": "listen"
+    "english": "listen",
+    "audio": "media/audio_1253_word.mp3"
   },
   {
     "russian": "отме́тить",
-    "english": "note"
+    "english": "note",
+    "audio": "media/audio_821_word.mp3"
   },
   {
     "russian": "утвержда́ть",
-    "english": "claim"
+    "english": "claim",
+    "audio": "media/audio_16_word.mp3"
   },
   {
     "russian": "отлича́ться",
-    "english": "differ"
+    "english": "differ",
+    "audio": "media/audio_215_word.mp3"
   },
   {
     "russian": "вы́скочить",
-    "english": "jump out"
+    "english": "jump out",
+    "audio": "media/audio_396_word.mp3"
   },
   {
     "russian": "приезжа́ть",
-    "english": "to come"
+    "english": "to come",
+    "audio": "media/audio_779_word.mp3"
   },
   {
     "russian": "кати́ть",
-    "english": "roll"
+    "english": "roll",
+    "audio": "media/audio_218_word.mp3"
   },
   {
     "russian": "расти́",
-    "english": "(of a plant) to grow"
+    "english": "(of a plant) to grow",
+    "audio": "media/audio_168_word.mp3"
   },
   {
     "russian": "верну́ть",
-    "english": "retrieve"
+    "english": "retrieve",
+    "audio": "media/audio_832_word.mp3"
   },
   {
     "russian": "зави́сеть",
-    "english": "depend"
+    "english": "depend",
+    "audio": "media/audio_528_word.mp3"
   },
   {
     "russian": "познако́миться",
-    "english": "become acquainted"
+    "english": "become acquainted",
+    "audio": "media/audio_1388_word.mp3"
   },
   {
     "russian": "жа́лить",
-    "english": "sting"
+    "english": "sting",
+    "audio": "media/audio_1303_word.mp3"
   },
   {
     "russian": "найти́сь",
-    "english": "be found"
+    "english": "be found",
+    "audio": "media/audio_415_word.mp3"
   },
   {
     "russian": "де́латься",
-    "english": "become"
+    "english": "become",
+    "audio": "media/audio_385_word.mp3"
   },
   {
     "russian": "догада́ться",
-    "english": "guess"
+    "english": "guess",
+    "audio": "media/audio_1312_word.mp3"
   },
   {
     "russian": "прожи́ть",
-    "english": "live (out)"
+    "english": "live (out)",
+    "audio": "media/audio_173_word.mp3"
   },
   {
     "russian": "гуля́ть",
-    "english": "walk"
+    "english": "walk",
+    "audio": "media/audio_254_word.mp3"
   },
   {
     "russian": "разобра́ться",
-    "english": "to look into"
+    "english": "to look into",
+    "audio": "media/audio_22_word.mp3"
   },
   {
     "russian": "обраща́ть",
-    "english": "turn something into something"
+    "english": "turn something into something",
+    "audio": "media/audio_176_word.mp3"
   },
   {
     "russian": "отдава́ть",
-    "english": "give back"
+    "english": "give back",
+    "audio": "media/audio_721_word.mp3"
   },
   {
     "russian": "сходи́ть",
-    "english": "descend"
+    "english": "descend",
+    "audio": "media/audio_702_word.mp3"
   },
   {
     "russian": "звуча́ть",
-    "english": "sound"
+    "english": "sound",
+    "audio": "media/audio_198_word.mp3"
   },
   {
     "russian": "волнова́ться",
-    "english": "worry"
+    "english": "worry",
+    "audio": "media/audio_703_word.mp3"
   },
   {
     "russian": "подать",
-    "english": "to give"
+    "english": "to give",
+    "audio": "media/audio_306_word.mp3"
   },
   {
     "russian": "гото́вить",
-    "english": "to prepare"
+    "english": "to prepare",
+    "audio": "media/audio_876_word.mp3"
   },
   {
     "russian": "жале́ть",
-    "english": "to regret"
+    "english": "to regret",
+    "audio": "media/audio_52_word.mp3"
   },
   {
     "russian": "врать",
-    "english": "lie"
+    "english": "lie",
+    "audio": "media/audio_1001_word.mp3"
   },
   {
     "russian": "возрази́ть",
-    "english": "object"
+    "english": "object",
+    "audio": "media/audio_1343_word.mp3"
   },
   {
     "russian": "гото́виться",
-    "english": "prepare for something"
+    "english": "prepare for something",
+    "audio": "media/audio_697_word.mp3"
   },
   {
     "russian": "преврати́ться",
-    "english": "to turn"
+    "english": "to turn",
+    "audio": "media/audio_1102_word.mp3"
   },
   {
     "russian": "терпе́ть",
-    "english": "endure"
+    "english": "endure",
+    "audio": "media/audio_256_word.mp3"
   },
   {
     "russian": "махну́ть",
-    "english": "to wave"
+    "english": "to wave",
+    "audio": "media/audio_390_word.mp3"
   },
   {
     "russian": "определи́ть",
-    "english": "determine"
+    "english": "determine",
+    "audio": "media/audio_458_word.mp3"
   },
   {
     "russian": "вы́пустить",
-    "english": "release (to let something out)"
+    "english": "release (to let something out)",
+    "audio": "media/audio_192.mp3"
   },
   {
     "russian": "выступа́ть",
-    "english": "perform"
+    "english": "perform",
+    "audio": "media/audio_84.mp3"
   },
   {
     "russian": "рассма́тривать",
-    "english": "to examine"
+    "english": "to examine",
+    "audio": "media/audio_437.mp3"
   },
   {
     "russian": "отойти́",
-    "english": "step aside"
+    "english": "step aside",
+    "audio": "media/audio_647.mp3"
   },
   {
     "russian": "вы́расти",
-    "english": "(of a plant OR a person) to grow (up)"
+    "english": "(of a plant OR a person) to grow (up)",
+    "audio": "media/audio_1150.mp3"
   },
   {
     "russian": "перевести́",
-    "english": "to translate"
+    "english": "to translate",
+    "audio": "media/audio_574.mp3"
   },
   {
     "russian": "посади́ть",
-    "english": "seat"
+    "english": "seat",
+    "audio": "media/audio_1352.mp3"
   },
   {
     "russian": "ора́ть",
-    "english": "yell"
+    "english": "yell",
+    "audio": "media/audio_449.mp3"
   },
   {
     "russian": "обойти́сь",
-    "english": "to do without"
+    "english": "to do without",
+    "audio": "media/audio_468.mp3"
   },
   {
     "russian": "вы́дать",
-    "english": "issue"
+    "english": "issue",
+    "audio": "media/audio_856.mp3"
   },
   {
     "russian": "воева́ть",
-    "english": "fight"
+    "english": "fight",
+    "audio": "media/audio_80.mp3"
   },
   {
     "russian": "остана́вливаться",
-    "english": "stop"
+    "english": "stop",
+    "audio": "media/audio_1071.mp3"
   },
   {
     "russian": "облада́ть",
-    "english": "have"
+    "english": "have",
+    "audio": "media/audio_113.mp3"
   },
   {
     "russian": "прода́ть",
-    "english": "sell"
+    "english": "sell",
+    "audio": "media/audio_1115.mp3"
   },
   {
     "russian": "спо́рить",
-    "english": "argue"
+    "english": "argue",
+    "audio": "media/audio_1224.mp3"
   },
   {
     "russian": "поле́зть",
-    "english": "climb into"
+    "english": "climb into",
+    "audio": "media/audio_944.mp3"
   },
   {
     "russian": "выполня́ть",
-    "english": "to complete"
+    "english": "to complete",
+    "audio": "media/audio_1329.mp3"
   },
   {
     "russian": "тре́боваться",
-    "english": "to be needed"
+    "english": "to be needed",
+    "audio": "media/audio_492.mp3"
   },
   {
     "russian": "умира́ть",
-    "english": "die"
+    "english": "die",
+    "audio": "media/audio_1078.mp3"
   },
   {
     "russian": "дойти́",
-    "english": "to go and to reach someplace on foot"
+    "english": "to go and to reach someplace on foot",
+    "audio": "media/audio_319.mp3"
   },
   {
     "russian": "успоко́иться",
-    "english": "calm down"
+    "english": "calm down",
+    "audio": "media/audio_377.mp3"
   },
   {
     "russian": "приближа́ться",
-    "english": "to approach"
+    "english": "to approach",
+    "audio": "media/audio_239.mp3"
   },
   {
     "russian": "лета́ть",
-    "english": "fly"
+    "english": "fly",
+    "audio": "media/audio_417.mp3"
   },
   {
     "russian": "убива́ть",
-    "english": "kill"
+    "english": "kill",
+    "audio": "media/audio_1336.mp3"
   },
   {
     "russian": "дви́нуться",
-    "english": "advance"
+    "english": "advance",
+    "audio": "media/audio_730.mp3"
   },
   {
     "russian": "спусти́ться",
-    "english": "descend"
+    "english": "descend",
+    "audio": "media/audio_1371.mp3"
   },
   {
     "russian": "установи́ть",
-    "english": "establish"
+    "english": "establish",
+    "audio": "media/audio_713.mp3"
   },
   {
     "russian": "забыва́ть",
-    "english": "forget"
+    "english": "forget",
+    "audio": "media/audio_681.mp3"
   },
   {
     "russian": "позва́ть",
-    "english": "call"
+    "english": "call",
+    "audio": "media/audio_123.mp3"
   },
   {
     "russian": "испуга́ться",
-    "english": "to take fright (at)"
+    "english": "to take fright (at)",
+    "audio": "media/audio_95.mp3"
   },
   {
     "russian": "съесть",
-    "english": "eat"
+    "english": "eat",
+    "audio": "media/audio_830.mp3"
   },
   {
     "russian": "проче́сть",
-    "english": "read"
+    "english": "read",
+    "audio": "media/audio_485.mp3"
   },
   {
     "russian": "заду́маться",
-    "english": "think (about"
+    "english": "think (about",
+    "audio": "media/audio_868.mp3"
   },
   {
     "russian": "реша́ть",
-    "english": "decide"
+    "english": "decide",
+    "audio": "media/audio_296.mp3"
   },
   {
     "russian": "подари́ть",
-    "english": "gift"
+    "english": "gift",
+    "audio": "media/audio_361.mp3"
   },
   {
     "russian": "измени́ться",
-    "english": "change"
+    "english": "change",
+    "audio": "media/audio_598.mp3"
   },
   {
     "russian": "приводи́ть",
-    "english": "to bring"
+    "english": "to bring",
+    "audio": "media/audio_1323.mp3"
   },
   {
     "russian": "удивля́ться",
-    "english": "wonder (at)"
+    "english": "wonder (at)",
+    "audio": "media/audio_1255.mp3"
   },
   {
     "russian": "забра́ть",
-    "english": "collect"
+    "english": "collect",
+    "audio": "media/audio_918.mp3"
   },
   {
     "russian": "заня́ть",
-    "english": "to occupy something"
+    "english": "to occupy something",
+    "audio": "media/audio_526.mp3"
   },
   {
     "russian": "доказа́ть",
-    "english": "prove"
+    "english": "prove",
+    "audio": "media/audio_413.mp3"
   },
   {
     "russian": "вари́ть",
-    "english": "cook"
+    "english": "cook",
+    "audio": "media/audio_343.mp3"
   },
   {
     "russian": "измени́ть",
-    "english": "change"
+    "english": "change",
+    "audio": "media/audio_1205.mp3"
   },
   {
     "russian": "лови́ть",
-    "english": "catch"
+    "english": "catch",
+    "audio": "media/audio_913.mp3"
   },
   {
     "russian": "стреми́ться",
-    "english": "seek"
+    "english": "seek",
+    "audio": "media/audio_886.mp3"
   },
   {
     "russian": "тяну́ться",
-    "english": "stretch"
+    "english": "stretch",
+    "audio": "media/audio_764.mp3"
   },
   {
     "russian": "заставля́ть",
-    "english": "to force someone to do something"
+    "english": "to force someone to do something",
+    "audio": "media/audio_916.mp3"
   },
   {
     "russian": "страда́ть",
-    "english": "suffer"
+    "english": "suffer",
+    "audio": "media/audio_1357.mp3"
   },
   {
     "russian": "записа́ть",
-    "english": "to write down something"
+    "english": "to write down something",
+    "audio": "media/audio_1309.mp3"
   },
   {
     "russian": "интересова́ть",
-    "english": "interest"
+    "english": "interest",
+    "audio": "media/audio_1319.mp3"
   },
   {
     "russian": "включи́ть",
-    "english": "include"
+    "english": "include",
+    "audio": "media/audio_1027.mp3"
   },
   {
     "russian": "порази́ть",
-    "english": "hit"
+    "english": "hit",
+    "audio": "media/audio_363.mp3"
   },
   {
     "russian": "помолча́ть",
-    "english": "keep silent"
+    "english": "keep silent",
+    "audio": "media/audio_304.mp3"
   },
   {
     "russian": "откры́ться",
-    "english": "open"
+    "english": "open",
+    "audio": "media/audio_1143.mp3"
   },
   {
     "russian": "напра́вить",
-    "english": "to refer"
+    "english": "to refer",
+    "audio": "media/audio_1328.mp3"
   },
   {
     "russian": "запо́мнить",
-    "english": "to memorize"
+    "english": "to memorize",
+    "audio": "media/audio_1191.mp3"
   },
   {
     "russian": "боро́ться",
-    "english": "fight"
+    "english": "fight",
+    "audio": "media/audio_834.mp3"
   },
   {
     "russian": "везти́",
-    "english": "carry"
+    "english": "carry",
+    "audio": "media/audio_153.mp3"
   },
   {
     "russian": "научи́ться",
-    "english": "learn"
+    "english": "learn",
+    "audio": "media/audio_761.mp3"
   },
   {
     "russian": "назна́чить",
-    "english": "to appoint"
+    "english": "to appoint",
+    "audio": "media/audio_673.mp3"
   },
   {
     "russian": "выбира́ть",
-    "english": "choose"
+    "english": "choose",
+    "audio": "media/audio_515.mp3"
   },
   {
     "russian": "напо́мнить",
-    "english": "remind (of)"
+    "english": "remind (of)",
+    "audio": "media/audio_568.mp3"
   },
   {
     "russian": "сомнева́ться",
-    "english": "doubt"
+    "english": "doubt",
+    "audio": "media/audio_1185.mp3"
   },
   {
     "russian": "ра́доваться",
-    "english": "to rejoice in"
+    "english": "to rejoice in",
+    "audio": "media/audio_617.mp3"
   },
   {
     "russian": "покры́ть",
-    "english": "to cover something"
+    "english": "to cover something",
+    "audio": "media/audio_550.mp3"
   },
   {
     "russian": "гля́нуть",
-    "english": "glance"
+    "english": "glance",
+    "audio": "media/audio_744.mp3"
   },
   {
     "russian": "захвати́ть",
-    "english": "capture"
+    "english": "capture",
+    "audio": "media/audio_898.mp3"
   },
   {
     "russian": "приноси́ть",
-    "english": "to bring"
+    "english": "to bring",
+    "audio": "media/audio_1114.mp3"
   },
   {
     "russian": "соста́вить",
-    "english": "make up"
+    "english": "make up",
+    "audio": "media/audio_899.mp3"
   },
   {
     "russian": "кости́ть",
-    "english": "abuse?"
+    "english": "abuse?",
+    "audio": "media/audio_776.mp3"
   },
   {
     "russian": "покупа́ть",
-    "english": "buy"
+    "english": "buy",
+    "audio": "media/audio_658.mp3"
   },
   {
     "russian": "стуча́ть",
-    "english": "knock"
+    "english": "knock",
+    "audio": "media/audio_686.mp3"
   },
   {
     "russian": "меня́ть",
-    "english": "change"
+    "english": "change",
+    "audio": "media/audio_959.mp3"
   },
   {
     "russian": "разгля́дывать",
-    "english": "examine"
+    "english": "examine",
+    "audio": "media/audio_340.mp3"
   },
   {
     "russian": "закури́ть",
-    "english": "start smoking"
+    "english": "start smoking",
+    "audio": "media/audio_276.mp3"
   },
   {
     "russian": "уста́ть",
-    "english": "tire"
+    "english": "tire",
+    "audio": "media/audio_1163.mp3"
   },
   {
     "russian": "прикры́ть",
-    "english": "cover"
+    "english": "cover",
+    "audio": "media/audio_457.mp3"
   },
   {
     "russian": "замолча́ть",
-    "english": "fall silent (imp. замолкать)"
+    "english": "fall silent (imp. замолкать)",
+    "audio": "media/audio_855.mp3"
   },
   {
     "russian": "завести́",
-    "english": "to start (engine)"
+    "english": "to start (engine)",
+    "audio": "media/audio_768.mp3"
   },
   {
     "russian": "прибы́ть",
-    "english": "arrive"
+    "english": "arrive",
+    "audio": "media/audio_816.mp3"
   },
   {
     "russian": "подтверди́ть",
-    "english": "confirm"
+    "english": "confirm",
+    "audio": "media/audio_1161.mp3"
   },
   {
     "russian": "сойти́",
-    "english": "get off"
+    "english": "get off",
+    "audio": "media/audio_536.mp3"
   },
   {
     "russian": "поступа́ть",
-    "english": "treat"
+    "english": "treat",
+    "audio": "media/audio_42.mp3"
   },
   {
     "russian": "вали́ть",
-    "english": "bring down"
+    "english": "bring down",
+    "audio": "media/audio_750.mp3"
   },
   {
     "russian": "надое́сть",
-    "english": "bother"
+    "english": "bother",
+    "audio": "media/audio_996.mp3"
   },
   {
     "russian": "вы́вести",
-    "english": "take out"
+    "english": "take out",
+    "audio": "media/audio_134.mp3"
   },
   {
     "russian": "пры́гать",
-    "english": "jump"
+    "english": "jump",
+    "audio": "media/audio_317.mp3"
   },
   {
     "russian": "создава́ть",
-    "english": "create"
+    "english": "create",
+    "audio": "media/audio_1180.mp3"
   },
   {
     "russian": "убеди́ться",
-    "english": "make sure of"
+    "english": "make sure of",
+    "audio": "media/audio_510.mp3"
   },
   {
     "russian": "ненави́деть",
-    "english": "hate"
+    "english": "hate",
+    "audio": "media/audio_623.mp3"
   },
   {
     "russian": "исчеза́ть",
-    "english": "disappear"
+    "english": "disappear",
+    "audio": "media/audio_247.mp3"
   },
   {
     "russian": "ощуща́ть",
-    "english": "feel"
+    "english": "feel",
+    "audio": "media/audio_1116.mp3"
   },
   {
     "russian": "тащи́ть",
-    "english": "carry"
+    "english": "carry",
+    "audio": "media/audio_1022.mp3"
   },
   {
     "russian": "скрыва́ть",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_1018.mp3"
   },
   {
     "russian": "соверши́ть",
-    "english": "commit"
+    "english": "commit",
+    "audio": "media/audio_460.mp3"
   },
   {
     "russian": "замере́ть",
-    "english": "to freeze"
+    "english": "to freeze",
+    "audio": "media/audio_282.mp3"
   },
   {
     "russian": "подава́ть",
-    "english": "to serve something"
+    "english": "to serve something",
+    "audio": "media/audio_207.mp3"
   },
   {
     "russian": "произвести́",
-    "english": "to manufacture"
+    "english": "to manufacture",
+    "audio": "media/audio_1035.mp3"
   },
   {
     "russian": "дожда́ться",
-    "english": "to wait for someone"
+    "english": "to wait for someone",
+    "audio": "media/audio_1356.mp3"
   },
   {
     "russian": "плыть",
-    "english": "swim somewhere"
+    "english": "swim somewhere",
+    "audio": "media/audio_1241.mp3"
   },
   {
     "russian": "вы́полнить",
-    "english": "to complete"
+    "english": "to complete",
+    "audio": "media/audio_549.mp3"
   },
   {
     "russian": "напра́виться",
-    "english": "to head in a direction"
+    "english": "to head in a direction",
+    "audio": "media/audio_922.mp3"
   },
   {
     "russian": "шути́ть",
-    "english": "joke"
+    "english": "joke",
+    "audio": "media/audio_1271.mp3"
   },
   {
     "russian": "случа́ться",
-    "english": "happen"
+    "english": "happen",
+    "audio": "media/audio_180.mp3"
   },
   {
     "russian": "спря́тать",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_894.mp3"
   },
   {
     "russian": "предстоя́ть",
-    "english": "lie ahead"
+    "english": "lie ahead",
+    "audio": "media/audio_674.mp3"
   },
   {
     "russian": "корми́ть",
-    "english": "feed"
+    "english": "feed",
+    "audio": "media/audio_1192.mp3"
   },
   {
     "russian": "продолжа́ться",
-    "english": "to last"
+    "english": "to last",
+    "audio": "media/audio_954.mp3"
   },
   {
     "russian": "отдыха́ть",
-    "english": "rest"
+    "english": "rest",
+    "audio": "media/audio_1089.mp3"
   },
   {
     "russian": "сдать",
-    "english": "hand in"
+    "english": "hand in",
+    "audio": "media/audio_711.mp3"
   },
   {
     "russian": "жа́ловаться",
-    "english": "complain"
+    "english": "complain",
+    "audio": "media/audio_1289.mp3"
   },
   {
     "russian": "реши́ться",
-    "english": "decide on"
+    "english": "decide on",
+    "audio": "media/audio_9.mp3"
   },
   {
     "russian": "сде́латься",
-    "english": "become"
+    "english": "become",
+    "audio": "media/audio_1230.mp3"
   },
   {
     "russian": "наступа́ть",
-    "english": "advance"
+    "english": "advance",
+    "audio": "media/audio_73.mp3"
   },
   {
     "russian": "скры́ться",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_1364.mp3"
   },
   {
     "russian": "уезжа́ть",
-    "english": "leave (for)"
+    "english": "leave (for)",
+    "audio": "media/audio_619.mp3"
   },
   {
     "russian": "заня́ться",
-    "english": "to get involved in"
+    "english": "to get involved in",
+    "audio": "media/audio_866.mp3"
   },
   {
     "russian": "переходи́ть",
-    "english": "to walk across something"
+    "english": "to walk across something",
+    "audio": "media/audio_341.mp3"
   },
   {
     "russian": "попадать",
-    "english": "to hit someone"
+    "english": "to hit someone",
+    "audio": "media/audio_1234.mp3"
   },
   {
     "russian": "уважа́ть",
-    "english": "respect"
+    "english": "respect",
+    "audio": "media/audio_849.mp3"
   },
   {
     "russian": "жени́ть",
-    "english": "marry"
+    "english": "marry",
+    "audio": "media/audio_1348.mp3"
   },
   {
     "russian": "ложи́ться",
-    "english": "lie down"
+    "english": "lie down",
+    "audio": "media/audio_715.mp3"
   },
   {
     "russian": "расположи́ть",
-    "english": "position"
+    "english": "position",
+    "audio": "media/audio_155.mp3"
   },
   {
     "russian": "посиде́ть",
-    "english": "sit (for a while)"
+    "english": "sit (for a while)",
+    "audio": "media/audio_193.mp3"
   },
   {
     "russian": "нали́ть",
-    "english": "pour"
+    "english": "pour",
+    "audio": "media/audio_968.mp3"
   },
   {
     "russian": "сообрази́ть",
-    "english": "consider"
+    "english": "consider",
+    "audio": "media/audio_154.mp3"
   },
   {
     "russian": "удава́ться",
-    "english": "turn out well"
+    "english": "turn out well",
+    "audio": "media/audio_221.mp3"
   },
   {
     "russian": "послы́шаться",
-    "english": "be heard"
+    "english": "be heard",
+    "audio": "media/audio_77.mp3"
   },
   {
     "russian": "указа́ть",
-    "english": "specify"
+    "english": "specify",
+    "audio": "media/audio_1213.mp3"
   },
   {
     "russian": "повести",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_1073.mp3"
   },
   {
     "russian": "подхвати́ть",
-    "english": "pick up"
+    "english": "pick up",
+    "audio": "media/audio_364.mp3"
   },
   {
     "russian": "устра́ивать",
-    "english": "arrange"
+    "english": "arrange",
+    "audio": "media/audio_311.mp3"
   },
   {
     "russian": "уча́ствовать",
-    "english": "participate"
+    "english": "participate",
+    "audio": "media/audio_1324.mp3"
   },
   {
     "russian": "сохрани́ть",
-    "english": "save"
+    "english": "save",
+    "audio": "media/audio_869.mp3"
   },
   {
     "russian": "закрыва́ть",
-    "english": "close"
+    "english": "close",
+    "audio": "media/audio_1276.mp3"
   },
   {
     "russian": "пона́добиться",
-    "english": "need"
+    "english": "need",
+    "audio": "media/audio_1153.mp3"
   },
   {
     "russian": "покача́ть",
-    "english": "shake"
+    "english": "shake",
+    "audio": "media/audio_706.mp3"
   },
   {
     "russian": "вы́ясниться",
-    "english": "turn out"
+    "english": "turn out",
+    "audio": "media/audio_320.mp3"
   },
   {
     "russian": "уничто́жить",
-    "english": "destroy"
+    "english": "destroy",
+    "audio": "media/audio_244.mp3"
   },
   {
     "russian": "отвести́",
-    "english": "lead"
+    "english": "lead",
+    "audio": "media/audio_332.mp3"
   },
   {
     "russian": "броди́ть",
-    "english": "roam"
+    "english": "roam",
+    "audio": "media/audio_443.mp3"
   },
   {
     "russian": "валя́ться",
-    "english": "lie"
+    "english": "lie",
+    "audio": "media/audio_579.mp3"
   },
   {
     "russian": "произноси́ть",
-    "english": "to prounounce"
+    "english": "to prounounce",
+    "audio": "media/audio_989.mp3"
   },
   {
     "russian": "предупреди́ть",
-    "english": "to warn"
+    "english": "to warn",
+    "audio": "media/audio_1222.mp3"
   },
   {
     "russian": "доби́ться",
-    "english": "achieve"
+    "english": "achieve",
+    "audio": "media/audio_348.mp3"
   },
   {
     "russian": "убра́ть",
-    "english": "remove"
+    "english": "remove",
+    "audio": "media/audio_905.mp3"
   },
   {
     "russian": "подде́рживать",
-    "english": "to support"
+    "english": "to support",
+    "audio": "media/audio_599.mp3"
   },
   {
     "russian": "продава́ть",
-    "english": "sell"
+    "english": "sell",
+    "audio": "media/audio_137.mp3"
   },
   {
     "russian": "пове́сить",
-    "english": "hang"
+    "english": "hang",
+    "audio": "media/audio_196.mp3"
   },
   {
     "russian": "огля́дываться",
-    "english": "look back"
+    "english": "look back",
+    "audio": "media/audio_403.mp3"
   },
   {
     "russian": "сыгра́ть",
-    "english": "play"
+    "english": "play",
+    "audio": "media/audio_1025.mp3"
   },
   {
     "russian": "усла́ть",
-    "english": "send away"
+    "english": "send away",
+    "audio": "media/audio_169.mp3"
   },
   {
     "russian": "маха́ть",
-    "english": "to wave"
+    "english": "to wave",
+    "audio": "media/audio_260.mp3"
   },
   {
     "russian": "предполага́ть",
-    "english": "assume"
+    "english": "assume",
+    "audio": "media/audio_6.mp3"
   },
   {
     "russian": "рассчи́тывать",
-    "english": "expect"
+    "english": "expect",
+    "audio": "media/audio_531.mp3"
   },
   {
     "russian": "запрети́ть",
-    "english": "to forbid"
+    "english": "to forbid",
+    "audio": "media/audio_1198.mp3"
   },
   {
     "russian": "сообща́ть",
-    "english": "report"
+    "english": "report",
+    "audio": "media/audio_707.mp3"
   },
   {
     "russian": "переби́ть",
-    "english": "interrupt"
+    "english": "interrupt",
+    "audio": "media/audio_386.mp3"
   },
   {
     "russian": "оби́деться",
-    "english": "take offence"
+    "english": "take offence",
+    "audio": "media/audio_40.mp3"
   },
   {
     "russian": "вы́нести",
-    "english": "bear"
+    "english": "bear",
+    "audio": "media/audio_211.mp3"
   },
   {
     "russian": "погля́дывать",
-    "english": "keep an eye on"
+    "english": "keep an eye on",
+    "audio": "media/audio_233.mp3"
   },
   {
     "russian": "отозва́ться",
-    "english": "respond"
+    "english": "respond",
+    "audio": "media/audio_906.mp3"
   },
   {
     "russian": "обра́доваться",
-    "english": "to rejoice in"
+    "english": "to rejoice in",
+    "audio": "media/audio_879.mp3"
   },
   {
     "russian": "попа́сться",
-    "english": "to get caught"
+    "english": "to get caught",
+    "audio": "media/audio_41.mp3"
   },
   {
     "russian": "пробормота́ть",
-    "english": "mutter"
+    "english": "mutter",
+    "audio": "media/audio_955.mp3"
   },
   {
     "russian": "поки́нуть",
-    "english": "leave"
+    "english": "leave",
+    "audio": "media/audio_517.mp3"
   },
   {
     "russian": "ко́нчить",
-    "english": "to finish"
+    "english": "to finish",
+    "audio": "media/audio_126.mp3"
   },
   {
     "russian": "применя́ть",
-    "english": "apply"
+    "english": "apply",
+    "audio": "media/audio_121.mp3"
   },
   {
     "russian": "доложи́ть",
-    "english": "report"
+    "english": "report",
+    "audio": "media/audio_433.mp3"
   },
   {
     "russian": "меня́ться",
-    "english": "to exchange"
+    "english": "to exchange",
+    "audio": "media/audio_522.mp3"
   },
   {
     "russian": "гнать",
-    "english": "drive"
+    "english": "drive",
+    "audio": "media/audio_191.mp3"
   },
   {
     "russian": "вы́яснить",
-    "english": "find out"
+    "english": "find out",
+    "audio": "media/audio_628.mp3"
   },
   {
     "russian": "дра́ться",
-    "english": "fight"
+    "english": "fight",
+    "audio": "media/audio_148.mp3"
   },
   {
     "russian": "захоте́ться",
-    "english": "wish (impersonal only)"
+    "english": "wish (impersonal only)",
+    "audio": "media/audio_79.mp3"
   },
   {
     "russian": "производи́ть",
-    "english": "to manufacture"
+    "english": "to manufacture",
+    "audio": "media/audio_566.mp3"
   },
   {
     "russian": "засну́ть",
-    "english": "go to sleep"
+    "english": "go to sleep",
+    "audio": "media/audio_850.mp3"
   },
   {
     "russian": "сверну́ть",
-    "english": "turn"
+    "english": "turn",
+    "audio": "media/audio_1052.mp3"
   },
   {
     "russian": "подозрева́ть",
-    "english": "suspect"
+    "english": "suspect",
+    "audio": "media/audio_379.mp3"
   },
   {
     "russian": "спуска́ться",
-    "english": "descend"
+    "english": "descend",
+    "audio": "media/audio_780.mp3"
   },
   {
     "russian": "договори́ться",
-    "english": "to reach an agreement"
+    "english": "to reach an agreement",
+    "audio": "media/audio_435.mp3"
   },
   {
     "russian": "проверя́ть",
-    "english": "to test"
+    "english": "to test",
+    "audio": "media/audio_880.mp3"
   },
   {
     "russian": "присе́сть",
-    "english": "take a seat"
+    "english": "take a seat",
+    "audio": "media/audio_679.mp3"
   },
   {
     "russian": "пропусти́ть",
-    "english": "to miss something"
+    "english": "to miss something",
+    "audio": "media/audio_474.mp3"
   },
   {
     "russian": "распахну́ть",
-    "english": "throw open"
+    "english": "throw open",
+    "audio": "media/audio_438.mp3"
   },
   {
     "russian": "ползти́",
-    "english": "creep"
+    "english": "creep",
+    "audio": "media/audio_1376.mp3"
   },
   {
     "russian": "вы́браться",
-    "english": "get out"
+    "english": "get out",
+    "audio": "media/audio_489.mp3"
   },
   {
     "russian": "погоди́ть",
-    "english": "wait a little"
+    "english": "wait a little",
+    "audio": "media/audio_49.mp3"
   },
   {
     "russian": "опусти́ться",
-    "english": "descend"
+    "english": "descend",
+    "audio": "media/audio_1064.mp3"
   },
   {
     "russian": "прекрати́ть",
-    "english": "stop"
+    "english": "stop",
+    "audio": "media/audio_1347.mp3"
   },
   {
     "russian": "спра́виться",
-    "english": "deal with"
+    "english": "deal with",
+    "audio": "media/audio_723.mp3"
   },
   {
     "russian": "прислу́шиваться",
-    "english": "listen"
+    "english": "listen",
+    "audio": "media/audio_1148.mp3"
   },
   {
     "russian": "постара́ться",
-    "english": "try"
+    "english": "try",
+    "audio": "media/audio_745.mp3"
   },
   {
     "russian": "изуча́ть",
-    "english": "study"
+    "english": "study",
+    "audio": "media/audio_1333.mp3"
   },
   {
     "russian": "пили́ть",
-    "english": "saw"
+    "english": "saw",
+    "audio": "media/audio_783.mp3"
   },
   {
     "russian": "подписа́ть",
-    "english": "sign"
+    "english": "sign",
+    "audio": "media/audio_1154.mp3"
   },
   {
     "russian": "посыла́ть",
-    "english": "to send something"
+    "english": "to send something",
+    "audio": "media/audio_974.mp3"
   },
   {
     "russian": "танцева́ть",
-    "english": "dance"
+    "english": "dance",
+    "audio": "media/audio_487.mp3"
   },
   {
     "russian": "подобра́ть",
-    "english": "pick up"
+    "english": "pick up",
+    "audio": "media/audio_814.mp3"
   },
   {
     "russian": "освети́ть",
-    "english": "to illuminate something"
+    "english": "to illuminate something",
+    "audio": "media/audio_1239.mp3"
   },
   {
     "russian": "приобрести́",
-    "english": "purchase"
+    "english": "purchase",
+    "audio": "media/audio_542.mp3"
   },
   {
     "russian": "поинтересова́ться",
-    "english": "ask"
+    "english": "ask",
+    "audio": "media/audio_1050.mp3"
   },
   {
     "russian": "заора́ть",
-    "english": "start shouting"
+    "english": "start shouting",
+    "audio": "media/audio_245.mp3"
   },
   {
     "russian": "тро́гать",
-    "english": "touch"
+    "english": "touch",
+    "audio": "media/audio_500.mp3"
   },
   {
     "russian": "задержа́ть",
-    "english": "delay"
+    "english": "delay",
+    "audio": "media/audio_431.mp3"
   },
   {
     "russian": "потре́бовать",
-    "english": "demand"
+    "english": "demand",
+    "audio": "media/audio_326.mp3"
   },
   {
     "russian": "блесте́ть",
-    "english": "shine"
+    "english": "shine",
+    "audio": "media/audio_545.mp3"
   },
   {
     "russian": "усе́сться",
-    "english": "perch"
+    "english": "perch",
+    "audio": "media/audio_601.mp3"
   },
   {
     "russian": "сия́ть",
-    "english": "shine"
+    "english": "shine",
+    "audio": "media/audio_538.mp3"
   },
   {
     "russian": "вы́рваться",
-    "english": "break out"
+    "english": "break out",
+    "audio": "media/audio_48.mp3"
   },
   {
     "russian": "отверну́ться",
-    "english": "turn away"
+    "english": "turn away",
+    "audio": "media/audio_419.mp3"
   },
   {
     "russian": "зако́нчиться",
-    "english": "to end"
+    "english": "to end",
+    "audio": "media/audio_209.mp3"
   },
   {
     "russian": "бормота́ть",
-    "english": "mumble"
+    "english": "mumble",
+    "audio": "media/audio_588.mp3"
   },
   {
     "russian": "состоя́ться",
-    "english": "take place"
+    "english": "take place",
+    "audio": "media/audio_1117.mp3"
   },
   {
     "russian": "попра́вить",
-    "english": "to correct"
+    "english": "to correct",
+    "audio": "media/audio_156.mp3"
   },
   {
     "russian": "ощути́ть",
-    "english": "experience"
+    "english": "experience",
+    "audio": "media/audio_665.mp3"
   },
   {
     "russian": "беспоко́иться",
-    "english": "worry"
+    "english": "worry",
+    "audio": "media/audio_416.mp3"
   },
   {
     "russian": "задава́ть",
-    "english": "ask someone a question"
+    "english": "ask someone a question",
+    "audio": "media/audio_1367.mp3"
   },
   {
     "russian": "выдава́ть",
-    "english": "issue officially"
+    "english": "issue officially",
+    "audio": "media/audio_307.mp3"
   },
   {
     "russian": "полете́ть",
-    "english": "fly"
+    "english": "fly",
+    "audio": "media/audio_1257.mp3"
   },
   {
     "russian": "отдохну́ть",
-    "english": "rest"
+    "english": "rest",
+    "audio": "media/audio_481.mp3"
   },
   {
     "russian": "отка́зываться",
-    "english": "refuse"
+    "english": "refuse",
+    "audio": "media/audio_450.mp3"
   },
   {
     "russian": "поясни́ть",
-    "english": "explain"
+    "english": "explain",
+    "audio": "media/audio_1290.mp3"
   },
   {
     "russian": "проща́ть",
-    "english": "forgive"
+    "english": "forgive",
+    "audio": "media/audio_1104.mp3"
   },
   {
     "russian": "шуме́ть",
-    "english": "make a noise"
+    "english": "make a noise",
+    "audio": "media/audio_2.mp3"
   },
   {
     "russian": "доноси́ться",
-    "english": "be heard"
+    "english": "be heard",
+    "audio": "media/audio_1094.mp3"
   },
   {
     "russian": "описа́ть",
-    "english": "describe"
+    "english": "describe",
+    "audio": "media/audio_940.mp3"
   },
   {
     "russian": "шага́ть",
-    "english": "step"
+    "english": "step",
+    "audio": "media/audio_800.mp3"
   },
   {
     "russian": "победи́ть",
-    "english": "to beat"
+    "english": "to beat",
+    "audio": "media/audio_1167.mp3"
   },
   {
     "russian": "пла́вать",
-    "english": "swim"
+    "english": "swim",
+    "audio": "media/audio_238.mp3"
   },
   {
     "russian": "разобра́ть",
-    "english": "to take something apart"
+    "english": "to take something apart",
+    "audio": "media/audio_45.mp3"
   },
   {
     "russian": "потяну́ться",
-    "english": "stretch"
+    "english": "stretch",
+    "audio": "media/audio_570.mp3"
   },
   {
     "russian": "предположи́ть",
-    "english": "suppose"
+    "english": "suppose",
+    "audio": "media/audio_64.mp3"
   },
   {
     "russian": "доста́вить",
-    "english": "deliver"
+    "english": "deliver",
+    "audio": "media/audio_11.mp3"
   },
   {
     "russian": "ошиби́ться",
-    "english": "to make a mistake"
+    "english": "to make a mistake",
+    "audio": "media/audio_1362.mp3"
   },
   {
     "russian": "разбуди́ть",
-    "english": "wake"
+    "english": "wake",
+    "audio": "media/audio_72.mp3"
   },
   {
     "russian": "пря́тать",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_1164.mp3"
   },
   {
     "russian": "води́ть",
-    "english": "conduct"
+    "english": "conduct",
+    "audio": "media/audio_964.mp3"
   },
   {
     "russian": "про́бовать",
-    "english": "to try to do something"
+    "english": "to try to do something",
+    "audio": "media/audio_1277.mp3"
   },
   {
     "russian": "заплати́ть",
-    "english": "pay"
+    "english": "pay",
+    "audio": "media/audio_865.mp3"
   },
   {
     "russian": "обня́ть",
-    "english": "hug"
+    "english": "hug",
+    "audio": "media/audio_798.mp3"
   },
   {
     "russian": "загля́дывать",
-    "english": "to look in"
+    "english": "to look in",
+    "audio": "media/audio_360.mp3"
   },
   {
     "russian": "вы́бросить",
-    "english": "throw out"
+    "english": "throw out",
+    "audio": "media/audio_313.mp3"
   },
   {
     "russian": "устро́иться",
-    "english": "get settled"
+    "english": "get settled",
+    "audio": "media/audio_259.mp3"
   },
   {
     "russian": "оцени́ть",
-    "english": "estimate"
+    "english": "estimate",
+    "audio": "media/audio_1056.mp3"
   },
   {
     "russian": "хло́пнуть",
-    "english": "flap"
+    "english": "flap",
+    "audio": "media/audio_200.mp3"
   },
   {
     "russian": "роди́ть",
-    "english": "give birth"
+    "english": "give birth",
+    "audio": "media/audio_851.mp3"
   },
   {
     "russian": "уста́виться",
-    "english": "stare"
+    "english": "stare",
+    "audio": "media/audio_139.mp3"
   },
   {
     "russian": "слы́шаться",
-    "english": "be heard"
+    "english": "be heard",
+    "audio": "media/audio_10.mp3"
   },
   {
     "russian": "представля́ться",
-    "english": "seem"
+    "english": "seem",
+    "audio": "media/audio_513.mp3"
   },
   {
     "russian": "обеспе́чить",
-    "english": "provide"
+    "english": "provide",
+    "audio": "media/audio_1183.mp3"
   },
   {
     "russian": "би́ться",
-    "english": "beat"
+    "english": "beat",
+    "audio": "media/audio_190.mp3"
   },
   {
     "russian": "дости́гнуть",
-    "english": "reach"
+    "english": "reach",
+    "audio": "media/audio_858.mp3"
   },
   {
     "russian": "выпуска́ть",
-    "english": "release (to let something out)"
+    "english": "release (to let something out)",
+    "audio": "media/audio_476.mp3"
   },
   {
     "russian": "пригото́вить",
-    "english": "cook"
+    "english": "cook",
+    "audio": "media/audio_585.mp3"
   },
   {
     "russian": "развива́ться",
-    "english": "to develop (one"
+    "english": "to develop (one",
+    "audio": "media/audio_731.mp3"
   },
   {
     "russian": "пожале́ть",
-    "english": "to regret"
+    "english": "to regret",
+    "audio": "media/audio_281.mp3"
   },
   {
     "russian": "обойти́",
-    "english": "to walk around something"
+    "english": "to walk around something",
+    "audio": "media/audio_47.mp3"
   },
   {
     "russian": "оторва́ть",
-    "english": "tear"
+    "english": "tear",
+    "audio": "media/audio_896.mp3"
   },
   {
     "russian": "заключа́ться",
-    "english": "lie in"
+    "english": "lie in",
+    "audio": "media/audio_286.mp3"
   },
   {
     "russian": "организова́ть",
-    "english": "organize"
+    "english": "organize",
+    "audio": "media/audio_1315.mp3"
   },
   {
     "russian": "приглаша́ть",
-    "english": "to invite someone somewhere"
+    "english": "to invite someone somewhere",
+    "audio": "media/audio_212.mp3"
   },
   {
     "russian": "поддержа́ть",
-    "english": "to support"
+    "english": "to support",
+    "audio": "media/audio_1212.mp3"
   },
   {
     "russian": "сбить",
-    "english": "knock down"
+    "english": "knock down",
+    "audio": "media/audio_1316.mp3"
   },
   {
     "russian": "зарабо́тать",
-    "english": "to earn"
+    "english": "to earn",
+    "audio": "media/audio_128.mp3"
   },
   {
     "russian": "течь",
-    "english": "flow"
+    "english": "flow",
+    "audio": "media/audio_185.mp3"
   },
   {
     "russian": "после́довать",
-    "english": "follow"
+    "english": "follow",
+    "audio": "media/audio_1382.mp3"
   },
   {
     "russian": "полага́ться",
-    "english": "rely"
+    "english": "rely",
+    "audio": "media/audio_555.mp3"
   },
   {
     "russian": "достава́ть",
-    "english": "to reach"
+    "english": "to reach",
+    "audio": "media/audio_846.mp3"
   },
   {
     "russian": "продо́лжить",
-    "english": "to continue"
+    "english": "to continue",
+    "audio": "media/audio_933.mp3"
   },
   {
     "russian": "ука́зывать",
-    "english": "indicate"
+    "english": "indicate",
+    "audio": "media/audio_669.mp3"
   },
   {
     "russian": "сложи́ться",
-    "english": "to fold"
+    "english": "to fold",
+    "audio": "media/audio_46.mp3"
   },
   {
     "russian": "набра́ть",
-    "english": "to pick something somewhere"
+    "english": "to pick something somewhere",
+    "audio": "media/audio_631.mp3"
   },
   {
     "russian": "предпочита́ть",
-    "english": "to prefer someone"
+    "english": "to prefer someone",
+    "audio": "media/audio_1146.mp3"
   },
   {
     "russian": "научи́ть",
-    "english": "teach"
+    "english": "teach",
+    "audio": "media/audio_1053.mp3"
   },
   {
     "russian": "интересова́ться",
-    "english": "be interested in"
+    "english": "be interested in",
+    "audio": "media/audio_1077.mp3"
   },
   {
     "russian": "расстреля́ть",
-    "english": "shoot down"
+    "english": "shoot down",
+    "audio": "media/audio_507.mp3"
   },
   {
     "russian": "побыва́ть",
-    "english": "visit"
+    "english": "visit",
+    "audio": "media/audio_755.mp3"
   },
   {
     "russian": "запла́кать",
-    "english": "begin to cry"
+    "english": "begin to cry",
+    "audio": "media/audio_463.mp3"
   },
   {
     "russian": "окружи́ть",
-    "english": "surround"
+    "english": "surround",
+    "audio": "media/audio_563.mp3"
   },
   {
     "russian": "раскры́ть",
-    "english": "open"
+    "english": "open",
+    "audio": "media/audio_603.mp3"
   },
   {
     "russian": "развести́",
-    "english": "to mix"
+    "english": "to mix",
+    "audio": "media/audio_81.mp3"
   },
   {
     "russian": "пережива́ть",
-    "english": "worry (about someone)"
+    "english": "worry (about someone)",
+    "audio": "media/audio_546.mp3"
   },
   {
     "russian": "укра́сть",
-    "english": "steal"
+    "english": "steal",
+    "audio": "media/audio_136.mp3"
   },
   {
     "russian": "слыха́ть",
-    "english": "hear anything (informal)"
+    "english": "hear anything (informal)",
+    "audio": "media/audio_1186.mp3"
   },
   {
     "russian": "успева́ть",
-    "english": "have time to do smth."
+    "english": "have time to do smth.",
+    "audio": "media/audio_727.mp3"
   },
   {
     "russian": "пережи́ть",
-    "english": "survive"
+    "english": "survive",
+    "audio": "media/audio_1209.mp3"
   },
   {
     "russian": "возража́ть",
-    "english": "object"
+    "english": "object",
+    "audio": "media/audio_604.mp3"
   },
   {
     "russian": "потяну́ть",
-    "english": "pull"
+    "english": "pull",
+    "audio": "media/audio_971.mp3"
   },
   {
     "russian": "сорва́ть",
-    "english": "tear off"
+    "english": "tear off",
+    "audio": "media/audio_493.mp3"
   },
   {
     "russian": "усну́ть",
-    "english": "fall asleep"
+    "english": "fall asleep",
+    "audio": "media/audio_881.mp3"
   },
   {
     "russian": "сопровожда́ть",
-    "english": "accompany"
+    "english": "accompany",
+    "audio": "media/audio_902.mp3"
   },
   {
     "russian": "открыва́ться",
-    "english": "open"
+    "english": "open",
+    "audio": "media/audio_1155.mp3"
   },
   {
     "russian": "подгото́вить",
-    "english": "prepare"
+    "english": "prepare",
+    "audio": "media/audio_342.mp3"
   },
   {
     "russian": "защища́ть",
-    "english": "protect"
+    "english": "protect",
+    "audio": "media/audio_1370.mp3"
   },
   {
     "russian": "лома́ть",
-    "english": "to destroy"
+    "english": "to destroy",
+    "audio": "media/audio_1379.mp3"
   },
   {
     "russian": "вступи́ть",
-    "english": "enter"
+    "english": "enter",
+    "audio": "media/audio_1305.mp3"
   },
   {
     "russian": "вы́ставить",
-    "english": "exhibit"
+    "english": "exhibit",
+    "audio": "media/audio_234.mp3"
   },
   {
     "russian": "прижа́ть",
-    "english": "press"
+    "english": "press",
+    "audio": "media/audio_1162.mp3"
   },
   {
     "russian": "передава́ть",
-    "english": "to transfer"
+    "english": "to transfer",
+    "audio": "media/audio_638.mp3"
   },
   {
     "russian": "дога́дываться",
-    "english": "guess"
+    "english": "guess",
+    "audio": "media/audio_284.mp3"
   },
   {
     "russian": "вы́ступить",
-    "english": "step forth"
+    "english": "step forth",
+    "audio": "media/audio_969.mp3"
   },
   {
     "russian": "отрезать",
-    "english": "cut (off)"
+    "english": "cut (off)",
+    "audio": "media/audio_649.mp3"
   },
   {
     "russian": "хохота́ть",
-    "english": "laugh (loud)"
+    "english": "laugh (loud)",
+    "audio": "media/audio_1300.mp3"
   },
   {
     "russian": "разгляде́ть",
-    "english": "discern"
+    "english": "discern",
+    "audio": "media/audio_572.mp3"
   },
   {
     "russian": "разбира́ться",
-    "english": "to be a good judge of something"
+    "english": "to be a good judge of something",
+    "audio": "media/audio_321.mp3"
   },
   {
     "russian": "воспо́льзоваться",
-    "english": "take advantage of"
+    "english": "take advantage of",
+    "audio": "media/audio_589.mp3"
   },
   {
     "russian": "доста́ться",
-    "english": "fall to one's share"
+    "english": "fall to one's share",
+    "audio": "media/audio_1109.mp3"
   },
   {
     "russian": "броса́ться",
-    "english": "rush"
+    "english": "rush",
+    "audio": "media/audio_807.mp3"
   },
   {
     "russian": "исключи́ть",
-    "english": "to exclude"
+    "english": "to exclude",
+    "audio": "media/audio_1097.mp3"
   },
   {
     "russian": "провожа́ть",
-    "english": "see off"
+    "english": "see off",
+    "audio": "media/audio_891.mp3"
   },
   {
     "russian": "прошепта́ть",
-    "english": "whisper"
+    "english": "whisper",
+    "audio": "media/audio_1135.mp3"
   },
   {
     "russian": "осмотре́ть",
-    "english": "examine"
+    "english": "examine",
+    "audio": "media/audio_1235.mp3"
   },
   {
     "russian": "вздро́гнуть",
-    "english": "wince"
+    "english": "wince",
+    "audio": "media/audio_668.mp3"
   },
   {
     "russian": "посвяти́ть",
-    "english": "to devote"
+    "english": "to devote",
+    "audio": "media/audio_1268.mp3"
   },
   {
     "russian": "перенести́",
-    "english": "to carry"
+    "english": "to carry",
+    "audio": "media/audio_946.mp3"
   },
   {
     "russian": "прерва́ть",
-    "english": "interrupt"
+    "english": "interrupt",
+    "audio": "media/audio_1227.mp3"
   },
   {
     "russian": "освободи́ть",
-    "english": "to liberate something"
+    "english": "to liberate something",
+    "audio": "media/audio_309.mp3"
   },
   {
     "russian": "уче́сть",
-    "english": "take into account"
+    "english": "take into account",
+    "audio": "media/audio_605.mp3"
   },
   {
     "russian": "походи́ть",
-    "english": "resemble"
+    "english": "resemble",
+    "audio": "media/audio_146.mp3"
   },
   {
     "russian": "подвести́",
-    "english": "let down"
+    "english": "let down",
+    "audio": "media/audio_1331.mp3"
   },
   {
     "russian": "рва́ться",
-    "english": "break"
+    "english": "break",
+    "audio": "media/audio_900.mp3"
   },
   {
     "russian": "дожида́ться",
-    "english": "to wait for someone"
+    "english": "to wait for someone",
+    "audio": "media/audio_25.mp3"
   },
   {
     "russian": "кива́ть",
-    "english": "nod"
+    "english": "nod",
+    "audio": "media/audio_1288.mp3"
   },
   {
     "russian": "сбежа́ть",
-    "english": "run down"
+    "english": "run down",
+    "audio": "media/audio_194.mp3"
   },
   {
     "russian": "ввести́",
-    "english": "introduce"
+    "english": "introduce",
+    "audio": "media/audio_1158.mp3"
   },
   {
     "russian": "определя́ть",
-    "english": "determine"
+    "english": "determine",
+    "audio": "media/audio_728.mp3"
   },
   {
     "russian": "допусти́ть",
-    "english": "admit"
+    "english": "admit",
+    "audio": "media/audio_124.mp3"
   },
   {
     "russian": "сбро́сить",
-    "english": "reset"
+    "english": "reset",
+    "audio": "media/audio_926.mp3"
   },
   {
     "russian": "полюби́ть",
-    "english": "fall in love"
+    "english": "fall in love",
+    "audio": "media/audio_643.mp3"
   },
   {
     "russian": "содержа́ть",
-    "english": "contain"
+    "english": "contain",
+    "audio": "media/audio_494.mp3"
   },
   {
     "russian": "превраща́ться",
-    "english": "to turn"
+    "english": "to turn",
+    "audio": "media/audio_394.mp3"
   },
   {
     "russian": "поцелова́ть",
-    "english": "kiss"
+    "english": "kiss",
+    "audio": "media/audio_1390.mp3"
   },
   {
     "russian": "арестова́ть",
-    "english": "arrest"
+    "english": "arrest",
+    "audio": "media/audio_316.mp3"
   },
   {
     "russian": "огляде́ть",
-    "english": "look over"
+    "english": "look over",
+    "audio": "media/audio_1237.mp3"
   },
   {
     "russian": "рвать",
-    "english": "to pick (flowers"
+    "english": "to pick (flowers",
+    "audio": "media/audio_43.mp3"
   },
   {
     "russian": "шевели́ться",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_160.mp3"
   },
   {
     "russian": "ру́хнуть",
-    "english": "collapse"
+    "english": "collapse",
+    "audio": "media/audio_1170.mp3"
   },
   {
     "russian": "конча́ться",
-    "english": "to end with (3rd person)"
+    "english": "to end with (3rd person)",
+    "audio": "media/audio_465.mp3"
   },
   {
     "russian": "успоко́ить",
-    "english": "calm down"
+    "english": "calm down",
+    "audio": "media/audio_614.mp3"
   },
   {
     "russian": "рассужда́ть",
-    "english": "reason"
+    "english": "reason",
+    "audio": "media/audio_600.mp3"
   },
   {
     "russian": "постуча́ть",
-    "english": "knock"
+    "english": "knock",
+    "audio": "media/audio_680.mp3"
   },
   {
     "russian": "дока́зывать",
-    "english": "prove"
+    "english": "prove",
+    "audio": "media/audio_717.mp3"
   },
   {
     "russian": "вы́тянуть",
-    "english": "pull out"
+    "english": "pull out",
+    "audio": "media/audio_1038.mp3"
   },
   {
     "russian": "сложи́ть",
-    "english": "fold"
+    "english": "fold",
+    "audio": "media/audio_1103.mp3"
   },
   {
     "russian": "ра́нить",
-    "english": "wound"
+    "english": "wound",
+    "audio": "media/audio_488.mp3"
   },
   {
     "russian": "засыпать",
-    "english": "fall asleep"
+    "english": "fall asleep",
+    "audio": "media/audio_915.mp3"
   },
   {
     "russian": "доходи́ть",
-    "english": "walk as far as"
+    "english": "walk as far as",
+    "audio": "media/audio_107.mp3"
   },
   {
     "russian": "кома́ндовать",
-    "english": "command"
+    "english": "command",
+    "audio": "media/audio_31.mp3"
   },
   {
     "russian": "слома́ть",
-    "english": "to destroy"
+    "english": "to destroy",
+    "audio": "media/audio_322.mp3"
   },
   {
     "russian": "сорва́ться",
-    "english": "dart off"
+    "english": "dart off",
+    "audio": "media/audio_213.mp3"
   },
   {
     "russian": "разверну́ть",
-    "english": "unfold"
+    "english": "unfold",
+    "audio": "media/audio_252.mp3"
   },
   {
     "russian": "грози́ть",
-    "english": "threaten"
+    "english": "threaten",
+    "audio": "media/audio_854.mp3"
   },
   {
     "russian": "обману́ть",
-    "english": "cheat"
+    "english": "cheat",
+    "audio": "media/audio_1344.mp3"
   },
   {
     "russian": "посове́товать",
-    "english": "advise"
+    "english": "advise",
+    "audio": "media/audio_811.mp3"
   },
   {
     "russian": "разойти́сь",
-    "english": "break up"
+    "english": "break up",
+    "audio": "media/audio_439.mp3"
   },
   {
     "russian": "убежа́ть",
-    "english": "escape"
+    "english": "escape",
+    "audio": "media/audio_1118.mp3"
   },
   {
     "russian": "сохрани́ться",
-    "english": "remain intact"
+    "english": "remain intact",
+    "audio": "media/audio_1361.mp3"
   },
   {
     "russian": "помеша́ть",
-    "english": "prevent"
+    "english": "prevent",
+    "audio": "media/audio_277.mp3"
   },
   {
     "russian": "рассмея́ться",
-    "english": "burst out laughing"
+    "english": "burst out laughing",
+    "audio": "media/audio_370.mp3"
   },
   {
     "russian": "свети́ться",
-    "english": "glow"
+    "english": "glow",
+    "audio": "media/audio_923.mp3"
   },
   {
     "russian": "вспы́хнуть",
-    "english": "flush"
+    "english": "flush",
+    "audio": "media/audio_1200.mp3"
   },
   {
     "russian": "целова́ть",
-    "english": "kiss"
+    "english": "kiss",
+    "audio": "media/audio_575.mp3"
   },
   {
     "russian": "нажа́ть",
-    "english": "Press"
+    "english": "Press",
+    "audio": "media/audio_170.mp3"
   },
   {
     "russian": "заказа́ть",
-    "english": "to order"
+    "english": "to order",
+    "audio": "media/audio_356.mp3"
   },
   {
     "russian": "соотве́тствовать",
-    "english": "match"
+    "english": "match",
+    "audio": "media/audio_188.mp3"
   },
   {
     "russian": "реша́ться",
-    "english": "be decided"
+    "english": "be decided",
+    "audio": "media/audio_217.mp3"
   },
   {
     "russian": "болта́ть",
-    "english": "chat"
+    "english": "chat",
+    "audio": "media/audio_1354.mp3"
   },
   {
     "russian": "нести́сь",
-    "english": "rush"
+    "english": "rush",
+    "audio": "media/audio_609.mp3"
   },
   {
     "russian": "владе́ть",
-    "english": "own"
+    "english": "own",
+    "audio": "media/audio_1282.mp3"
   },
   {
     "russian": "замени́ть",
-    "english": "to substitute something with something else"
+    "english": "to substitute something with something else",
+    "audio": "media/audio_1168.mp3"
   },
   {
     "russian": "конча́ть",
-    "english": "to finish"
+    "english": "to finish",
+    "audio": "media/audio_418.mp3"
   },
   {
     "russian": "сообража́ть",
-    "english": "think"
+    "english": "think",
+    "audio": "media/audio_1332.mp3"
   },
   {
     "russian": "соглаша́ться",
-    "english": "agree"
+    "english": "agree",
+    "audio": "media/audio_373.mp3"
   },
   {
     "russian": "пря́таться",
-    "english": "to hide oneself from something"
+    "english": "to hide oneself from something",
+    "audio": "media/audio_440.mp3"
   },
   {
     "russian": "попада́ться",
-    "english": "to come across somewhere"
+    "english": "to come across somewhere",
+    "audio": "media/audio_1313.mp3"
   },
   {
     "russian": "изобража́ть",
-    "english": "depict"
+    "english": "depict",
+    "audio": "media/audio_1246.mp3"
   },
   {
     "russian": "выража́ть",
-    "english": "express"
+    "english": "express",
+    "audio": "media/audio_274.mp3"
   },
   {
     "russian": "образова́ться",
-    "english": "form"
+    "english": "form",
+    "audio": "media/audio_587.mp3"
   },
   {
     "russian": "спосо́бствовать",
-    "english": "contribute"
+    "english": "contribute",
+    "audio": "media/audio_262.mp3"
   },
   {
     "russian": "заложи́ть",
-    "english": "establish"
+    "english": "establish",
+    "audio": "media/audio_826.mp3"
   },
   {
     "russian": "исходи́ть",
-    "english": "proceed"
+    "english": "proceed",
+    "audio": "media/audio_195.mp3"
   },
   {
     "russian": "око́нчить",
-    "english": "finish"
+    "english": "finish",
+    "audio": "media/audio_948.mp3"
   },
   {
     "russian": "вы́лезть",
-    "english": "climb"
+    "english": "climb",
+    "audio": "media/audio_349.mp3"
   },
   {
     "russian": "вы́пасть",
-    "english": "fall (out)"
+    "english": "fall (out)",
+    "audio": "media/audio_675.mp3"
   },
   {
     "russian": "обсужда́ть",
-    "english": "discuss"
+    "english": "discuss",
+    "audio": "media/audio_719.mp3"
   },
   {
     "russian": "очну́ться",
-    "english": "wake"
+    "english": "wake",
+    "audio": "media/audio_7.mp3"
   },
   {
     "russian": "рискова́ть",
-    "english": "risk"
+    "english": "risk",
+    "audio": "media/audio_502.mp3"
   },
   {
     "russian": "горди́ться",
-    "english": "be proud"
+    "english": "be proud",
+    "audio": "media/audio_446.mp3"
   },
   {
     "russian": "вы́разить",
-    "english": "express"
+    "english": "express",
+    "audio": "media/audio_122.mp3"
   },
   {
     "russian": "минова́ть",
-    "english": "pass (by)"
+    "english": "pass (by)",
+    "audio": "media/audio_183.mp3"
   },
   {
     "russian": "спаса́ть",
-    "english": "save"
+    "english": "save",
+    "audio": "media/audio_197.mp3"
   },
   {
     "russian": "отходи́ть",
-    "english": "to depart"
+    "english": "to depart",
+    "audio": "media/audio_1195.mp3"
   },
   {
     "russian": "запере́ть",
-    "english": "to lock something"
+    "english": "to lock something",
+    "audio": "media/audio_12.mp3"
   },
   {
     "russian": "предупрежда́ть",
-    "english": "to warn"
+    "english": "to warn",
+    "audio": "media/audio_1320.mp3"
   },
   {
     "russian": "отыска́ть",
-    "english": "to find"
+    "english": "to find",
+    "audio": "media/audio_505.mp3"
   },
   {
     "russian": "обора́чиваться",
-    "english": "turn round"
+    "english": "turn round",
+    "audio": "media/audio_227.mp3"
   },
   {
     "russian": "охвати́ть",
-    "english": "cover"
+    "english": "cover",
+    "audio": "media/audio_1119.mp3"
   },
   {
     "russian": "благодари́ть",
-    "english": "thank"
+    "english": "thank",
+    "audio": "media/audio_610.mp3"
   },
   {
     "russian": "вздыха́ть",
-    "english": "sigh"
+    "english": "sigh",
+    "audio": "media/audio_96.mp3"
   },
   {
     "russian": "рисова́ть",
-    "english": "draw"
+    "english": "draw",
+    "audio": "media/audio_297.mp3"
   },
   {
     "russian": "бесе́довать",
-    "english": "talk"
+    "english": "talk",
+    "audio": "media/audio_837.mp3"
   },
   {
     "russian": "наде́ть",
-    "english": "put on"
+    "english": "put on",
+    "audio": "media/audio_108.mp3"
   },
   {
     "russian": "заключи́ть",
-    "english": "conclude"
+    "english": "conclude",
+    "audio": "media/audio_89.mp3"
   },
   {
     "russian": "гуде́ть",
-    "english": "buzz"
+    "english": "buzz",
+    "audio": "media/audio_365.mp3"
   },
   {
     "russian": "угада́ть",
-    "english": "guess"
+    "english": "guess",
+    "audio": "media/audio_13.mp3"
   },
   {
     "russian": "ки́нуться",
-    "english": "throw oneself"
+    "english": "throw oneself",
+    "audio": "media/audio_986.mp3"
   },
   {
     "russian": "испыта́ть",
-    "english": "test"
+    "english": "test",
+    "audio": "media/audio_977.mp3"
   },
   {
     "russian": "покрасне́ть",
-    "english": "turn red"
+    "english": "turn red",
+    "audio": "media/audio_358.mp3"
   },
   {
     "russian": "вози́ться",
-    "english": "to be busy with"
+    "english": "to be busy with",
+    "audio": "media/audio_1110.mp3"
   },
   {
     "russian": "храни́ть",
-    "english": "store"
+    "english": "store",
+    "audio": "media/audio_1020.mp3"
   },
   {
     "russian": "смени́ть",
-    "english": "replace"
+    "english": "replace",
+    "audio": "media/audio_189.mp3"
   },
   {
     "russian": "приподня́ть",
-    "english": "lift"
+    "english": "lift",
+    "audio": "media/audio_26.mp3"
   },
   {
     "russian": "шагну́ть",
-    "english": "step"
+    "english": "step",
+    "audio": "media/audio_947.mp3"
   },
   {
     "russian": "бра́ться",
-    "english": "undertake"
+    "english": "undertake",
+    "audio": "media/audio_406.mp3"
   },
   {
     "russian": "заду́мываться",
-    "english": "begin to think"
+    "english": "begin to think",
+    "audio": "media/audio_1366.mp3"
   },
   {
     "russian": "отсу́тствовать",
-    "english": "be absent"
+    "english": "be absent",
+    "audio": "media/audio_878.mp3"
   },
   {
     "russian": "догна́ть",
-    "english": "catch up with someone"
+    "english": "catch up with someone",
+    "audio": "media/audio_1080.mp3"
   },
   {
     "russian": "ночева́ть",
-    "english": "spend the night"
+    "english": "spend the night",
+    "audio": "media/audio_409.mp3"
   },
   {
     "russian": "вы́ехать",
-    "english": "leave"
+    "english": "leave",
+    "audio": "media/audio_354.mp3"
   },
   {
     "russian": "жева́ть",
-    "english": "chew"
+    "english": "chew",
+    "audio": "media/audio_532.mp3"
   },
   {
     "russian": "пропадать",
-    "english": "to get lost"
+    "english": "to get lost",
+    "audio": "media/audio_1373.mp3"
   },
   {
     "russian": "просыпаться",
-    "english": "wake up"
+    "english": "wake up",
+    "audio": "media/audio_451.mp3"
   },
   {
     "russian": "ре́зать",
-    "english": "cut"
+    "english": "cut",
+    "audio": "media/audio_797.mp3"
   },
   {
     "russian": "тро́нуть",
-    "english": "touch"
+    "english": "touch",
+    "audio": "media/audio_581.mp3"
   },
   {
     "russian": "видне́ться",
-    "english": "be seen"
+    "english": "be seen",
+    "audio": "media/audio_54.mp3"
   },
   {
     "russian": "сове́товать",
-    "english": "advise"
+    "english": "advise",
+    "audio": "media/audio_530.mp3"
   },
   {
     "russian": "свали́ться",
-    "english": "fall down"
+    "english": "fall down",
+    "audio": "media/audio_874.mp3"
   },
   {
     "russian": "прояви́ть",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_327.mp3"
   },
   {
     "russian": "сметь",
-    "english": "dare"
+    "english": "dare",
+    "audio": "media/audio_295.mp3"
   },
   {
     "russian": "поде́лать",
-    "english": "help"
+    "english": "help",
+    "audio": "media/audio_1136.mp3"
   },
   {
     "russian": "толкну́ть",
-    "english": "bump"
+    "english": "bump",
+    "audio": "media/audio_966.mp3"
   },
   {
     "russian": "лечи́ть",
-    "english": "treat (medically)"
+    "english": "treat (medically)",
+    "audio": "media/audio_111.mp3"
   },
   {
     "russian": "руга́ться",
-    "english": "swear"
+    "english": "swear",
+    "audio": "media/audio_661.mp3"
   },
   {
     "russian": "уложи́ть",
-    "english": "lay"
+    "english": "lay",
+    "audio": "media/audio_223.mp3"
   },
   {
     "russian": "зави́довать",
-    "english": "envy"
+    "english": "envy",
+    "audio": "media/audio_1236.mp3"
   },
   {
     "russian": "хло́пать",
-    "english": "clap"
+    "english": "clap",
+    "audio": "media/audio_533.mp3"
   },
   {
     "russian": "вы́тереть",
-    "english": "to dry"
+    "english": "to dry",
+    "audio": "media/audio_1349.mp3"
   },
   {
     "russian": "заслужи́ть",
-    "english": "to merit"
+    "english": "to merit",
+    "audio": "media/audio_289.mp3"
   },
   {
     "russian": "довести́",
-    "english": "bring"
+    "english": "bring",
+    "audio": "media/audio_28.mp3"
   },
   {
     "russian": "трясти́сь",
-    "english": "shake"
+    "english": "shake",
+    "audio": "media/audio_1240.mp3"
   },
   {
     "russian": "прису́тствовать",
-    "english": "to be present at some place"
+    "english": "to be present at some place",
+    "audio": "media/audio_699.mp3"
   },
   {
     "russian": "вы́рвать",
-    "english": "wrest"
+    "english": "wrest",
+    "audio": "media/audio_357.mp3"
   },
   {
     "russian": "мелькну́ть",
-    "english": "to flash"
+    "english": "to flash",
+    "audio": "media/audio_789.mp3"
   },
   {
     "russian": "наклони́ться",
-    "english": "bend"
+    "english": "bend",
+    "audio": "media/audio_508.mp3"
   },
   {
     "russian": "стесня́ться",
-    "english": "hesitate"
+    "english": "hesitate",
+    "audio": "media/audio_501.mp3"
   },
   {
     "russian": "преврати́ть",
-    "english": "to turn"
+    "english": "to turn",
+    "audio": "media/audio_791.mp3"
   },
   {
     "russian": "обижа́ться",
-    "english": "resent"
+    "english": "resent",
+    "audio": "media/audio_1308.mp3"
   },
   {
     "russian": "накры́ть",
-    "english": "cover"
+    "english": "cover",
+    "audio": "media/audio_249.mp3"
   },
   {
     "russian": "таска́ть",
-    "english": "drag"
+    "english": "drag",
+    "audio": "media/audio_352.mp3"
   },
   {
     "russian": "вста́вить",
-    "english": "insert"
+    "english": "insert",
+    "audio": "media/audio_1193.mp3"
   },
   {
     "russian": "засты́ть",
-    "english": "freeze"
+    "english": "freeze",
+    "audio": "media/audio_1068.mp3"
   },
   {
     "russian": "зали́ть",
-    "english": "pour (over)"
+    "english": "pour (over)",
+    "audio": "media/audio_991.mp3"
   },
   {
     "russian": "мча́ться",
-    "english": "to hurry"
+    "english": "to hurry",
+    "audio": "media/audio_1249.mp3"
   },
   {
     "russian": "сжечь",
-    "english": "burn (down)"
+    "english": "burn (down)",
+    "audio": "media/audio_770.mp3"
   },
   {
     "russian": "опаса́ться",
-    "english": "fear"
+    "english": "fear",
+    "audio": "media/audio_651.mp3"
   },
   {
     "russian": "удержа́ться",
-    "english": "hold out"
+    "english": "hold out",
+    "audio": "media/audio_1389.mp3"
   },
   {
     "russian": "подосла́ть",
-    "english": "send (secretly"
+    "english": "send (secretly",
+    "audio": "media/audio_565.mp3"
   },
   {
     "russian": "пообеща́ть",
-    "english": "promise"
+    "english": "promise",
+    "audio": "media/audio_1214.mp3"
   },
   {
     "russian": "заболе́ть",
-    "english": "to fall ill"
+    "english": "to fall ill",
+    "audio": "media/audio_804.mp3"
   },
   {
     "russian": "потрясти́",
-    "english": "shake"
+    "english": "shake",
+    "audio": "media/audio_887.mp3"
   },
   {
     "russian": "повора́чиваться",
-    "english": "turn (reflexive - turn someone's something)"
+    "english": "turn (reflexive - turn someone's something)",
+    "audio": "media/audio_1383.mp3"
   },
   {
     "russian": "запи́сывать",
-    "english": "to write down something"
+    "english": "to write down something",
+    "audio": "media/audio_29.mp3"
   },
   {
     "russian": "щёлкнуть",
-    "english": "click"
+    "english": "click",
+    "audio": "media/audio_514.mp3"
   },
   {
     "russian": "напо́лнить",
-    "english": "fill up"
+    "english": "fill up",
+    "audio": "media/audio_626.mp3"
   },
   {
     "russian": "прое́хать",
-    "english": "drive through"
+    "english": "drive through",
+    "audio": "media/audio_1386.mp3"
   },
   {
     "russian": "отобра́ть",
-    "english": "take away"
+    "english": "take away",
+    "audio": "media/audio_781.mp3"
   },
   {
     "russian": "разру́шить",
-    "english": "destroy"
+    "english": "destroy",
+    "audio": "media/audio_1178.mp3"
   },
   {
     "russian": "вы́слушать",
-    "english": "hear out"
+    "english": "hear out",
+    "audio": "media/audio_938.mp3"
   },
   {
     "russian": "пры́гнуть",
-    "english": "jump"
+    "english": "jump",
+    "audio": "media/audio_1045.mp3"
   },
   {
     "russian": "доверя́ть",
-    "english": "trust"
+    "english": "trust",
+    "audio": "media/audio_1250.mp3"
   },
   {
     "russian": "нару́шить",
-    "english": "to interrupt or disturb something"
+    "english": "to interrupt or disturb something",
+    "audio": "media/audio_1365.mp3"
   },
   {
     "russian": "сдава́ть",
-    "english": "pass (exams)"
+    "english": "pass (exams)",
+    "audio": "media/audio_454.mp3"
   },
   {
     "russian": "тра́тить",
-    "english": "spend"
+    "english": "spend",
+    "audio": "media/audio_523.mp3"
   },
   {
     "russian": "соверша́ть",
-    "english": "perform"
+    "english": "perform",
+    "audio": "media/audio_127.mp3"
   },
   {
     "russian": "нарисова́ть",
-    "english": "draw"
+    "english": "draw",
+    "audio": "media/audio_1256.mp3"
   },
   {
     "russian": "сни́ться",
-    "english": "dream"
+    "english": "dream",
+    "audio": "media/audio_104.mp3"
   },
   {
     "russian": "попали́ть",
-    "english": "consumed"
+    "english": "consumed",
+    "audio": "media/audio_1076.mp3"
   },
   {
     "russian": "перестава́ть",
-    "english": "cease"
+    "english": "cease",
+    "audio": "media/audio_466.mp3"
   },
   {
     "russian": "понести́",
-    "english": "suffer (losses)"
+    "english": "suffer (losses)",
+    "audio": "media/audio_186.mp3"
   },
   {
     "russian": "нужда́ться",
-    "english": "need"
+    "english": "need",
+    "audio": "media/audio_1292.mp3"
   },
   {
     "russian": "вы́пилить",
-    "english": "saw out"
+    "english": "saw out",
+    "audio": "media/audio_1054.mp3"
   },
   {
     "russian": "серди́ться",
-    "english": "be angry"
+    "english": "be angry",
+    "audio": "media/audio_407.mp3"
   },
   {
     "russian": "соедини́ть",
-    "english": "join"
+    "english": "join",
+    "audio": "media/audio_398.mp3"
   },
   {
     "russian": "ошиба́ться",
-    "english": "to err"
+    "english": "to err",
+    "audio": "media/audio_1086.mp3"
   },
   {
     "russian": "зада́ть",
-    "english": "ask (a question)"
+    "english": "ask (a question)",
+    "audio": "media/audio_740.mp3"
   },
   {
     "russian": "наблюда́ться",
-    "english": "be observed"
+    "english": "be observed",
+    "audio": "media/audio_1122.mp3"
   },
   {
     "russian": "растеря́ться",
-    "english": "become confused"
+    "english": "become confused",
+    "audio": "media/audio_208.mp3"
   },
   {
     "russian": "промолча́ть",
-    "english": "keep silent"
+    "english": "keep silent",
+    "audio": "media/audio_130.mp3"
   },
   {
     "russian": "выража́ться",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_280.mp3"
   },
   {
     "russian": "вы́играть",
-    "english": "win"
+    "english": "win",
+    "audio": "media/audio_166.mp3"
   },
   {
     "russian": "удиви́ть",
-    "english": "surprise"
+    "english": "surprise",
+    "audio": "media/audio_518.mp3"
   },
   {
     "russian": "включа́ть",
-    "english": "include"
+    "english": "include",
+    "audio": "media/audio_696.mp3"
   },
   {
     "russian": "кля́сться",
-    "english": "swear"
+    "english": "swear",
+    "audio": "media/audio_140.mp3"
   },
   {
     "russian": "пожела́ть",
-    "english": "wish"
+    "english": "wish",
+    "audio": "media/audio_33.mp3"
   },
   {
     "russian": "принима́ться",
-    "english": "to start doing something"
+    "english": "to start doing something",
+    "audio": "media/audio_659.mp3"
   },
   {
     "russian": "приложи́ть",
-    "english": "apply"
+    "english": "apply",
+    "audio": "media/audio_1284.mp3"
   },
   {
     "russian": "ки́нуть",
-    "english": "throw"
+    "english": "throw",
+    "audio": "media/audio_606.mp3"
   },
   {
     "russian": "жрать",
-    "english": "fress"
+    "english": "fress",
+    "audio": "media/audio_853.mp3"
   },
   {
     "russian": "оторва́ться",
-    "english": "come off (ie. a button)"
+    "english": "come off (ie. a button)",
+    "audio": "media/audio_767.mp3"
   },
   {
     "russian": "пуга́ть",
-    "english": "to fighten"
+    "english": "to fighten",
+    "audio": "media/audio_1031.mp3"
   },
   {
     "russian": "сверка́ть",
-    "english": "sparkle"
+    "english": "sparkle",
+    "audio": "media/audio_1359.mp3"
   },
   {
     "russian": "пое́сть",
-    "english": "eat"
+    "english": "eat",
+    "audio": "media/audio_733.mp3"
   },
   {
     "russian": "отправля́ться",
-    "english": "to leave on a trip"
+    "english": "to leave on a trip",
+    "audio": "media/audio_1006.mp3"
   },
   {
     "russian": "изобрази́ть",
-    "english": "picture"
+    "english": "picture",
+    "audio": "media/audio_351.mp3"
   },
   {
     "russian": "вы́сказать",
-    "english": "express"
+    "english": "express",
+    "audio": "media/audio_970.mp3"
   },
   {
     "russian": "спали́ть",
-    "english": "burn down"
+    "english": "burn down",
+    "audio": "media/audio_630.mp3"
   },
   {
     "russian": "шепта́ть",
-    "english": "whisper"
+    "english": "whisper",
+    "audio": "media/audio_1387.mp3"
   },
   {
     "russian": "испо́ртить",
-    "english": "to screw up"
+    "english": "to screw up",
+    "audio": "media/audio_408.mp3"
   },
   {
     "russian": "му́чить",
-    "english": "torture"
+    "english": "torture",
+    "audio": "media/audio_366.mp3"
   },
   {
     "russian": "надева́ть",
-    "english": "put on"
+    "english": "put on",
+    "audio": "media/audio_1106.mp3"
   },
   {
     "russian": "вы́лететь",
-    "english": "fly (take off)"
+    "english": "fly (take off)",
+    "audio": "media/audio_430.mp3"
   },
   {
     "russian": "ви́деться",
-    "english": "see (each other)"
+    "english": "see (each other)",
+    "audio": "media/audio_455.mp3"
   },
   {
     "russian": "охраня́ть",
-    "english": "guard"
+    "english": "guard",
+    "audio": "media/audio_655.mp3"
   },
   {
     "russian": "скрыва́ться",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_1149.mp3"
   },
   {
     "russian": "влезть",
-    "english": "climb in"
+    "english": "climb in",
+    "audio": "media/audio_257.mp3"
   },
   {
     "russian": "трясти́",
-    "english": "shake"
+    "english": "shake",
+    "audio": "media/audio_676.mp3"
   },
   {
     "russian": "прибли́зиться",
-    "english": "to approach"
+    "english": "to approach",
+    "audio": "media/audio_131.mp3"
   },
   {
     "russian": "наста́ивать",
-    "english": "insist"
+    "english": "insist",
+    "audio": "media/audio_981.mp3"
   },
   {
     "russian": "вы́жить",
-    "english": "Survive"
+    "english": "Survive",
+    "audio": "media/audio_924.mp3"
   },
   {
     "russian": "покида́ть",
-    "english": "leave"
+    "english": "leave",
+    "audio": "media/audio_847.mp3"
   },
   {
     "russian": "протя́гивать",
-    "english": "hold out"
+    "english": "hold out",
+    "audio": "media/audio_641.mp3"
   },
   {
     "russian": "торгова́ть",
-    "english": "trade"
+    "english": "trade",
+    "audio": "media/audio_367.mp3"
   },
   {
     "russian": "отста́ть",
-    "english": "to get left behind"
+    "english": "to get left behind",
+    "audio": "media/audio_329.mp3"
   },
   {
     "russian": "испо́лнить",
-    "english": "to fulfill something abstract (ex. an order"
+    "english": "to fulfill something abstract (ex. an order",
+    "audio": "media/audio_381.mp3"
   },
   {
     "russian": "раздава́ться",
-    "english": "resound"
+    "english": "resound",
+    "audio": "media/audio_920.mp3"
   },
   {
     "russian": "му́читься",
-    "english": "suffer"
+    "english": "suffer",
+    "audio": "media/audio_509.mp3"
   },
   {
     "russian": "забро́сить",
-    "english": "to give up"
+    "english": "to give up",
+    "audio": "media/audio_573.mp3"
   },
   {
     "russian": "счесть",
-    "english": "consider"
+    "english": "consider",
+    "audio": "media/audio_519.mp3"
   },
   {
     "russian": "испо́льзоваться",
-    "english": "be used"
+    "english": "be used",
+    "audio": "media/audio_1057.mp3"
   },
   {
     "russian": "извиня́ться",
-    "english": "to apologize"
+    "english": "to apologize",
+    "audio": "media/audio_1215.mp3"
   },
   {
     "russian": "предста́виться",
-    "english": "introduce oneself"
+    "english": "introduce oneself",
+    "audio": "media/audio_1263.mp3"
   },
   {
     "russian": "уверя́ть",
-    "english": "assure"
+    "english": "assure",
+    "audio": "media/audio_864.mp3"
   },
   {
     "russian": "отня́ть",
-    "english": "take away (from)"
+    "english": "take away (from)",
+    "audio": "media/audio_1278.mp3"
   },
   {
     "russian": "рассмотре́ть",
-    "english": "to examine"
+    "english": "to examine",
+    "audio": "media/audio_1325.mp3"
   },
   {
     "russian": "учи́тывать",
-    "english": "consider"
+    "english": "consider",
+    "audio": "media/audio_115.mp3"
   },
   {
     "russian": "греме́ть",
-    "english": "rattle"
+    "english": "rattle",
+    "audio": "media/audio_1264.mp3"
   },
   {
     "russian": "огляде́ться",
-    "english": "look around"
+    "english": "look around",
+    "audio": "media/audio_582.mp3"
   },
   {
     "russian": "ступа́ть",
-    "english": "step"
+    "english": "step",
+    "audio": "media/audio_292.mp3"
   },
   {
     "russian": "сгоре́ть",
-    "english": "burn down"
+    "english": "burn down",
+    "audio": "media/audio_792.mp3"
   },
   {
     "russian": "пога́снуть",
-    "english": "go out"
+    "english": "go out",
+    "audio": "media/audio_1157.mp3"
   },
   {
     "russian": "нанести́",
-    "english": "apply"
+    "english": "apply",
+    "audio": "media/audio_979.mp3"
   },
   {
     "russian": "вытира́ть",
-    "english": "to dry"
+    "english": "to dry",
+    "audio": "media/audio_70.mp3"
   },
   {
     "russian": "осозна́ть",
-    "english": "grasp"
+    "english": "grasp",
+    "audio": "media/audio_219.mp3"
   },
   {
     "russian": "пройти́сь",
-    "english": "go for a walk"
+    "english": "go for a walk",
+    "audio": "media/audio_801.mp3"
   },
   {
     "russian": "годи́ться",
-    "english": "be of use"
+    "english": "be of use",
+    "audio": "media/audio_994.mp3"
   },
   {
     "russian": "запо́лнить",
-    "english": "to fill out"
+    "english": "to fill out",
+    "audio": "media/audio_734.mp3"
   },
   {
     "russian": "раздража́ть",
-    "english": "to annoy"
+    "english": "to annoy",
+    "audio": "media/audio_441.mp3"
   },
   {
     "russian": "отказа́ть",
-    "english": "refuse"
+    "english": "refuse",
+    "audio": "media/audio_1199.mp3"
   },
   {
     "russian": "отложи́ть",
-    "english": "set aside (hold)"
+    "english": "set aside (hold)",
+    "audio": "media/audio_611.mp3"
   },
   {
     "russian": "свести́",
-    "english": "reduce to"
+    "english": "reduce to",
+    "audio": "media/audio_110.mp3"
   },
   {
     "russian": "зараба́тывать",
-    "english": "to earn"
+    "english": "to earn",
+    "audio": "media/audio_1369.mp3"
   },
   {
     "russian": "рвану́ть",
-    "english": "jerk"
+    "english": "jerk",
+    "audio": "media/audio_787.mp3"
   },
   {
     "russian": "отмеча́ть",
-    "english": "mark"
+    "english": "mark",
+    "audio": "media/audio_1273.mp3"
   },
   {
     "russian": "поклони́ться",
-    "english": "bow (to"
+    "english": "bow (to",
+    "audio": "media/audio_753.mp3"
   },
   {
     "russian": "докла́дывать",
-    "english": "report"
+    "english": "report",
+    "audio": "media/audio_294.mp3"
   },
   {
     "russian": "отнести́",
-    "english": "to take something somewhere"
+    "english": "to take something somewhere",
+    "audio": "media/audio_434.mp3"
   },
   {
     "russian": "привяза́ть",
-    "english": "tie to"
+    "english": "tie to",
+    "audio": "media/audio_422.mp3"
   },
   {
     "russian": "ткнуть",
-    "english": "poke"
+    "english": "poke",
+    "audio": "media/audio_269.mp3"
   },
   {
     "russian": "зажа́ть",
-    "english": "clutch"
+    "english": "clutch",
+    "audio": "media/audio_479.mp3"
   },
   {
     "russian": "дёрнуть",
-    "english": "pull"
+    "english": "pull",
+    "audio": "media/audio_1375.mp3"
   },
   {
     "russian": "вози́ть",
-    "english": "to drive"
+    "english": "to drive",
+    "audio": "media/audio_98.mp3"
   },
   {
     "russian": "размышля́ть",
-    "english": "meditate"
+    "english": "meditate",
+    "audio": "media/audio_20.mp3"
   },
   {
     "russian": "кати́ться",
-    "english": "roll"
+    "english": "roll",
+    "audio": "media/audio_656.mp3"
   },
   {
     "russian": "разби́ть",
-    "english": "break"
+    "english": "break",
+    "audio": "media/audio_987.mp3"
   },
   {
     "russian": "оби́деть",
-    "english": "offend"
+    "english": "offend",
+    "audio": "media/audio_71.mp3"
   },
   {
     "russian": "косну́ться",
-    "english": "touch"
+    "english": "touch",
+    "audio": "media/audio_334.mp3"
   },
   {
     "russian": "вы́делить",
-    "english": "distinguish"
+    "english": "distinguish",
+    "audio": "media/audio_181.mp3"
   },
   {
     "russian": "помере́ть",
-    "english": "die (impolite)"
+    "english": "die (impolite)",
+    "audio": "media/audio_1059.mp3"
   },
   {
     "russian": "руга́ть",
-    "english": "abuse"
+    "english": "abuse",
+    "audio": "media/audio_735.mp3"
   },
   {
     "russian": "беспоко́ить",
-    "english": "bother"
+    "english": "bother",
+    "audio": "media/audio_51.mp3"
   },
   {
     "russian": "восстанови́ть",
-    "english": "reestablish"
+    "english": "reestablish",
+    "audio": "media/audio_985.mp3"
   },
   {
     "russian": "достига́ть",
-    "english": "reach"
+    "english": "reach",
+    "audio": "media/audio_820.mp3"
   },
   {
     "russian": "волнова́ть",
-    "english": "excite"
+    "english": "excite",
+    "audio": "media/audio_97.mp3"
   },
   {
     "russian": "задержа́ться",
-    "english": "linger"
+    "english": "linger",
+    "audio": "media/audio_401.mp3"
   },
   {
     "russian": "сту́кнуть",
-    "english": "knock"
+    "english": "knock",
+    "audio": "media/audio_1304.mp3"
   },
   {
     "russian": "подчеркну́ть",
-    "english": "stress"
+    "english": "stress",
+    "audio": "media/audio_1243.mp3"
   },
   {
     "russian": "набира́ть",
-    "english": "to pick something somewhere"
+    "english": "to pick something somewhere",
+    "audio": "media/audio_378.mp3"
   },
   {
     "russian": "раздели́ть",
-    "english": "share"
+    "english": "share",
+    "audio": "media/audio_428.mp3"
   },
   {
     "russian": "исполня́ть",
-    "english": "to fulfill something abstract (ex. an order"
+    "english": "to fulfill something abstract (ex. an order",
+    "audio": "media/audio_1285.mp3"
   },
   {
     "russian": "плю́нуть",
-    "english": "spit"
+    "english": "spit",
+    "audio": "media/audio_346.mp3"
   },
   {
     "russian": "придава́ть",
-    "english": "attach"
+    "english": "attach",
+    "audio": "media/audio_1219_word.mp3"
   },
   {
     "russian": "извле́чь",
-    "english": "extract"
+    "english": "extract",
+    "audio": "media/audio_1095_word.mp3"
   },
   {
     "russian": "вы́гнать",
-    "english": "expel"
+    "english": "expel",
+    "audio": "media/audio_57_word.mp3"
   },
   {
     "russian": "приступи́ть",
-    "english": "start"
+    "english": "start",
+    "audio": "media/audio_1176_word.mp3"
   },
   {
     "russian": "дели́ться",
-    "english": "share"
+    "english": "share",
+    "audio": "media/audio_171_word.mp3"
   },
   {
     "russian": "выносить",
-    "english": "carry out"
+    "english": "carry out",
+    "audio": "media/audio_445_word.mp3"
   },
   {
     "russian": "прилете́ть",
-    "english": "to come"
+    "english": "to come",
+    "audio": "media/audio_1335_word.mp3"
   },
   {
     "russian": "вступа́ть",
-    "english": "join"
+    "english": "join",
+    "audio": "media/audio_1087_word.mp3"
   },
   {
     "russian": "одева́ться",
-    "english": "to dress"
+    "english": "to dress",
+    "audio": "media/audio_1165_word.mp3"
   },
   {
     "russian": "цени́ть",
-    "english": "appreciate"
+    "english": "appreciate",
+    "audio": "media/audio_870_word.mp3"
   },
   {
     "russian": "заверну́ть",
-    "english": "wrap (up"
+    "english": "wrap (up",
+    "audio": "media/audio_941_word.mp3"
   },
   {
     "russian": "воспринима́ть",
-    "english": "perceive"
+    "english": "perceive",
+    "audio": "media/audio_442_word.mp3"
   },
   {
     "russian": "изба́виться",
-    "english": "get rid of"
+    "english": "get rid of",
+    "audio": "media/audio_135_word.mp3"
   },
   {
     "russian": "унести́",
-    "english": "take away"
+    "english": "take away",
+    "audio": "media/audio_300_word.mp3"
   },
   {
     "russian": "заже́чь",
-    "english": "set fire"
+    "english": "set fire",
+    "audio": "media/audio_972_word.mp3"
   },
   {
     "russian": "привле́чь",
-    "english": "draw"
+    "english": "draw",
+    "audio": "media/audio_1345_word.mp3"
   },
   {
     "russian": "очути́ться",
-    "english": "come to be"
+    "english": "come to be",
+    "audio": "media/audio_1374_word.mp3"
   },
   {
     "russian": "проща́ться",
-    "english": "take leave of"
+    "english": "take leave of",
+    "audio": "media/audio_452_word.mp3"
   },
   {
     "russian": "провали́ться",
-    "english": "fall through"
+    "english": "fall through",
+    "audio": "media/audio_65_word.mp3"
   },
   {
     "russian": "располага́ться",
-    "english": "settle"
+    "english": "settle",
+    "audio": "media/audio_595_word.mp3"
   },
   {
     "russian": "мелька́ть",
-    "english": "to flash"
+    "english": "to flash",
+    "audio": "media/audio_1019_word.mp3"
   },
   {
     "russian": "переверну́ть",
-    "english": "turn (over)"
+    "english": "turn (over)",
+    "audio": "media/audio_983_word.mp3"
   },
   {
     "russian": "крути́ться",
-    "english": "spin"
+    "english": "spin",
+    "audio": "media/audio_1060_word.mp3"
   },
   {
     "russian": "обе́дать",
-    "english": "to have dinner"
+    "english": "to have dinner",
+    "audio": "media/audio_625_word.mp3"
   },
   {
     "russian": "наруша́ть",
-    "english": "to interrupt or disturb something"
+    "english": "to interrupt or disturb something",
+    "audio": "media/audio_842_word.mp3"
   },
   {
     "russian": "убеди́ть",
-    "english": "to convince"
+    "english": "to convince",
+    "audio": "media/audio_1123_word.mp3"
   },
   {
     "russian": "разверну́ться",
-    "english": "turn around"
+    "english": "turn around",
+    "audio": "media/audio_1144_word.mp3"
   },
   {
     "russian": "проявля́ть",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_822_word.mp3"
   },
   {
     "russian": "кача́ть",
-    "english": "swing"
+    "english": "swing",
+    "audio": "media/audio_861_word.mp3"
   },
   {
     "russian": "отступа́ть",
-    "english": "to step back"
+    "english": "to step back",
+    "audio": "media/audio_1220_word.mp3"
   },
   {
     "russian": "завали́ть",
-    "english": "fill up"
+    "english": "fill up",
+    "audio": "media/audio_1294_word.mp3"
   },
   {
     "russian": "внести́",
-    "english": "bring in"
+    "english": "bring in",
+    "audio": "media/audio_904_word.mp3"
   },
   {
     "russian": "упере́ться",
-    "english": "rest"
+    "english": "rest",
+    "audio": "media/audio_267_word.mp3"
   },
   {
     "russian": "заста́ть",
-    "english": "to catch (somebody)"
+    "english": "to catch (somebody)",
+    "audio": "media/audio_683_word.mp3"
   },
   {
     "russian": "опуска́ться",
-    "english": "fall"
+    "english": "fall",
+    "audio": "media/audio_1351_word.mp3"
   },
   {
     "russian": "темне́ть",
-    "english": "darken"
+    "english": "darken",
+    "audio": "media/audio_66_word.mp3"
   },
   {
     "russian": "оказа́ть",
-    "english": "to give"
+    "english": "to give",
+    "audio": "media/audio_1269_word.mp3"
   },
   {
     "russian": "вгля́дываться",
-    "english": "peer"
+    "english": "peer",
+    "audio": "media/audio_653_word.mp3"
   },
   {
     "russian": "приба́вить",
-    "english": "to add something to something spoken or written"
+    "english": "to add something to something spoken or written",
+    "audio": "media/audio_275_word.mp3"
   },
   {
     "russian": "спусти́ть",
-    "english": "lower"
+    "english": "lower",
+    "audio": "media/audio_338_word.mp3"
   },
   {
     "russian": "опубликова́ть",
-    "english": "publish"
+    "english": "publish",
+    "audio": "media/audio_132_word.mp3"
   },
   {
     "russian": "отпуска́ть",
-    "english": "to release"
+    "english": "to release",
+    "audio": "media/audio_1265_word.mp3"
   },
   {
     "russian": "проби́ть",
-    "english": "punch (a hole)"
+    "english": "punch (a hole)",
+    "audio": "media/audio_369_word.mp3"
   },
   {
     "russian": "ворова́ть",
-    "english": "steal"
+    "english": "steal",
+    "audio": "media/audio_389_word.mp3"
   },
   {
     "russian": "допуска́ть",
-    "english": "permit"
+    "english": "permit",
+    "audio": "media/audio_808_word.mp3"
   },
   {
     "russian": "рассчита́ть",
-    "english": "calculate"
+    "english": "calculate",
+    "audio": "media/audio_1030_word.mp3"
   },
   {
     "russian": "та́ять",
-    "english": "melt"
+    "english": "melt",
+    "audio": "media/audio_133_word.mp3"
   },
   {
     "russian": "возмути́ться",
-    "english": "become indignant at"
+    "english": "become indignant at",
+    "audio": "media/audio_1159_word.mp3"
   },
   {
     "russian": "задыха́ться",
-    "english": "suffocate"
+    "english": "suffocate",
+    "audio": "media/audio_1301_word.mp3"
   },
   {
     "russian": "расста́ться",
-    "english": "to part with someone"
+    "english": "to part with someone",
+    "audio": "media/audio_1147_word.mp3"
   },
   {
     "russian": "поко́нчить",
-    "english": "finish (off)"
+    "english": "finish (off)",
+    "audio": "media/audio_1088_word.mp3"
   },
   {
     "russian": "проводиться",
-    "english": "be held"
+    "english": "be held",
+    "audio": "media/audio_30_word.mp3"
   },
   {
     "russian": "скрыть",
-    "english": "hide"
+    "english": "hide",
+    "audio": "media/audio_205_word.mp3"
   },
   {
     "russian": "опозда́ть",
-    "english": "be late"
+    "english": "be late",
+    "audio": "media/audio_1384_word.mp3"
   },
   {
     "russian": "перехвати́ть",
-    "english": "intercept"
+    "english": "intercept",
+    "audio": "media/audio_55_word.mp3"
   },
   {
     "russian": "успока́ивать",
-    "english": "calm"
+    "english": "calm",
+    "audio": "media/audio_331_word.mp3"
   },
   {
     "russian": "обеспе́чивать",
-    "english": "provide"
+    "english": "provide",
+    "audio": "media/audio_228_word.mp3"
   },
   {
     "russian": "уточни́ть",
-    "english": "clarify"
+    "english": "clarify",
+    "audio": "media/audio_1124_word.mp3"
   },
   {
     "russian": "обрести́",
-    "english": "find"
+    "english": "find",
+    "audio": "media/audio_1098_word.mp3"
   },
   {
     "russian": "погла́дить",
-    "english": "stroke"
+    "english": "stroke",
+    "audio": "media/audio_1061_word.mp3"
   },
   {
     "russian": "дрема́ть",
-    "english": "doze"
+    "english": "doze",
+    "audio": "media/audio_556_word.mp3"
   },
   {
     "russian": "возбуди́ть",
-    "english": "excite"
+    "english": "excite",
+    "audio": "media/audio_701_word.mp3"
   },
   {
     "russian": "крути́ть",
-    "english": "twist"
+    "english": "twist",
+    "audio": "media/audio_201_word.mp3"
   },
   {
     "russian": "защити́ть",
-    "english": "protect"
+    "english": "protect",
+    "audio": "media/audio_897_word.mp3"
   },
   {
     "russian": "применя́ться",
-    "english": "to be applied"
+    "english": "to be applied",
+    "audio": "media/audio_1156_word.mp3"
   },
   {
     "russian": "вы́ключить",
-    "english": "switch off"
+    "english": "switch off",
+    "audio": "media/audio_1126_word.mp3"
   },
   {
     "russian": "рекомендова́ть",
-    "english": "recommend"
+    "english": "recommend",
+    "audio": "media/audio_222_word.mp3"
   },
   {
     "russian": "расстегну́ть",
-    "english": "undo"
+    "english": "undo",
+    "audio": "media/audio_524_word.mp3"
   },
   {
     "russian": "ока́зывать",
-    "english": "render"
+    "english": "render",
+    "audio": "media/audio_794_word.mp3"
   },
   {
     "russian": "прижима́ть",
-    "english": "press"
+    "english": "press",
+    "audio": "media/audio_1032_word.mp3"
   },
   {
     "russian": "вы́стрелить",
-    "english": "fire"
+    "english": "fire",
+    "audio": "media/audio_1338_word.mp3"
   },
   {
     "russian": "звене́ть",
-    "english": "ring"
+    "english": "ring",
+    "audio": "media/audio_85_word.mp3"
   },
   {
     "russian": "сжать",
-    "english": "squeeze"
+    "english": "squeeze",
+    "audio": "media/audio_1321_word.mp3"
   },
   {
     "russian": "подмигну́ть",
-    "english": "wink"
+    "english": "wink",
+    "audio": "media/audio_103_word.mp3"
   },
   {
     "russian": "реве́ть",
-    "english": "roar"
+    "english": "roar",
+    "audio": "media/audio_1036_word.mp3"
   },
   {
     "russian": "прозвуча́ть",
-    "english": "sound"
+    "english": "sound",
+    "audio": "media/audio_634_word.mp3"
   },
   {
     "russian": "прижа́ться",
-    "english": "cuddle up to"
+    "english": "cuddle up to",
+    "audio": "media/audio_663_word.mp3"
   },
   {
     "russian": "управля́ть",
-    "english": "control"
+    "english": "control",
+    "audio": "media/audio_534_word.mp3"
   },
   {
     "russian": "дуть",
-    "english": "blow"
+    "english": "blow",
+    "audio": "media/audio_1274_word.mp3"
   },
   {
     "russian": "покоси́ться",
-    "english": "sink to one side"
+    "english": "sink to one side",
+    "audio": "media/audio_423_word.mp3"
   },
   {
     "russian": "стона́ть",
-    "english": "moan"
+    "english": "moan",
+    "audio": "media/audio_459_word.mp3"
   },
   {
     "russian": "дро́гнуть",
-    "english": "tremble"
+    "english": "tremble",
+    "audio": "media/audio_255_word.mp3"
   },
   {
     "russian": "любова́ться",
-    "english": "admire"
+    "english": "admire",
+    "audio": "media/audio_1024_word.mp3"
   },
   {
     "russian": "улете́ть",
-    "english": "fly away"
+    "english": "fly away",
+    "audio": "media/audio_0_word.mp3"
   },
   {
     "russian": "перебира́ть",
-    "english": "sort out"
+    "english": "sort out",
+    "audio": "media/audio_831_word.mp3"
   },
   {
     "russian": "занести́",
-    "english": "bring"
+    "english": "bring",
+    "audio": "media/audio_203_word.mp3"
   },
   {
     "russian": "сочиня́ть",
-    "english": "write"
+    "english": "write",
+    "audio": "media/audio_928_word.mp3"
   },
   {
     "russian": "вложи́ть",
-    "english": "put in"
+    "english": "put in",
+    "audio": "media/audio_1358_word.mp3"
   },
   {
     "russian": "плева́ть",
-    "english": "spit"
+    "english": "spit",
+    "audio": "media/audio_860_word.mp3"
   },
   {
     "russian": "купа́ться",
-    "english": "bathe"
+    "english": "bathe",
+    "audio": "media/audio_1044_word.mp3"
   },
   {
     "russian": "улови́ть",
-    "english": "catch"
+    "english": "catch",
+    "audio": "media/audio_736_word.mp3"
   },
   {
     "russian": "прони́кнуть",
-    "english": "penetrate"
+    "english": "penetrate",
+    "audio": "media/audio_773_word.mp3"
   },
   {
     "russian": "уцеле́ть",
-    "english": "remain intact"
+    "english": "remain intact",
+    "audio": "media/audio_737_word.mp3"
   },
   {
     "russian": "сдава́ться",
-    "english": "give up"
+    "english": "give up",
+    "audio": "media/audio_690_word.mp3"
   },
   {
     "russian": "сдви́нуть",
-    "english": "move (together)"
+    "english": "move (together)",
+    "audio": "media/audio_1310_word.mp3"
   },
   {
     "russian": "переводи́ть",
-    "english": "to translate"
+    "english": "to translate",
+    "audio": "media/audio_815_word.mp3"
   },
   {
     "russian": "вцепи́ться",
-    "english": "cling to"
+    "english": "cling to",
+    "audio": "media/audio_678_word.mp3"
   },
   {
     "russian": "напеча́тать",
-    "english": "print"
+    "english": "print",
+    "audio": "media/audio_1378_word.mp3"
   },
   {
     "russian": "руководи́ть",
-    "english": "lead"
+    "english": "lead",
+    "audio": "media/audio_1171_word.mp3"
   },
   {
     "russian": "донести́сь",
-    "english": "waft"
+    "english": "waft",
+    "audio": "media/audio_138_word.mp3"
   },
   {
     "russian": "вы́бить",
-    "english": "beat"
+    "english": "beat",
+    "audio": "media/audio_1004_word.mp3"
   },
   {
     "russian": "пови́снуть",
-    "english": "hang (by"
+    "english": "hang (by",
+    "audio": "media/audio_640_word.mp3"
   },
   {
     "russian": "осве́домиться",
-    "english": "inquire"
+    "english": "inquire",
+    "audio": "media/audio_1260_word.mp3"
   },
   {
     "russian": "окружа́ть",
-    "english": "surround"
+    "english": "surround",
+    "audio": "media/audio_355_word.mp3"
   },
   {
     "russian": "предоста́вить",
-    "english": "provide"
+    "english": "provide",
+    "audio": "media/audio_644_word.mp3"
   },
   {
     "russian": "свиде́тельствовать",
-    "english": "witness"
+    "english": "witness",
+    "audio": "media/audio_216_word.mp3"
   },
   {
     "russian": "выта́скивать",
-    "english": "pull out"
+    "english": "pull out",
+    "audio": "media/audio_911_word.mp3"
   },
   {
     "russian": "бере́чь",
-    "english": "take care of"
+    "english": "take care of",
+    "audio": "media/audio_1327_word.mp3"
   },
   {
     "russian": "моли́ться",
-    "english": "pray"
+    "english": "pray",
+    "audio": "media/audio_698_word.mp3"
   },
   {
     "russian": "проявля́ться",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_937_word.mp3"
   },
   {
     "russian": "опи́сывать",
-    "english": "describe"
+    "english": "describe",
+    "audio": "media/audio_114_word.mp3"
   },
   {
     "russian": "ве́дать",
-    "english": "know (archaic)"
+    "english": "know (archaic)",
+    "audio": "media/audio_231_word.mp3"
   },
   {
     "russian": "увезти́",
-    "english": "take away"
+    "english": "take away",
+    "audio": "media/audio_592_word.mp3"
   },
   {
     "russian": "приве́тствовать",
-    "english": "to welcome"
+    "english": "to welcome",
+    "audio": "media/audio_695_word.mp3"
   },
   {
     "russian": "опира́ться",
-    "english": "lean"
+    "english": "lean",
+    "audio": "media/audio_335_word.mp3"
   },
   {
     "russian": "наказа́ть",
-    "english": "punish"
+    "english": "punish",
+    "audio": "media/audio_756_word.mp3"
   },
   {
     "russian": "упомяну́ть",
-    "english": "mention"
+    "english": "mention",
+    "audio": "media/audio_1037_word.mp3"
   },
   {
     "russian": "вздра́гивать",
-    "english": "start"
+    "english": "start",
+    "audio": "media/audio_684_word.mp3"
   },
   {
     "russian": "выделя́ться",
-    "english": "stand out"
+    "english": "stand out",
+    "audio": "media/audio_694_word.mp3"
   },
   {
     "russian": "скрипе́ть",
-    "english": "creak"
+    "english": "creak",
+    "audio": "media/audio_978_word.mp3"
   },
   {
     "russian": "ку́шать",
-    "english": "eat"
+    "english": "eat",
+    "audio": "media/audio_1393_word.mp3"
   },
   {
     "russian": "обща́ться",
-    "english": "communicate"
+    "english": "communicate",
+    "audio": "media/audio_1079_word.mp3"
   },
   {
     "russian": "чу́вствоваться",
-    "english": "be felt"
+    "english": "be felt",
+    "audio": "media/audio_90_word.mp3"
   },
   {
     "russian": "почита́ть",
-    "english": "esteem"
+    "english": "esteem",
+    "audio": "media/audio_1252_word.mp3"
   },
   {
     "russian": "расста́вить",
-    "english": "place"
+    "english": "place",
+    "audio": "media/audio_597_word.mp3"
   },
   {
     "russian": "направля́ться",
-    "english": "to head in a direction"
+    "english": "to head in a direction",
+    "audio": "media/audio_1138_word.mp3"
   },
   {
     "russian": "бу́ркнуть",
-    "english": "growl out"
+    "english": "growl out",
+    "audio": "media/audio_612_word.mp3"
   },
   {
     "russian": "столкну́ться",
-    "english": "to collide"
+    "english": "to collide",
+    "audio": "media/audio_393_word.mp3"
   },
   {
     "russian": "угова́ривать",
-    "english": "persuade"
+    "english": "persuade",
+    "audio": "media/audio_1141_word.mp3"
   },
   {
     "russian": "прикрыва́ть",
-    "english": "cover"
+    "english": "cover",
+    "audio": "media/audio_1177_word.mp3"
   },
   {
     "russian": "различа́ть",
-    "english": "distinguish"
+    "english": "distinguish",
+    "audio": "media/audio_577_word.mp3"
   },
   {
     "russian": "обходи́ть",
-    "english": "to walk around something"
+    "english": "to walk around something",
+    "audio": "media/audio_950_word.mp3"
   },
   {
     "russian": "повора́чивать",
-    "english": "turn"
+    "english": "turn",
+    "audio": "media/audio_691_word.mp3"
   },
   {
     "russian": "утра́тить",
-    "english": "lose"
+    "english": "lose",
+    "audio": "media/audio_1258_word.mp3"
   },
   {
     "russian": "удержа́ть",
-    "english": "hold"
+    "english": "hold",
+    "audio": "media/audio_841_word.mp3"
   },
   {
     "russian": "склони́ться",
-    "english": "incline"
+    "english": "incline",
+    "audio": "media/audio_1302_word.mp3"
   },
   {
     "russian": "отступи́ть",
-    "english": "to step back"
+    "english": "to step back",
+    "audio": "media/audio_742_word.mp3"
   },
   {
     "russian": "дли́ться",
-    "english": "last"
+    "english": "last",
+    "audio": "media/audio_447_word.mp3"
   },
   {
     "russian": "переспроси́ть",
-    "english": "ask again"
+    "english": "ask again",
+    "audio": "media/audio_888_word.mp3"
   },
   {
     "russian": "швырну́ть",
-    "english": "throw"
+    "english": "throw",
+    "audio": "media/audio_1093_word.mp3"
   },
   {
     "russian": "вмеша́ться",
-    "english": "to intervene"
+    "english": "to intervene",
+    "audio": "media/audio_86_word.mp3"
   },
   {
     "russian": "де́ться",
-    "english": "go"
+    "english": "go",
+    "audio": "media/audio_368_word.mp3"
   },
   {
     "russian": "добива́ться",
-    "english": "obtain"
+    "english": "obtain",
+    "audio": "media/audio_909_word.mp3"
   },
   {
     "russian": "напи́ться",
-    "english": "to get drunk"
+    "english": "to get drunk",
+    "audio": "media/audio_1082_word.mp3"
   },
   {
     "russian": "ло́пнуть",
-    "english": "burst"
+    "english": "burst",
+    "audio": "media/audio_35_word.mp3"
   },
   {
     "russian": "упусти́ть",
-    "english": "miss"
+    "english": "miss",
+    "audio": "media/audio_1245_word.mp3"
   },
   {
     "russian": "подъе́хать",
-    "english": "to approach with a vehicle (to drive up)"
+    "english": "to approach with a vehicle (to drive up)",
+    "audio": "media/audio_1096_word.mp3"
   },
   {
     "russian": "слу́шаться",
-    "english": "obey"
+    "english": "obey",
+    "audio": "media/audio_1259_word.mp3"
   },
   {
     "russian": "пропуска́ть",
-    "english": "to miss something"
+    "english": "to miss something",
+    "audio": "media/audio_1280_word.mp3"
   },
   {
     "russian": "забира́ть",
-    "english": "to withdraw"
+    "english": "to withdraw",
+    "audio": "media/audio_1291_word.mp3"
   },
   {
     "russian": "реаги́ровать",
-    "english": "react"
+    "english": "react",
+    "audio": "media/audio_627_word.mp3"
   },
   {
     "russian": "гла́дить",
-    "english": "iron"
+    "english": "iron",
+    "audio": "media/audio_935_word.mp3"
   },
   {
     "russian": "отвезти́",
-    "english": "take (away)"
+    "english": "take (away)",
+    "audio": "media/audio_785_word.mp3"
   },
   {
     "russian": "обма́нывать",
-    "english": "deceive"
+    "english": "deceive",
+    "audio": "media/audio_117_word.mp3"
   },
   {
     "russian": "урони́ть",
-    "english": "drop"
+    "english": "drop",
+    "audio": "media/audio_376_word.mp3"
   },
   {
     "russian": "шепну́ть",
-    "english": "whisper"
+    "english": "whisper",
+    "audio": "media/audio_580_word.mp3"
   },
   {
     "russian": "вылеза́ть",
-    "english": "get"
+    "english": "get",
+    "audio": "media/audio_1189_word.mp3"
   },
   {
     "russian": "приоткры́ть",
-    "english": "reveal"
+    "english": "reveal",
+    "audio": "media/audio_1247_word.mp3"
   },
   {
     "russian": "добы́ть",
-    "english": "get"
+    "english": "get",
+    "audio": "media/audio_1322_word.mp3"
   },
   {
     "russian": "дави́ть",
-    "english": "press"
+    "english": "press",
+    "audio": "media/audio_467_word.mp3"
   },
   {
     "russian": "рожда́ться",
-    "english": "to be born"
+    "english": "to be born",
+    "audio": "media/audio_547_word.mp3"
   },
   {
     "russian": "сохраня́ть",
-    "english": "keep"
+    "english": "keep",
+    "audio": "media/audio_936_word.mp3"
   },
   {
     "russian": "основа́ть",
-    "english": "found"
+    "english": "found",
+    "audio": "media/audio_461.mp3"
   },
   {
     "russian": "замёрзнуть",
-    "english": "freeze"
+    "english": "freeze",
+    "audio": "media/audio_1261.mp3"
   },
   {
     "russian": "сопровожда́ться",
-    "english": "be accompanied"
+    "english": "be accompanied",
+    "audio": "media/audio_243.mp3"
   },
   {
     "russian": "подсказа́ть",
-    "english": "prompt"
+    "english": "prompt",
+    "audio": "media/audio_204.mp3"
   },
   {
     "russian": "пока́чиваться",
-    "english": "rock"
+    "english": "rock",
+    "audio": "media/audio_646.mp3"
   },
   {
     "russian": "запе́ть",
-    "english": "start singing"
+    "english": "start singing",
+    "audio": "media/audio_1368.mp3"
   },
   {
     "russian": "разорва́ть",
-    "english": "to tear up"
+    "english": "to tear up",
+    "audio": "media/audio_544.mp3"
   },
   {
     "russian": "мета́ться",
-    "english": "rush about"
+    "english": "rush about",
+    "audio": "media/audio_1201.mp3"
   },
   {
     "russian": "забо́титься",
-    "english": "to take care of"
+    "english": "to take care of",
+    "audio": "media/audio_997.mp3"
   },
   {
     "russian": "расходи́ться",
-    "english": "to get separated"
+    "english": "to get separated",
+    "audio": "media/audio_716.mp3"
   },
   {
     "russian": "заду́мать",
-    "english": "intend"
+    "english": "intend",
+    "audio": "media/audio_353.mp3"
   },
   {
     "russian": "уво́лить",
-    "english": "fire (from work)"
+    "english": "fire (from work)",
+    "audio": "media/audio_961.mp3"
   },
   {
     "russian": "поиска́ть",
-    "english": "search"
+    "english": "search",
+    "audio": "media/audio_664.mp3"
   },
   {
     "russian": "объясня́ться",
-    "english": "to be explained"
+    "english": "to be explained",
+    "audio": "media/audio_359.mp3"
   },
   {
     "russian": "отбро́сить",
-    "english": "throw away"
+    "english": "throw away",
+    "audio": "media/audio_925.mp3"
   },
   {
     "russian": "храни́ться",
-    "english": "be kept"
+    "english": "be kept",
+    "audio": "media/audio_648.mp3"
   },
   {
     "russian": "увести́",
-    "english": "withdraw"
+    "english": "withdraw",
+    "audio": "media/audio_817.mp3"
   },
   {
     "russian": "своди́ть",
-    "english": "reduce to"
+    "english": "reduce to",
+    "audio": "media/audio_400.mp3"
   },
   {
     "russian": "приобрета́ть",
-    "english": "purchase"
+    "english": "purchase",
+    "audio": "media/audio_1337.mp3"
   },
   {
     "russian": "удали́ться",
-    "english": "move off"
+    "english": "move off",
+    "audio": "media/audio_475.mp3"
   },
   {
     "russian": "вспы́хивать",
-    "english": "blaze up"
+    "english": "blaze up",
+    "audio": "media/audio_1306.mp3"
   },
   {
     "russian": "нахму́риться",
-    "english": "frown"
+    "english": "frown",
+    "audio": "media/audio_1033.mp3"
   },
   {
     "russian": "налива́ть",
-    "english": "pour"
+    "english": "pour",
+    "audio": "media/audio_504.mp3"
   },
   {
     "russian": "подтвержда́ть",
-    "english": "confirm"
+    "english": "confirm",
+    "audio": "media/audio_226.mp3"
   },
   {
     "russian": "привлека́ть",
-    "english": "attract"
+    "english": "attract",
+    "audio": "media/audio_310.mp3"
   },
   {
     "russian": "зале́зть",
-    "english": "climb"
+    "english": "climb",
+    "audio": "media/audio_752.mp3"
   },
   {
     "russian": "умоля́ть",
-    "english": "beg"
+    "english": "beg",
+    "audio": "media/audio_141.mp3"
   },
   {
     "russian": "поднести́",
-    "english": "bring to"
+    "english": "bring to",
+    "audio": "media/audio_757.mp3"
   },
   {
     "russian": "пожи́ть",
-    "english": "live"
+    "english": "live",
+    "audio": "media/audio_1127.mp3"
   },
   {
     "russian": "вы́кинуть",
-    "english": "throw out"
+    "english": "throw out",
+    "audio": "media/audio_1350.mp3"
   },
   {
     "russian": "выводить",
-    "english": "to take someone out"
+    "english": "to take someone out",
+    "audio": "media/audio_973.mp3"
   },
   {
     "russian": "пода́ться",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_746.mp3"
   },
   {
     "russian": "чи́стить",
-    "english": "clean"
+    "english": "clean",
+    "audio": "media/audio_586.mp3"
   },
   {
     "russian": "пресле́довать",
-    "english": "to chase"
+    "english": "to chase",
+    "audio": "media/audio_323.mp3"
   },
   {
     "russian": "откли́кнуться",
-    "english": "respond"
+    "english": "respond",
+    "audio": "media/audio_541.mp3"
   },
   {
     "russian": "пошути́ть",
-    "english": "make a joke"
+    "english": "make a joke",
+    "audio": "media/audio_844.mp3"
   },
   {
     "russian": "прожива́ть",
-    "english": "reside"
+    "english": "reside",
+    "audio": "media/audio_704.mp3"
   },
   {
     "russian": "вы́ложить",
-    "english": "lay"
+    "english": "lay",
+    "audio": "media/audio_1007.mp3"
   },
   {
     "russian": "забра́ться",
-    "english": "climb on"
+    "english": "climb on",
+    "audio": "media/audio_399.mp3"
   },
   {
     "russian": "упира́ться",
-    "english": "jib"
+    "english": "jib",
+    "audio": "media/audio_1028.mp3"
   },
   {
     "russian": "узнава́ть",
-    "english": "learn"
+    "english": "learn",
+    "audio": "media/audio_1203.mp3"
   },
   {
     "russian": "постоя́ть",
-    "english": "stand (for a while"
+    "english": "stand (for a while",
+    "audio": "media/audio_642.mp3"
   },
   {
     "russian": "взлете́ть",
-    "english": "take off"
+    "english": "take off",
+    "audio": "media/audio_420.mp3"
   },
   {
     "russian": "проигра́ть",
-    "english": "to lose"
+    "english": "to lose",
+    "audio": "media/audio_596.mp3"
   },
   {
     "russian": "помо́рщиться",
-    "english": "make a wry face"
+    "english": "make a wry face",
+    "audio": "media/audio_392.mp3"
   },
   {
     "russian": "разма́хивать",
-    "english": "swing"
+    "english": "swing",
+    "audio": "media/audio_942.mp3"
   },
   {
     "russian": "води́ться",
-    "english": "to be found"
+    "english": "to be found",
+    "audio": "media/audio_1013.mp3"
   },
   {
     "russian": "подчиня́ться",
-    "english": "submit"
+    "english": "submit",
+    "audio": "media/audio_539.mp3"
   },
   {
     "russian": "спры́гнуть",
-    "english": "jump off"
+    "english": "jump off",
+    "audio": "media/audio_769.mp3"
   },
   {
     "russian": "переноси́ть",
-    "english": "to carry"
+    "english": "to carry",
+    "audio": "media/audio_1034.mp3"
   },
   {
     "russian": "презира́ть",
-    "english": "despise"
+    "english": "despise",
+    "audio": "media/audio_1341.mp3"
   },
   {
     "russian": "зарасти́",
-    "english": "to be overgrown"
+    "english": "to be overgrown",
+    "audio": "media/audio_945_word.mp3"
   },
   {
     "russian": "опуска́ть",
-    "english": "lower"
+    "english": "lower",
+    "audio": "media/audio_748_word.mp3"
   },
   {
     "russian": "перее́хать",
-    "english": "to move somewhere"
+    "english": "to move somewhere",
+    "audio": "media/audio_919_word.mp3"
   },
   {
     "russian": "убега́ть",
-    "english": "run away"
+    "english": "run away",
+    "audio": "media/audio_995_word.mp3"
   },
   {
     "russian": "прислу́шаться",
-    "english": "listen to"
+    "english": "listen to",
+    "audio": "media/audio_374_word.mp3"
   },
   {
     "russian": "освободи́ться",
-    "english": "beceome free"
+    "english": "beceome free",
+    "audio": "media/audio_786_word.mp3"
   },
   {
     "russian": "расспра́шивать",
-    "english": "question"
+    "english": "question",
+    "audio": "media/audio_795_word.mp3"
   },
   {
     "russian": "толка́ть",
-    "english": "push"
+    "english": "push",
+    "audio": "media/audio_298_word.mp3"
   },
   {
     "russian": "изда́ть",
-    "english": "to publish"
+    "english": "to publish",
+    "audio": "media/audio_161_word.mp3"
   },
   {
     "russian": "схвати́ться",
-    "english": "grapple"
+    "english": "grapple",
+    "audio": "media/audio_1262_word.mp3"
   },
   {
     "russian": "кружи́ться",
-    "english": "whirl"
+    "english": "whirl",
+    "audio": "media/audio_1166_word.mp3"
   },
   {
     "russian": "поползти́",
-    "english": "crawl"
+    "english": "crawl",
+    "audio": "media/audio_287_word.mp3"
   },
   {
     "russian": "спохвати́ться",
-    "english": "suddenly remember"
+    "english": "suddenly remember",
+    "audio": "media/audio_667_word.mp3"
   },
   {
     "russian": "похорони́ть",
-    "english": "bury"
+    "english": "bury",
+    "audio": "media/audio_1172_word.mp3"
   },
   {
     "russian": "сжима́ть",
-    "english": "squeeze"
+    "english": "squeeze",
+    "audio": "media/audio_833_word.mp3"
   },
   {
     "russian": "нараста́ть",
-    "english": "increase"
+    "english": "increase",
+    "audio": "media/audio_119_word.mp3"
   },
   {
     "russian": "оборва́ть",
-    "english": "tear"
+    "english": "tear",
+    "audio": "media/audio_404_word.mp3"
   },
   {
     "russian": "добавля́ть",
-    "english": "add"
+    "english": "add",
+    "audio": "media/audio_540_word.mp3"
   },
   {
     "russian": "вы́глянуть",
-    "english": "look out"
+    "english": "look out",
+    "audio": "media/audio_232_word.mp3"
   },
   {
     "russian": "гоня́ть",
-    "english": "send on errands"
+    "english": "send on errands",
+    "audio": "media/audio_484_word.mp3"
   },
   {
     "russian": "поспеши́ть",
-    "english": "hurry"
+    "english": "hurry",
+    "audio": "media/audio_224_word.mp3"
   },
   {
     "russian": "пробежа́ть",
-    "english": "run"
+    "english": "run",
+    "audio": "media/audio_712_word.mp3"
   },
   {
     "russian": "засу́нуть",
-    "english": "put"
+    "english": "put",
+    "audio": "media/audio_967_word.mp3"
   },
   {
     "russian": "рассерди́ться",
-    "english": "get angry"
+    "english": "get angry",
+    "audio": "media/audio_738_word.mp3"
   },
   {
     "russian": "сде́рживать",
-    "english": "hold back"
+    "english": "hold back",
+    "audio": "media/audio_980_word.mp3"
   },
   {
     "russian": "подбежа́ть",
-    "english": "run up"
+    "english": "run up",
+    "audio": "media/audio_482_word.mp3"
   },
   {
     "russian": "спря́таться",
-    "english": "to hide oneself from something"
+    "english": "to hide oneself from something",
+    "audio": "media/audio_314_word.mp3"
   },
   {
     "russian": "скла́дываться",
-    "english": "be formed"
+    "english": "be formed",
+    "audio": "media/audio_1041_word.mp3"
   },
   {
     "russian": "разводи́ть",
-    "english": "to mix"
+    "english": "to mix",
+    "audio": "media/audio_1128_word.mp3"
   },
   {
     "russian": "повторя́ться",
-    "english": "repeat (oneself)"
+    "english": "repeat (oneself)",
+    "audio": "media/audio_1394_word.mp3"
   },
   {
     "russian": "труди́ться",
-    "english": "work"
+    "english": "work",
+    "audio": "media/audio_992_word.mp3"
   },
   {
     "russian": "оде́ться",
-    "english": "get dressed"
+    "english": "get dressed",
+    "audio": "media/audio_1043_word.mp3"
   },
   {
     "russian": "преодоле́ть",
-    "english": "overcome"
+    "english": "overcome",
+    "audio": "media/audio_250_word.mp3"
   },
   {
     "russian": "определя́ться",
-    "english": "to be determined"
+    "english": "to be determined",
+    "audio": "media/audio_371_word.mp3"
   },
   {
     "russian": "назнача́ть",
-    "english": "to appoint"
+    "english": "to appoint",
+    "audio": "media/audio_759_word.mp3"
   },
   {
     "russian": "кача́ться",
-    "english": "to swing"
+    "english": "to swing",
+    "audio": "media/audio_843_word.mp3"
   },
   {
     "russian": "потерпе́ть",
-    "english": "suffer"
+    "english": "suffer",
+    "audio": "media/audio_687_word.mp3"
   },
   {
     "russian": "вы́резать",
-    "english": "cut out"
+    "english": "cut out",
+    "audio": "media/audio_1129.mp3"
   },
   {
     "russian": "скуча́ть",
-    "english": "miss"
+    "english": "miss",
+    "audio": "media/audio_1286_word.mp3"
   },
   {
     "russian": "избежа́ть",
-    "english": "to avoid"
+    "english": "to avoid",
+    "audio": "media/audio_812_word.mp3"
   },
   {
     "russian": "кида́ть",
-    "english": "throw"
+    "english": "throw",
+    "audio": "media/audio_74_word.mp3"
   },
   {
     "russian": "дава́ться",
-    "english": "to be given"
+    "english": "to be given",
+    "audio": "media/audio_616_word.mp3"
   },
   {
     "russian": "затяну́ться",
-    "english": "to be delayed"
+    "english": "to be delayed",
+    "audio": "media/audio_101_word.mp3"
   },
   {
     "russian": "задра́ть",
-    "english": "lift"
+    "english": "lift",
+    "audio": "media/audio_324_word.mp3"
   },
   {
     "russian": "сбегать",
-    "english": "run off"
+    "english": "run off",
+    "audio": "media/audio_932_word.mp3"
   },
   {
     "russian": "болта́ться",
-    "english": "hang about"
+    "english": "hang about",
+    "audio": "media/audio_890_word.mp3"
   },
   {
     "russian": "свя́зывать",
-    "english": "link"
+    "english": "link",
+    "audio": "media/audio_1226_word.mp3"
   },
   {
     "russian": "изучи́ть",
-    "english": "study"
+    "english": "study",
+    "audio": "media/audio_943_word.mp3"
   },
   {
     "russian": "уступа́ть",
-    "english": "yield"
+    "english": "yield",
+    "audio": "media/audio_525_word.mp3"
   },
   {
     "russian": "потре́боваться",
-    "english": "be required"
+    "english": "be required",
+    "audio": "media/audio_700_word.mp3"
   },
   {
     "russian": "пита́ться",
-    "english": "feed (on)"
+    "english": "feed (on)",
+    "audio": "media/audio_965_word.mp3"
   },
   {
     "russian": "угрожа́ть",
-    "english": "threaten (with)"
+    "english": "threaten (with)",
+    "audio": "media/audio_796_word.mp3"
   },
   {
     "russian": "пребыва́ть",
-    "english": "stay"
+    "english": "stay",
+    "audio": "media/audio_328_word.mp3"
   },
   {
     "russian": "подави́ть",
-    "english": "suppress"
+    "english": "suppress",
+    "audio": "media/audio_432_word.mp3"
   },
   {
     "russian": "пляса́ть",
-    "english": "dance"
+    "english": "dance",
+    "audio": "media/audio_685_word.mp3"
   },
   {
     "russian": "заявля́ть",
-    "english": "to announce"
+    "english": "to announce",
+    "audio": "media/audio_293_word.mp3"
   },
   {
     "russian": "уговори́ть",
-    "english": "persuade"
+    "english": "persuade",
+    "audio": "media/audio_957_word.mp3"
   },
   {
     "russian": "сажа́ть",
-    "english": "plant"
+    "english": "plant",
+    "audio": "media/audio_1346_word.mp3"
   },
   {
     "russian": "поплы́ть",
-    "english": "swim somewhere"
+    "english": "swim somewhere",
+    "audio": "media/audio_677_word.mp3"
   },
   {
     "russian": "дели́ть",
-    "english": "share"
+    "english": "share",
+    "audio": "media/audio_456_word.mp3"
   },
   {
     "russian": "призыва́ть",
-    "english": "call"
+    "english": "call",
+    "audio": "media/audio_824_word.mp3"
   },
   {
     "russian": "дыми́ться",
-    "english": "smoke"
+    "english": "smoke",
+    "audio": "media/audio_261_word.mp3"
   },
   {
     "russian": "поздоро́ваться",
-    "english": "to greet"
+    "english": "to greet",
+    "audio": "media/audio_1339_word.mp3"
   },
   {
     "russian": "обнима́ть",
-    "english": "hug"
+    "english": "hug",
+    "audio": "media/audio_527_word.mp3"
   },
   {
     "russian": "угоди́ть",
-    "english": "please"
+    "english": "please",
+    "audio": "media/audio_576_word.mp3"
   },
   {
     "russian": "ката́ться",
-    "english": "ride"
+    "english": "ride",
+    "audio": "media/audio_901_word.mp3"
   },
   {
     "russian": "вы́разиться",
-    "english": "become apparent"
+    "english": "become apparent",
+    "audio": "media/audio_1206_word.mp3"
   },
   {
     "russian": "натяну́ть",
-    "english": "stretch"
+    "english": "stretch",
+    "audio": "media/audio_1184.mp3"
   },
   {
     "russian": "лиши́ть",
-    "english": "deprive"
+    "english": "deprive",
+    "audio": "media/audio_1283_word.mp3"
   },
   {
     "russian": "уде́рживать",
-    "english": "hold"
+    "english": "hold",
+    "audio": "media/audio_1363_word.mp3"
   },
   {
     "russian": "привыка́ть",
-    "english": "to get accustomed to something"
+    "english": "to get accustomed to something",
+    "audio": "media/audio_622_word.mp3"
   },
   {
     "russian": "потряса́ть",
-    "english": "shock"
+    "english": "shock",
+    "audio": "media/audio_1160_word.mp3"
   },
   {
     "russian": "рвану́ться",
-    "english": "dart"
+    "english": "dart",
+    "audio": "media/audio_142_word.mp3"
   },
   {
     "russian": "воспи́тывать",
-    "english": "educate"
+    "english": "educate",
+    "audio": "media/audio_839_word.mp3"
   },
   {
     "russian": "съе́здить",
-    "english": "go (in a vehicle)"
+    "english": "go (in a vehicle)",
+    "audio": "media/audio_235_word.mp3"
   },
   {
     "russian": "свали́ть",
-    "english": "dump"
+    "english": "dump",
+    "audio": "media/audio_174_word.mp3"
   },
   {
     "russian": "застря́ть",
-    "english": "to be stuck"
+    "english": "to be stuck",
+    "audio": "media/audio_1360_word.mp3"
   },
   {
     "russian": "обходи́ться",
-    "english": "to do without"
+    "english": "to do without",
+    "audio": "media/audio_578.mp3"
   },
   {
     "russian": "скользи́ть",
-    "english": "slide"
+    "english": "slide",
+    "audio": "media/audio_375.mp3"
   },
   {
     "russian": "пробира́ться",
-    "english": "make one's way"
+    "english": "make one's way",
+    "audio": "media/audio_871.mp3"
   },
   {
     "russian": "верте́ться",
-    "english": "spin"
+    "english": "spin",
+    "audio": "media/audio_949.mp3"
   },
   {
     "russian": "кипе́ть",
-    "english": "boil"
+    "english": "boil",
+    "audio": "media/audio_36.mp3"
   },
   {
     "russian": "поручи́ть",
-    "english": "charge"
+    "english": "charge",
+    "audio": "media/audio_819.mp3"
   },
   {
     "russian": "убежда́ть",
-    "english": "convince"
+    "english": "convince",
+    "audio": "media/audio_999.mp3"
   },
   {
     "russian": "зли́ться",
-    "english": "be angry"
+    "english": "be angry",
+    "audio": "media/audio_151.mp3"
   },
   {
     "russian": "уступи́ть",
-    "english": "yield"
+    "english": "yield",
+    "audio": "media/audio_164.mp3"
   },
   {
     "russian": "избегать",
-    "english": "to avoid"
+    "english": "to avoid",
+    "audio": "media/audio_1217.mp3"
   },
   {
     "russian": "тро́нуться",
-    "english": "start moving"
+    "english": "start moving",
+    "audio": "media/audio_1011.mp3"
   },
   {
     "russian": "твори́ться",
-    "english": "to happen"
+    "english": "to happen",
+    "audio": "media/audio_405.mp3"
   },
   {
     "russian": "пригоди́ться",
-    "english": "come in handy"
+    "english": "come in handy",
+    "audio": "media/audio_657.mp3"
   },
   {
     "russian": "сопротивля́ться",
-    "english": "resist"
+    "english": "resist",
+    "audio": "media/audio_105.mp3"
   },
   {
     "russian": "скака́ть",
-    "english": "skip"
+    "english": "skip",
+    "audio": "media/audio_1355.mp3"
   },
   {
     "russian": "проглоти́ть",
-    "english": "swallow"
+    "english": "swallow",
+    "audio": "media/audio_1062.mp3"
   },
   {
     "russian": "осма́тривать",
-    "english": "inspect"
+    "english": "inspect",
+    "audio": "media/audio_591.mp3"
   },
   {
     "russian": "запусти́ть",
-    "english": "launch (a rocket)"
+    "english": "launch (a rocket)",
+    "audio": "media/audio_637.mp3"
   },
   {
     "russian": "подели́ться",
-    "english": "Share"
+    "english": "Share",
+    "audio": "media/audio_892.mp3"
   },
   {
     "russian": "вести́сь",
-    "english": "be conducted"
+    "english": "be conducted",
+    "audio": "media/audio_705.mp3"
   },
   {
     "russian": "прорва́ться",
-    "english": "break through"
+    "english": "break through",
+    "audio": "media/audio_560_word.mp3"
   },
   {
     "russian": "отстава́ть",
-    "english": "to get left behind"
+    "english": "to get left behind",
+    "audio": "media/audio_272_word.mp3"
   },
   {
     "russian": "отмеча́ться",
-    "english": "celebrated"
+    "english": "celebrated",
+    "audio": "media/audio_1307_word.mp3"
   },
   {
     "russian": "проника́ть",
-    "english": "penetrate"
+    "english": "penetrate",
+    "audio": "media/audio_552_word.mp3"
   },
   {
     "russian": "погрузи́ть",
-    "english": "load"
+    "english": "load",
+    "audio": "media/audio_1074_word.mp3"
   },
   {
     "russian": "употребля́ть",
-    "english": "use"
+    "english": "use",
+    "audio": "media/audio_470_word.mp3"
   },
   {
     "russian": "вскрича́ть",
-    "english": "cry"
+    "english": "cry",
+    "audio": "media/audio_1014_word.mp3"
   },
   {
     "russian": "вы́сунуться",
-    "english": "pop out"
+    "english": "pop out",
+    "audio": "media/audio_1130_word.mp3"
   },
   {
     "russian": "наткну́ться",
-    "english": "stumble"
+    "english": "stumble",
+    "audio": "media/audio_692_word.mp3"
   },
   {
     "russian": "треща́ть",
-    "english": "crack"
+    "english": "crack",
+    "audio": "media/audio_290_word.mp3"
   },
   {
     "russian": "мыть",
-    "english": "wash"
+    "english": "wash",
+    "audio": "media/audio_620_word.mp3"
   },
   {
     "russian": "смути́ться",
-    "english": "become confused"
+    "english": "become confused",
+    "audio": "media/audio_91_word.mp3"
   },
   {
     "russian": "печа́тать",
-    "english": "to print"
+    "english": "to print",
+    "audio": "media/audio_805_word.mp3"
   },
   {
     "russian": "демонстри́ровать",
-    "english": "show"
+    "english": "show",
+    "audio": "media/audio_1340_word.mp3"
   },
   {
     "russian": "оправда́ть",
-    "english": "acquit"
+    "english": "acquit",
+    "audio": "media/audio_472_word.mp3"
   },
   {
     "russian": "прихвати́ть",
-    "english": "grab (along)"
+    "english": "grab (along)",
+    "audio": "media/audio_182_word.mp3"
   },
   {
     "russian": "распространи́ть",
-    "english": "spread"
+    "english": "spread",
+    "audio": "media/audio_1210_word.mp3"
   },
   {
     "russian": "разбира́ть",
-    "english": "to take something apart"
+    "english": "to take something apart",
+    "audio": "media/audio_288_word.mp3"
   },
   {
     "russian": "перегляну́ться",
-    "english": "exchange glances"
+    "english": "exchange glances",
+    "audio": "media/audio_1113_word.mp3"
   },
   {
     "russian": "протека́ть",
-    "english": "flow"
+    "english": "flow",
+    "audio": "media/audio_1072_word.mp3"
   },
   {
     "russian": "объедини́ть",
-    "english": "to unite or combine something"
+    "english": "to unite or combine something",
+    "audio": "media/audio_1008_word.mp3"
   },
   {
     "russian": "убира́ть",
-    "english": "clean up"
+    "english": "clean up",
+    "audio": "media/audio_708_word.mp3"
   },
   {
     "russian": "расстава́ться",
-    "english": "to part with someone"
+    "english": "to part with someone",
+    "audio": "media/audio_1090_word.mp3"
   },
   {
     "russian": "прибежа́ть",
-    "english": "come running"
+    "english": "come running",
+    "audio": "media/audio_1140_word.mp3"
   },
   {
     "russian": "просиде́ть",
-    "english": "sit (up for some time"
+    "english": "sit (up for some time",
+    "audio": "media/audio_1275_word.mp3"
   },
   {
     "russian": "твори́ть",
-    "english": "create"
+    "english": "create",
+    "audio": "media/audio_762.mp3"
   },
   {
     "russian": "мерца́ть",
-    "english": "flicker"
+    "english": "flicker",
+    "audio": "media/audio_414_word.mp3"
   },
   {
     "russian": "загна́ть",
-    "english": "drive"
+    "english": "drive",
+    "audio": "media/audio_1099_word.mp3"
   },
   {
     "russian": "подчёркивать",
-    "english": "to underline"
+    "english": "to underline",
+    "audio": "media/audio_917.mp3"
   },
   {
     "russian": "напа́сть",
-    "english": "attack"
+    "english": "attack",
+    "audio": "media/audio_448_word.mp3"
   },
   {
     "russian": "нагну́ться",
-    "english": "stoop"
+    "english": "stoop",
+    "audio": "media/audio_907_word.mp3"
   },
   {
     "russian": "предназна́чить",
-    "english": "intend"
+    "english": "intend",
+    "audio": "media/audio_344_word.mp3"
   },
   {
     "russian": "дружи́ть",
-    "english": "be friends"
+    "english": "be friends",
+    "audio": "media/audio_21.mp3"
   },
   {
     "russian": "распоряди́ться",
-    "english": "dispose"
+    "english": "dispose",
+    "audio": "media/audio_765_word.mp3"
   },
   {
     "russian": "цепля́ться",
-    "english": "cling"
+    "english": "cling",
+    "audio": "media/audio_1134.mp3"
   },
   {
     "russian": "увели́чиваться",
-    "english": "increase"
+    "english": "increase",
+    "audio": "media/audio_248_word.mp3"
   },
   {
     "russian": "вы́думать",
-    "english": "invent"
+    "english": "invent",
+    "audio": "media/audio_301_word.mp3"
   },
   {
     "russian": "отправля́ть",
-    "english": "send"
+    "english": "send",
+    "audio": "media/audio_106_word.mp3"
   },
   {
     "russian": "ворва́ться",
-    "english": "rush"
+    "english": "rush",
+    "audio": "media/audio_59_word.mp3"
   },
   {
     "russian": "выпива́ть",
-    "english": "to drink (also to drink alcohol)"
+    "english": "to drink (also to drink alcohol)",
+    "audio": "media/audio_590_word.mp3"
   },
   {
     "russian": "по́лзать",
-    "english": "creep"
+    "english": "creep",
+    "audio": "media/audio_793_word.mp3"
   },
   {
     "russian": "вы́тянуться",
-    "english": "stretch"
+    "english": "stretch",
+    "audio": "media/audio_802_word.mp3"
   },
   {
     "russian": "посеща́ть",
-    "english": "to visit"
+    "english": "to visit",
+    "audio": "media/audio_1218_word.mp3"
   },
   {
     "russian": "отодви́нуть",
-    "english": "to push"
+    "english": "to push",
+    "audio": "media/audio_562_word.mp3"
   },
   {
     "russian": "раздави́ть",
-    "english": "crush"
+    "english": "crush",
+    "audio": "media/audio_671_word.mp3"
   },
   {
     "russian": "объявля́ть",
-    "english": "declare"
+    "english": "declare",
+    "audio": "media/audio_251_word.mp3"
   },
   {
     "russian": "разрабо́тать",
-    "english": "work out"
+    "english": "work out",
+    "audio": "media/audio_1042_word.mp3"
   },
   {
     "russian": "рассыпаться",
-    "english": "spill"
+    "english": "spill",
+    "audio": "media/audio_889_word.mp3"
   },
   {
     "russian": "удаля́ться",
-    "english": "retire"
+    "english": "retire",
+    "audio": "media/audio_495_word.mp3"
   },
   {
     "russian": "ворча́ть",
-    "english": "grumble"
+    "english": "grumble",
+    "audio": "media/audio_1266_word.mp3"
   },
   {
     "russian": "отки́нуть",
-    "english": "throw back"
+    "english": "throw back",
+    "audio": "media/audio_325_word.mp3"
   },
   {
     "russian": "распахну́ться",
-    "english": "burst open"
+    "english": "burst open",
+    "audio": "media/audio_143_word.mp3"
   },
   {
     "russian": "по́мниться",
-    "english": "remember (mostly used as a lead-in)"
+    "english": "remember (mostly used as a lead-in)",
+    "audio": "media/audio_1385.mp3"
   },
   {
     "russian": "поража́ть",
-    "english": "hit"
+    "english": "hit",
+    "audio": "media/audio_1208_word.mp3"
   },
   {
     "russian": "наста́ть",
-    "english": "come"
+    "english": "come",
+    "audio": "media/audio_529_word.mp3"
   },
   {
     "russian": "посети́ть",
-    "english": "to visit"
+    "english": "to visit",
+    "audio": "media/audio_498_word.mp3"
   },
   {
     "russian": "буди́ть",
-    "english": "wake"
+    "english": "wake",
+    "audio": "media/audio_1065_word.mp3"
   },
   {
     "russian": "прика́зывать",
-    "english": "to tell someone to do something"
+    "english": "to tell someone to do something",
+    "audio": "media/audio_410_word.mp3"
   },
   {
     "russian": "увели́чить",
-    "english": "increase"
+    "english": "increase",
+    "audio": "media/audio_347_word.mp3"
   },
   {
     "russian": "а́хнуть",
-    "english": "gasp"
+    "english": "gasp",
+    "audio": "media/audio_739_word.mp3"
   },
   {
     "russian": "растеря́ть",
-    "english": "lose"
+    "english": "lose",
+    "audio": "media/audio_388_word.mp3"
   },
   {
     "russian": "навести́ть",
-    "english": "visit"
+    "english": "visit",
+    "audio": "media/audio_391_word.mp3"
   },
   {
     "russian": "вообража́ть",
-    "english": "imagine"
+    "english": "imagine",
+    "audio": "media/audio_462_word.mp3"
   },
   {
     "russian": "вска́кивать",
-    "english": "jump (up)"
+    "english": "jump (up)",
+    "audio": "media/audio_583_word.mp3"
   },
   {
     "russian": "вынима́ть",
-    "english": "take"
+    "english": "take",
+    "audio": "media/audio_615_word.mp3"
   },
   {
     "russian": "пересе́чь",
-    "english": "cross"
+    "english": "cross",
+    "audio": "media/audio_118_word.mp3"
   },
   {
     "russian": "вскри́кнуть",
-    "english": "cry out"
+    "english": "cry out",
+    "audio": "media/audio_1314_word.mp3"
   },
   {
     "russian": "стро́иться",
-    "english": "to be built"
+    "english": "to be built",
+    "audio": "media/audio_956_word.mp3"
   },
   {
     "russian": "опо́мниться",
-    "english": "regain consciousness"
+    "english": "regain consciousness",
+    "audio": "media/audio_214_word.mp3"
   },
   {
     "russian": "ты́кать",
-    "english": "poke"
+    "english": "poke",
+    "audio": "media/audio_1207_word.mp3"
   },
   {
     "russian": "перебива́ть",
-    "english": "interrupt"
+    "english": "interrupt",
+    "audio": "media/audio_499_word.mp3"
   },
   {
     "russian": "попроща́ться",
-    "english": "say goodbye"
+    "english": "say goodbye",
+    "audio": "media/audio_962_word.mp3"
   },
   {
     "russian": "отмени́ть",
-    "english": "cancel"
+    "english": "cancel",
+    "audio": "media/audio_506_word.mp3"
   },
   {
     "russian": "подавля́ть",
-    "english": "suppress"
+    "english": "suppress",
+    "audio": "media/audio_910_word.mp3"
   },
   {
     "russian": "вы́слать",
-    "english": "send"
+    "english": "send",
+    "audio": "media/audio_1063_word.mp3"
   },
   {
     "russian": "дежу́рить",
-    "english": "watch"
+    "english": "watch",
+    "audio": "media/audio_1181_word.mp3"
   },
   {
     "russian": "укра́сить",
-    "english": "Decorate"
+    "english": "Decorate",
+    "audio": "media/audio_425_word.mp3"
   },
   {
     "russian": "помча́ться",
-    "english": "to hurry"
+    "english": "to hurry",
+    "audio": "media/audio_511_word.mp3"
   },
   {
     "russian": "разыска́ть",
-    "english": "to search"
+    "english": "to search",
+    "audio": "media/audio_749_word.mp3"
   },
   {
     "russian": "хорони́ть",
-    "english": "bury"
+    "english": "bury",
+    "audio": "media/audio_1287_word.mp3"
   },
   {
     "russian": "доставля́ть",
-    "english": "deliver"
+    "english": "deliver",
+    "audio": "media/audio_1012_word.mp3"
   },
   {
     "russian": "вы́прямиться",
-    "english": "straighten up"
+    "english": "straighten up",
+    "audio": "media/audio_1111_word.mp3"
   },
   {
     "russian": "прида́ть",
-    "english": "give"
+    "english": "give",
+    "audio": "media/audio_258_word.mp3"
   },
   {
     "russian": "поздравля́ть",
-    "english": "congratulate"
+    "english": "congratulate",
+    "audio": "media/audio_157_word.mp3"
   },
   {
     "russian": "помаха́ть",
-    "english": "wave"
+    "english": "wave",
+    "audio": "media/audio_914_word.mp3"
   },
   {
     "russian": "вы́бежать",
-    "english": "run out (of somewhere)"
+    "english": "run out (of somewhere)",
+    "audio": "media/audio_1270_word.mp3"
   },
   {
     "russian": "поддава́ться",
-    "english": "yield to"
+    "english": "yield to",
+    "audio": "media/audio_751_word.mp3"
   },
   {
     "russian": "вски́нуть",
-    "english": "throw up"
+    "english": "throw up",
+    "audio": "media/audio_862_word.mp3"
   },
   {
     "russian": "утону́ть",
-    "english": "sink"
+    "english": "sink",
+    "audio": "media/audio_939_word.mp3"
   },
   {
     "russian": "уничтожа́ть",
-    "english": "destroy"
+    "english": "destroy",
+    "audio": "media/audio_520_word.mp3"
   },
   {
     "russian": "вы́хватить",
-    "english": "whip out"
+    "english": "whip out",
+    "audio": "media/audio_158_word.mp3"
   },
   {
     "russian": "влюби́ться",
-    "english": "fall in love"
+    "english": "fall in love",
+    "audio": "media/audio_37_word.mp3"
   },
   {
     "russian": "норови́ть",
-    "english": "to aim"
+    "english": "to aim",
+    "audio": "media/audio_561_word.mp3"
   },
   {
     "russian": "содержа́ться",
-    "english": "contain"
+    "english": "contain",
+    "audio": "media/audio_927_word.mp3"
   },
   {
     "russian": "отрыва́ться",
-    "english": "come off (ie. a button)"
+    "english": "come off (ie. a button)",
+    "audio": "media/audio_1318_word.mp3"
   },
   {
     "russian": "перебра́ться",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_144_word.mp3"
   },
   {
     "russian": "создава́ться",
-    "english": "form"
+    "english": "form",
+    "audio": "media/audio_1021_word.mp3"
   },
   {
     "russian": "огля́дывать",
-    "english": "look over"
+    "english": "look over",
+    "audio": "media/audio_982_word.mp3"
   },
   {
     "russian": "вить",
-    "english": "twist"
+    "english": "twist",
+    "audio": "media/audio_4_word.mp3"
   },
   {
     "russian": "сосла́ться",
-    "english": "refer to"
+    "english": "refer to",
+    "audio": "media/audio_206_word.mp3"
   },
   {
     "russian": "добыва́ть",
-    "english": "mine"
+    "english": "mine",
+    "audio": "media/audio_1066_word.mp3"
   },
   {
     "russian": "зака́нчиваться",
-    "english": "to come to an end"
+    "english": "to come to an end",
+    "audio": "media/audio_149_word.mp3"
   },
   {
     "russian": "шевели́ть",
-    "english": "move"
+    "english": "move",
+    "audio": "media/audio_584_word.mp3"
   },
   {
     "russian": "связа́ться",
-    "english": "contact"
+    "english": "contact",
+    "audio": "media/audio_714_word.mp3"
   },
   {
     "russian": "завяза́ть",
-    "english": "tie"
+    "english": "tie",
+    "audio": "media/audio_548_word.mp3"
   },
   {
     "russian": "разложи́ть",
-    "english": "spread out"
+    "english": "spread out",
+    "audio": "media/audio_893.mp3"
   },
   {
     "russian": "отрыва́ть",
-    "english": "tear off"
+    "english": "tear off",
+    "audio": "media/audio_1112_word.mp3"
   }
 ]
